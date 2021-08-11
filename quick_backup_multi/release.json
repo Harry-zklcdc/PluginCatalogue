@@ -1,7 +1,7 @@
 {
   "id": "quick_backup_multi",
   "latest_version": "1.1.3",
-  "etag": "\"9a180a31d932952594f0de4e8397bb5a310cc8d3b75c64a914c0cc44dc6e67a4\"",
+  "etag": "W/\"5bbad8ab18139baacc70e81cee4d86f26bc177acc7add1be2a2183b391c30972\"",
   "releases": [
     {
       "url": "https://github.com/TISUnion/QuickBackupM/releases/tag/v1.1.3",
@@ -19,7 +19,7 @@
         {
           "name": "QuickBackupM_zh_cn.py",
           "size": 19263,
-          "download_count": 361,
+          "download_count": 362,
           "created_at": "2021-02-23T00:19:39Z",
           "url": "https://api.github.com/repos/TISUnion/QuickBackupM/releases/assets/32448736"
         }
@@ -36,7 +36,7 @@
         {
           "name": "QuickBackupM_en.py",
           "size": 19102,
-          "download_count": 26,
+          "download_count": 27,
           "created_at": "2021-01-18T17:38:56Z",
           "url": "https://api.github.com/repos/TISUnion/QuickBackupM/releases/assets/30866924"
         },
@@ -148,6 +148,23 @@
       ],
       "description": "- add `!!qb del` to delete a slot\r\n- turn off autosave when backup\r\n\r\n**the last release that supports MCD 1.0**",
       "parsed_version": "20200411"
+    },
+    {
+      "url": "https://github.com/TISUnion/QuickBackupM/releases/tag/20200407-2",
+      "name": "20200407-2",
+      "tag_name": "20200407-2",
+      "created_at": "2020-04-07T12:22:09Z",
+      "assets": [
+        {
+          "name": "QuickBackupM.py",
+          "size": 9774,
+          "download_count": 35,
+          "created_at": "2020-04-07T12:23:07Z",
+          "url": "https://api.github.com/repos/TISUnion/QuickBackupM/releases/assets/19482014"
+        }
+      ],
+      "description": "compatible with MCDaemon or MCDReforged (>=0.6.1-alpha)\r\n\r\nadd help message for MCDR",
+      "parsed_version": "20200407-2"
     },
     {
       "url": "https://github.com/TISUnion/QuickBackupM/releases/tag/20200407",
