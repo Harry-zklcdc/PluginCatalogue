@@ -4,11 +4,9 @@
   "version": "1.4.0",
   "repository": "https://github.com/MCDReforged/MinecraftDataAPI",
   "labels": [
-    "API"
+    "api"
   ],
-  "authors": [
-    "Fallen_Breath"
-  ],
+  "authors": [],
   "dependencies": {
     "mcdreforged": ">=2.0.0-alpha.4"
   },
