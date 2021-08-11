@@ -6,7 +6,9 @@
   "labels": [
     "api"
   ],
-  "authors": [],
+  "authors": [
+    "Fallen_Breath"
+  ],
   "dependencies": {
     "mcdreforged": ">=2.0.0-alpha.4"
   },
