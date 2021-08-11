@@ -1,0 +1,43 @@
+{
+  "plugin_amount": 2,
+  "plugins": {
+    "minecraft_data_api": {
+      "id": "minecraft_data_api",
+      "name": "Minecraft Data API",
+      "version": "1.4.0",
+      "repository": "https://github.com/MCDReforged/MinecraftDataAPI",
+      "labels": [
+        "API"
+      ],
+      "authors": [
+        "Fallen_Breath"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0-alpha.4"
+      },
+      "requirements": [
+        "mcdreforged>=2.0.0a4",
+        "hjson",
+        "parse"
+      ]
+    },
+    "quick_backup_multi": {
+      "id": "quick_backup_multi",
+      "name": "QuickBackupM",
+      "version": "1.2.0",
+      "repository": "https://github.com/TISUnion/QuickBackupM",
+      "labels": [
+        "Management"
+      ],
+      "authors": [
+        "Fallen_Breath"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0-alpha.4"
+      },
+      "requirements": [
+        "mcdreforged>=2.0.0a4"
+      ]
+    }
+  }
+}

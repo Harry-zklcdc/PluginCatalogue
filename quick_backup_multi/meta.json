@@ -1,0 +1,18 @@
+{
+  "id": "quick_backup_multi",
+  "name": "QuickBackupM",
+  "version": "1.2.0",
+  "repository": "https://github.com/TISUnion/QuickBackupM",
+  "labels": [
+    "Management"
+  ],
+  "authors": [
+    "Fallen_Breath"
+  ],
+  "dependencies": {
+    "mcdreforged": ">=2.0.0-alpha.4"
+  },
+  "requirements": [
+    "mcdreforged>=2.0.0a4"
+  ]
+}

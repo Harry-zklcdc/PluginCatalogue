@@ -1,0 +1,170 @@
+{
+  "id": "quick_backup_multi",
+  "latest_version": "1.1.3",
+  "etag": "\"9a180a31d932952594f0de4e8397bb5a310cc8d3b75c64a914c0cc44dc6e67a4\"",
+  "releases": [
+    {
+      "url": "https://github.com/TISUnion/QuickBackupM/releases/tag/v1.1.3",
+      "name": "QuickBackupM v1.1.3",
+      "tag_name": "v1.1.3",
+      "created_at": "2021-02-23T00:16:00Z",
+      "assets": [
+        {
+          "name": "QuickBackupM_en.py",
+          "size": 19253,
+          "download_count": 49,
+          "created_at": "2021-02-23T00:19:17Z",
+          "url": "https://api.github.com/repos/TISUnion/QuickBackupM/releases/assets/32448714"
+        },
+        {
+          "name": "QuickBackupM_zh_cn.py",
+          "size": 19263,
+          "download_count": 361,
+          "created_at": "2021-02-23T00:19:39Z",
+          "url": "https://api.github.com/repos/TISUnion/QuickBackupM/releases/assets/32448736"
+        }
+      ],
+      "description": "- rtext name display in metadata\r\n- mc1.12 support\r\n- fixed some english ver bugs",
+      "parsed_version": "1.1.3"
+    },
+    {
+      "url": "https://github.com/TISUnion/QuickBackupM/releases/tag/v1.1.0",
+      "name": "QuickBackupM v1.1.0",
+      "tag_name": "v1.1.0",
+      "created_at": "2021-01-18T12:37:48Z",
+      "assets": [
+        {
+          "name": "QuickBackupM_en.py",
+          "size": 19102,
+          "download_count": 26,
+          "created_at": "2021-01-18T17:38:56Z",
+          "url": "https://api.github.com/repos/TISUnion/QuickBackupM/releases/assets/30866924"
+        },
+        {
+          "name": "QuickBackupM_zh_cn.py",
+          "size": 19178,
+          "download_count": 139,
+          "created_at": "2021-01-18T17:38:40Z",
+          "url": "https://api.github.com/repos/TISUnion/QuickBackupM/releases/assets/30866919"
+        }
+      ],
+      "description": "- MCDR v1.0+ support\r\n- Added QBM events",
+      "parsed_version": "1.1.0"
+    },
+    {
+      "url": "https://github.com/TISUnion/QuickBackupM/releases/tag/v20201220",
+      "name": "QuickBackupM v20201220",
+      "tag_name": "v20201220",
+      "created_at": "2020-12-20T13:00:18Z",
+      "assets": [
+        {
+          "name": "QuickBackupM.py",
+          "size": 17074,
+          "download_count": 70,
+          "created_at": "2020-12-29T04:26:16Z",
+          "url": "https://api.github.com/repos/TISUnion/QuickBackupM/releases/assets/30064088"
+        },
+        {
+          "name": "QuickBackupM_en.py",
+          "size": 17090,
+          "download_count": 11,
+          "created_at": "2020-12-29T04:28:39Z",
+          "url": "https://api.github.com/repos/TISUnion/QuickBackupM/releases/assets/30064117"
+        }
+      ],
+      "description": "- Uses config file to store settings\r\n- Slot delete protection supports\r\n- Idiot proof for like restoring backup when crerating backup",
+      "parsed_version": "20201220"
+    },
+    {
+      "url": "https://github.com/TISUnion/QuickBackupM/releases/tag/v20200817",
+      "name": "QuickBackupM v20200817",
+      "tag_name": "v20200817",
+      "created_at": "2020-08-17T14:31:38Z",
+      "assets": [
+        {
+          "name": "QuickBackupM.py",
+          "size": 13508,
+          "download_count": 151,
+          "created_at": "2020-08-17T14:32:40Z",
+          "url": "https://api.github.com/repos/TISUnion/QuickBackupM/releases/assets/24009943"
+        },
+        {
+          "name": "QuickBackupM_en.py",
+          "size": 13550,
+          "download_count": 34,
+          "created_at": "2020-08-17T14:32:41Z",
+          "url": "https://api.github.com/repos/TISUnion/QuickBackupM/releases/assets/24009945"
+        }
+      ],
+      "description": "- smart slot adjustment when creating backup\r\n- use `save-all flush` instead of simply `save-all` for better stability\r\n- display each backup world size in `!!qb list`\r\n- yeet `!!qb del` without specific slot\r\n- fixed compatibility problem with soft link",
+      "parsed_version": "20200817"
+    },
+    {
+      "url": "https://github.com/TISUnion/QuickBackupM/releases/tag/20200510",
+      "name": "20200510",
+      "tag_name": "20200510",
+      "created_at": "2020-05-10T03:44:40Z",
+      "assets": [],
+      "description": "fix necessary message not being boardcasted bug\r\n\r\n**use the lastest commit for permission check bug fix**",
+      "parsed_version": "20200510"
+    },
+    {
+      "url": "https://github.com/TISUnion/QuickBackupM/releases/tag/20200506",
+      "name": "20200506",
+      "tag_name": "20200506",
+      "created_at": "2020-05-05T17:17:35Z",
+      "assets": [
+        {
+          "name": "QuickBackupM.py",
+          "size": 12515,
+          "download_count": 65,
+          "created_at": "2020-05-05T17:23:06Z",
+          "url": "https://api.github.com/repos/TISUnion/QuickBackupM/releases/assets/20442670"
+        },
+        {
+          "name": "QuickBackupM_en.py",
+          "size": 12609,
+          "download_count": 25,
+          "created_at": "2020-05-05T17:23:08Z",
+          "url": "https://api.github.com/repos/TISUnion/QuickBackupM/releases/assets/20442672"
+        }
+      ],
+      "description": "- use `Lock` instead of `bool` to avoid spam\r\n- add plugin_unloaded check incase the world is saving and the plugin gets unloaded\r\n- added `IgnoreSessionLock` option to solve the back up failure problem caused by `session.lock` being occupied by the server\r\n- display backup folder total size in `!!qb list`\r\n- RText supports, much more user friendly. try type `!!qb`\r\n\r\nMCDR `0.8.2-alpha`+ is needed",
+      "parsed_version": "20200506"
+    },
+    {
+      "url": "https://github.com/TISUnion/QuickBackupM/releases/tag/20200411",
+      "name": "20200411",
+      "tag_name": "20200411",
+      "created_at": "2020-04-11T03:01:39Z",
+      "assets": [
+        {
+          "name": "QuickBackupM.py",
+          "size": 10460,
+          "download_count": 105,
+          "created_at": "2020-04-11T02:59:43Z",
+          "url": "https://api.github.com/repos/TISUnion/QuickBackupM/releases/assets/19663652"
+        }
+      ],
+      "description": "- add `!!qb del` to delete a slot\r\n- turn off autosave when backup\r\n\r\n**the last release that supports MCD 1.0**",
+      "parsed_version": "20200411"
+    },
+    {
+      "url": "https://github.com/TISUnion/QuickBackupM/releases/tag/20200407",
+      "name": "20200407",
+      "tag_name": "20200407",
+      "created_at": "2020-04-06T17:34:41Z",
+      "assets": [
+        {
+          "name": "QuickBackupM.py",
+          "size": 9663,
+          "download_count": 18,
+          "created_at": "2020-04-06T17:35:10Z",
+          "url": "https://api.github.com/repos/TISUnion/QuickBackupM/releases/assets/19443445"
+        }
+      ],
+      "description": "supports MCDaemon and MCDReforged 0.5.0-alpha+",
+      "parsed_version": "20200407"
+    }
+  ]
+}
