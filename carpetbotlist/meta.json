@@ -1,0 +1,17 @@
+{
+  "id": "carpetbotlist",
+  "name": "CarpetBotList",
+  "version": "2.0.0",
+  "repository": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList",
+  "labels": [
+    "tool"
+  ],
+  "authors": [
+    "ZeroKelvin"
+  ],
+  "dependencies": {
+    "mcdreforged": "~2.0.0-beta.1",
+    "minecraft_data_api": "*"
+  },
+  "requirements": []
+}
