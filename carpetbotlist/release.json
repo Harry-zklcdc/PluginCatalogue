@@ -1,6 +1,24 @@
 {
   "id": "carpetbotlist",
-  "latest_version": "N/A",
-  "etag": "\"1db6a3a21548bf6e068a9a9337e4151e9d1135718e089e7e62dc0509406337bf\"",
-  "releases": []
+  "latest_version": "2.0.0",
+  "etag": "W/\"e019e27620a2a777f7405e106dc9807e98c79f1a7c621ade2f25f08f37747022\"",
+  "releases": [
+    {
+      "url": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/tag/2.0.0",
+      "name": "CarpetBotList-2.0.0 for MCDR-2.x",
+      "tag_name": "2.0.0",
+      "created_at": "2021-08-11T06:26:56Z",
+      "assets": [
+        {
+          "name": "CarpetBotList-v2.0.0.mcdr",
+          "size": 3667,
+          "download_count": 0,
+          "created_at": "2021-08-12T00:46:02Z",
+          "url": "https://api.github.com/repos/BelowZeroKelvin/MCDR-CarpetBotList/releases/assets/42251448"
+        }
+      ],
+      "description": "",
+      "parsed_version": "2.0.0"
+    }
+  ]
 }
