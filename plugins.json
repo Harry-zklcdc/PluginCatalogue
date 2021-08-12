@@ -1,5 +1,5 @@
 {
-  "plugin_amount": 3,
+  "plugin_amount": 4,
   "plugins": {
     "carpetbotlist": {
       "id": "carpetbotlist",
@@ -15,6 +15,22 @@
       "dependencies": {
         "mcdreforged": "~2.0.0-beta.1",
         "minecraft_data_api": "*"
+      },
+      "requirements": []
+    },
+    "chatbridgereforged_client_mc": {
+      "id": "chatbridgereforged_client_mc",
+      "name": "ChatBridgeReforged",
+      "version": "0.0.1-Alpha-006-pre5-2.0-test",
+      "repository": "https://github.com/rickyhoho/ChatBridgeReforged",
+      "labels": [
+        "tool"
+      ],
+      "authors": [
+        "Ricky"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0-alpha4"
       },
       "requirements": []
     },
