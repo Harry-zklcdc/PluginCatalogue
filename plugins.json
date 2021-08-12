@@ -52,21 +52,22 @@
         "Fallen_Breath"
       ],
       "dependencies": {
-        "mcdreforged": ">=2.0.0-alpha.4"
+        "mcdreforged": ">=2.0.0-beta.3"
       },
       "requirements": [
-        "mcdreforged>=2.0.0a4",
+        "mcdreforged>=2.0.0b3",
         "hjson",
         "parse"
       ],
       "description": {
-        "en_us": "A MCDReforged api plugin to get player data information and more"
+        "en_us": "A MCDReforged api plugin to get player data information and more",
+        "zh_cn": "一个用获得玩家信息等数据的的 API"
       }
     },
     "quick_backup_multi": {
       "id": "quick_backup_multi",
       "name": "QuickBackupM",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "repository": "https://github.com/TISUnion/QuickBackupM",
       "labels": [
         "management"
@@ -75,13 +76,14 @@
         "Fallen_Breath"
       ],
       "dependencies": {
-        "mcdreforged": ">=2.0.0-alpha.4"
+        "mcdreforged": ">=2.0.0-beta.3"
       },
       "requirements": [
-        "mcdreforged>=2.0.0a4"
+        "mcdreforged>=2.0.0b3"
       ],
       "description": {
-        "en_us": "A backup and restore backup plugin, with multiple backup slots"
+        "en_us": "A backup / restore plugin, with multiple backup slot",
+        "zh_cn": "多槽位备份/回档插件"
       }
     }
   }
