@@ -12,5 +12,8 @@
   "dependencies": {
     "mcdreforged": ">=2.0.0-alpha4"
   },
-  "requirements": []
+  "requirements": [],
+  "description": {
+    "en_us": "Reforged of ChatBridge, Client for normal mc server."
+  }
 }

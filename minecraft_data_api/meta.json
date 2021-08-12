@@ -16,5 +16,8 @@
     "mcdreforged>=2.0.0a4",
     "hjson",
     "parse"
-  ]
+  ],
+  "description": {
+    "en_us": "A MCDReforged api plugin to get player data information and more"
+  }
 }

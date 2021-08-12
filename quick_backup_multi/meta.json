@@ -14,5 +14,8 @@
   },
   "requirements": [
     "mcdreforged>=2.0.0a4"
-  ]
+  ],
+  "description": {
+    "en_us": "A backup and restore backup plugin, with multiple backup slots"
+  }
 }

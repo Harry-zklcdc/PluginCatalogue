@@ -13,10 +13,13 @@
         "ZeroKelvin"
       ],
       "dependencies": {
-        "mcdreforged": "~2.0.0-beta.1",
+        "mcdreforged": "^2.0.0-beta.1",
         "minecraft_data_api": "*"
       },
-      "requirements": []
+      "requirements": [],
+      "description": {
+        "en_us": "Help you manage your carpet fake player"
+      }
     },
     "chatbridgereforged_client_mc": {
       "id": "chatbridgereforged_client_mc",
@@ -32,7 +35,10 @@
       "dependencies": {
         "mcdreforged": ">=2.0.0-alpha4"
       },
-      "requirements": []
+      "requirements": [],
+      "description": {
+        "en_us": "Reforged of ChatBridge, Client for normal mc server."
+      }
     },
     "minecraft_data_api": {
       "id": "minecraft_data_api",
@@ -52,7 +58,10 @@
         "mcdreforged>=2.0.0a4",
         "hjson",
         "parse"
-      ]
+      ],
+      "description": {
+        "en_us": "A MCDReforged api plugin to get player data information and more"
+      }
     },
     "quick_backup_multi": {
       "id": "quick_backup_multi",
@@ -70,7 +79,10 @@
       },
       "requirements": [
         "mcdreforged>=2.0.0a4"
-      ]
+      ],
+      "description": {
+        "en_us": "A backup and restore backup plugin, with multiple backup slots"
+      }
     }
   }
 }
