@@ -1,5 +1,5 @@
 {
-  "plugin_amount": 4,
+  "plugin_amount": 5,
   "plugins": {
     "carpetbotlist": {
       "id": "carpetbotlist",
@@ -85,6 +85,28 @@
       "description": {
         "en_us": "A backup / restore plugin, with multiple backup slot",
         "zh_cn": "多槽位备份/回档插件"
+      }
+    },
+    "stats_helper": {
+      "id": "stats_helper",
+      "name": "Stats Helper",
+      "version": "7.1.0",
+      "repository": "https://github.com/TISUnion/StatsHelper",
+      "labels": [
+        "tool"
+      ],
+      "authors": [
+        "Fallen_Breath"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0-beta.4"
+      },
+      "requirements": [
+        "mcdreforged>=2.0.0b4"
+      ],
+      "description": {
+        "en_us": "A Minecraft statistic helper",
+        "zh_cn": "一个 Minecraft 统计信息助手"
       }
     }
   }
