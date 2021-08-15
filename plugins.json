@@ -1,5 +1,5 @@
 {
-  "plugin_amount": 5,
+  "plugin_amount": 6,
   "plugins": {
     "carpetbotlist": {
       "id": "carpetbotlist",
@@ -23,7 +23,7 @@
     },
     "chatbridgereforged_client_mc": {
       "id": "chatbridgereforged_client_mc",
-      "name": "ChatBridgeReforged",
+      "name": "ChatBridgeReforged_client_mc",
       "version": "0.0.1-Alpha-006-pre5-2.0-test",
       "repository": "https://github.com/rickyhoho/ChatBridgeReforged",
       "labels": [
@@ -39,6 +39,29 @@
       "description": {
         "en_us": "Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custome clients).",
         "zh_cn": "ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的交互桥梁，多物互联（不是）"
+      }
+    },
+    "lite_file_manager": {
+      "id": "lite_file_manager",
+      "name": "Lite File Manager",
+      "version": "1.2.0",
+      "repository": "https://github.com/MCDReforged/LiteFileManager",
+      "labels": [
+        "management"
+      ],
+      "authors": [
+        "Fallen_Breath"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0-beta.7"
+      },
+      "requirements": [
+        "mcdreforged>=2.0.0b7",
+        "requests"
+      ],
+      "description": {
+        "en_us": "A lite-weight in-game file manager",
+        "zh_cn": "一个轻量级的游戏内文件管理器"
       }
     },
     "minecraft_data_api": {
@@ -67,7 +90,7 @@
     },
     "quick_backup_multi": {
       "id": "quick_backup_multi",
-      "name": "QuickBackupM",
+      "name": "Quick Backup Multi",
       "version": "1.2.1",
       "repository": "https://github.com/TISUnion/QuickBackupM",
       "labels": [
