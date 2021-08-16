@@ -1,5 +1,5 @@
 {
-  "plugin_amount": 11,
+  "plugin_amount": 12,
   "plugins": {
     "carpetbotlist": {
       "id": "carpetbotlist",
@@ -192,6 +192,26 @@
       "description": {
         "en_us": "A backup / restore plugin, with multiple backup slot",
         "zh_cn": "多槽位备份/回档插件"
+      }
+    },
+    "region_file_updater": {
+      "id": "region_file_updater",
+      "name": "Region file Updater",
+      "version": "1.4.1",
+      "repository": "https://github.com/TISUnion/RegionFileUpdater",
+      "labels": [
+        "management"
+      ],
+      "authors": [
+        "Fallen_Breath"
+      ],
+      "dependencies": {
+        "minecraft_data_api": "*"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A MCDR plugin to help you update region files in game",
+        "zh_cn": "一个从指定位置拉取region文件至本服存档的插件"
       }
     },
     "stats_helper": {
