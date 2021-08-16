@@ -1,8 +1,7 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "stats_helper",
-  "latest_version": "7.1.1",
-  "etag": "\"791ec56820e179abbd4b86f06630ef53ca37d3a223de6b3450dcb8298ebcf508\"",
+  "etag": "W/\"791ec56820e179abbd4b86f06630ef53ca37d3a223de6b3450dcb8298ebcf508\"",
   "releases": [
     {
       "url": "https://github.com/TISUnion/StatsHelper/releases/tag/v7.1.1",
@@ -19,6 +18,7 @@
         }
       ],
       "description": "Fixed `add_player` command not run in a new thread",
+      "prerelease": false,
       "parsed_version": "7.1.1"
     },
     {
@@ -36,7 +36,9 @@
         }
       ],
       "description": "- MCDR 2.0 packed plugin!\r\n- translation support\r\n- command tree",
+      "prerelease": false,
       "parsed_version": "7.1.0"
     }
-  ]
+  ],
+  "latest_version": "7.1.1"
 }

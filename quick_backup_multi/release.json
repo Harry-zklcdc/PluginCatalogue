@@ -1,25 +1,7 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "quick_backup_multi",
-  "latest_version": "1.2.1",
-  "etag": "W/\"dd5ba9e203e01ae643b3ffa1bd46bd859018fa8c382097acb6befcf78009fd08\"",
-  "releases": [
-    {
-      "url": "https://github.com/TISUnion/QuickBackupM/releases/tag/v1.2.1",
-      "name": "QuickBackupM v1.2 for MCDR 2.0 preview",
-      "tag_name": "v1.2.1",
-      "created_at": "2021-08-12T12:42:29Z",
-      "assets": [
-        {
-          "name": "QuickBackupM-v1.2.1.mcdr",
-          "size": 27057,
-          "download_count": 7,
-          "created_at": "2021-08-12T13:00:22Z",
-          "browser_download_url": "https://github.com/TISUnion/QuickBackupM/releases/download/v1.2.1/QuickBackupM-v1.2.1.mcdr"
-        }
-      ],
-      "description": "MCDR 2.0!",
-      "parsed_version": "1.2.1"
-    }
-  ]
+  "etag": "W/\"f126a4d24baa4042fd7b89d89eb2ca76e5e264a066983b6b54140ce44875091f\"",
+  "releases": [],
+  "latest_version": "N/A"
 }
