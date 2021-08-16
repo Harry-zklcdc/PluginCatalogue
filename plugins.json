@@ -1,10 +1,10 @@
 {
-  "plugin_amount": 12,
+  "plugin_amount": 13,
   "plugins": {
     "carpetbotlist": {
       "id": "carpetbotlist",
       "name": "CarpetBotList",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "repository": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList",
       "labels": [
         "tool"
@@ -18,7 +18,8 @@
       },
       "requirements": [],
       "description": {
-        "en_us": "Help you manage your carpet fake player"
+        "en_us": "Help you manage your carpet fake player",
+        "zh_cn": "帮助你管理地毯端假人"
       }
     },
     "chatbridge_client": {
@@ -126,6 +127,25 @@
       "description": {
         "en_us": "A server side waypoint manager",
         "zh_cn": "一个服务端共享路标点管理器"
+      }
+    },
+    "mc_uuid": {
+      "id": "mc_uuid",
+      "name": "Minecraft UUID API",
+      "version": "1.0.0",
+      "repository": "https://github.com/HuajiMUR233/MCUUID",
+      "labels": [
+        "api"
+      ],
+      "authors": [
+        "Huaji_MUR233"
+      ],
+      "dependencies": {},
+      "requirements": [
+        "requests>=2.25.1"
+      ],
+      "description": {
+        "en_us": "Minecraft UUID API"
       }
     },
     "minecraft_data_api": {

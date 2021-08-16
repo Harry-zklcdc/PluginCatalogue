@@ -1,7 +1,7 @@
 {
   "id": "carpetbotlist",
   "name": "CarpetBotList",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "repository": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList",
   "labels": [
     "tool"
@@ -15,6 +15,7 @@
   },
   "requirements": [],
   "description": {
-    "en_us": "Help you manage your carpet fake player"
+    "en_us": "Help you manage your carpet fake player",
+    "zh_cn": "帮助你管理地毯端假人"
   }
 }

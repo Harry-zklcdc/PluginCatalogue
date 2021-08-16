@@ -1,9 +1,27 @@
 {
   "schema_version": 2,
   "id": "carpetbotlist",
-  "latest_version": "2.0.0",
-  "etag": "\"a5cab3a58f8beb16cb3c6337cc712a16ebdfc89cb3a30782c8d7c749774cd79a\"",
+  "latest_version": "2.1.0",
+  "etag": "W/\"dda4054b6beb2b77f129bb16f1c7f031f45f12253b67f7c2688912c58b3cf7cf\"",
   "releases": [
+    {
+      "url": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/tag/v2.1.0",
+      "name": "CarpetBotList-2.1.0 for MCDR-2.x",
+      "tag_name": "v2.1.0",
+      "created_at": "2021-08-16T11:28:38Z",
+      "assets": [
+        {
+          "name": "CarpetBotList-v2.1.0.mcdr",
+          "size": 4181,
+          "download_count": 0,
+          "created_at": "2021-08-16T11:33:40Z",
+          "browser_download_url": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/download/v2.1.0/CarpetBotList-v2.1.0.mcdr"
+        }
+      ],
+      "description": "- 修复 `Carpet Mod` 指令 `/player xxx shadow` 导致的假人统计异常  \r\n- 使用指令树构建指令  \r\n- 扬了多余的logger",
+      "prerelease": false,
+      "parsed_version": "2.1.0"
+    },
     {
       "url": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/tag/v2.0.0",
       "name": "CarpetBotList-2.0.0 for MCDR-2.x",
@@ -13,12 +31,12 @@
         {
           "name": "CarpetBotList-v2.0.0.mcdr",
           "size": 3686,
-          "download_count": 8,
+          "download_count": 14,
           "created_at": "2021-08-12T07:45:32Z",
           "browser_download_url": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/download/v2.0.0/CarpetBotList-v2.0.0.mcdr"
         }
       ],
-      "description": "",
+      "description": "- 适配 `MCDR-2.x`",
       "prerelease": false,
       "parsed_version": "2.0.0"
     }
