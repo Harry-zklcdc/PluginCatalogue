@@ -1,5 +1,5 @@
 {
-  "plugin_amount": 10,
+  "plugin_amount": 11,
   "plugins": {
     "carpetbotlist": {
       "id": "carpetbotlist",
@@ -71,7 +71,11 @@
       "labels": [
         "information"
       ],
-      "authors": [],
+      "authors": [
+        "Fallen_Breath",
+        "nathan21hz",
+        "Ra1ny_Yuki"
+      ],
       "dependencies": {},
       "requirements": [],
       "description": {
@@ -100,6 +104,28 @@
       "description": {
         "en_us": "A lite-weight in-game file manager",
         "zh_cn": "一个轻量级的游戏内文件管理器"
+      }
+    },
+    "location_marker": {
+      "id": "location_marker",
+      "name": "Location Marker",
+      "version": "1.3.1",
+      "repository": "https://github.com/TISUnion/LocationMarker",
+      "labels": [
+        "information"
+      ],
+      "authors": [
+        "Fallen_Breath",
+        "Van_Involution"
+      ],
+      "dependencies": {
+        "minecraft_data_api": "*",
+        "mcdreforged": ">=2.0.0-beta.12"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A server side waypoint manager",
+        "zh_cn": "一个服务端共享路标点管理器"
       }
     },
     "minecraft_data_api": {
@@ -174,7 +200,8 @@
       "version": "7.1.1",
       "repository": "https://github.com/TISUnion/StatsHelper",
       "labels": [
-        "tool"
+        "tool",
+        "information"
       ],
       "authors": [
         "Fallen_Breath"
