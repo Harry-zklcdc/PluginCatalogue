@@ -1,7 +1,8 @@
 {
   "schema_version": 2,
   "id": "permanent_backup",
-  "etag": "W/\"88aedeb2f06908fc2345d1b92123d89ba9ac83c5a59fc3cfb275b280d399db59\"",
+  "latest_version": "1.0.1",
+  "etag": "\"88aedeb2f06908fc2345d1b92123d89ba9ac83c5a59fc3cfb275b280d399db59\"",
   "releases": [
     {
       "url": "https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.1",
@@ -21,6 +22,5 @@
       "prerelease": false,
       "parsed_version": "1.0.1"
     }
-  ],
-  "latest_version": "1.0.1"
+  ]
 }
