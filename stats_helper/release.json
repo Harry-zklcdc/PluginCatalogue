@@ -1,7 +1,8 @@
 {
   "schema_version": 2,
   "id": "stats_helper",
-  "etag": "W/\"791ec56820e179abbd4b86f06630ef53ca37d3a223de6b3450dcb8298ebcf508\"",
+  "latest_version": "7.1.1",
+  "etag": "\"791ec56820e179abbd4b86f06630ef53ca37d3a223de6b3450dcb8298ebcf508\"",
   "releases": [
     {
       "url": "https://github.com/TISUnion/StatsHelper/releases/tag/v7.1.1",
@@ -39,6 +40,5 @@
       "prerelease": false,
       "parsed_version": "7.1.0"
     }
-  ],
-  "latest_version": "7.1.1"
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "plugin_amount": 6,
+  "plugin_amount": 8,
   "plugins": {
     "carpetbotlist": {
       "id": "carpetbotlist",
@@ -21,6 +21,28 @@
         "en_us": "Help you manage your carpet fake player"
       }
     },
+    "chatbridge_client": {
+      "id": "chatbridge_client",
+      "name": "ChatBridge Client",
+      "version": "1.1.0",
+      "repository": "https://github.com/TISUnion/ChatBridge",
+      "labels": [
+        "tool"
+      ],
+      "authors": [
+        "Fallen_Breath"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0-beta.10"
+      },
+      "requirements": [
+        "pycryptodome"
+      ],
+      "description": {
+        "en_us": "Boardcast chat between mc servers or even discord server",
+        "zh_cn": "跨服聊天"
+      }
+    },
     "chatbridgereforged_client_mc": {
       "id": "chatbridgereforged_client_mc",
       "name": "ChatBridgeReforged_client_mc",
@@ -39,6 +61,22 @@
       "description": {
         "en_us": "Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custome clients).",
         "zh_cn": "ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的交互桥梁，多物互联（不是）"
+      }
+    },
+    "here": {
+      "id": "here",
+      "name": "Here",
+      "version": "1.1.1",
+      "repository": "https://github.com/TISUnion/Here",
+      "labels": [
+        "information"
+      ],
+      "authors": [],
+      "dependencies": {},
+      "requirements": [],
+      "description": {
+        "en_us": "Broadcast your position and high light yourself",
+        "zh_cn": "一显示坐标并高亮玩家"
       }
     },
     "lite_file_manager": {

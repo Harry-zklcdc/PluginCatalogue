@@ -1,7 +1,8 @@
 {
   "schema_version": 2,
   "id": "lite_file_manager",
-  "etag": "W/\"a2f9241bf9e7967bb4e3ca8318b8619aba9ed2d1579b06238196617a42a3df14\"",
+  "latest_version": "1.2.0",
+  "etag": "\"a2f9241bf9e7967bb4e3ca8318b8619aba9ed2d1579b06238196617a42a3df14\"",
   "releases": [
     {
       "url": "https://github.com/MCDReforged/LiteFileManager/releases/tag/v1.2.0",
@@ -21,6 +22,5 @@
       "prerelease": false,
       "parsed_version": "1.2.0"
     }
-  ],
-  "latest_version": "1.2.0"
+  ]
 }
