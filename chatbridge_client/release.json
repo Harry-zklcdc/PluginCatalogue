@@ -1,7 +1,26 @@
 {
   "schema_version": 2,
   "id": "chatbridge_client",
-  "latest_version": "N/A",
-  "etag": "W/\"6a1d3744050161d62207bac8d6b2dddda5d255aa530660d8ad9e1c8bac76bb1d\"",
-  "releases": []
+  "latest_version": "1.1.0",
+  "etag": "W/\"e25b955ca92bc0641192bd356de132e8f853cf553942445ff7f20185e4061e2a\"",
+  "releases": [
+    {
+      "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v1.1.0",
+      "name": "Chatbridge v1.1.0 for MCDR 2.0 client",
+      "tag_name": "v1.1.0",
+      "created_at": "2021-08-17T03:58:17Z",
+      "assets": [
+        {
+          "name": "ChatBridgeClient-v1.1.0.mcdr",
+          "size": 22359,
+          "download_count": 0,
+          "created_at": "2021-08-17T03:58:31Z",
+          "browser_download_url": "https://github.com/TISUnion/ChatBridge/releases/download/v1.1.0/ChatBridgeClient-v1.1.0.mcdr"
+        }
+      ],
+      "description": "",
+      "prerelease": false,
+      "parsed_version": "1.1.0"
+    }
+  ]
 }
