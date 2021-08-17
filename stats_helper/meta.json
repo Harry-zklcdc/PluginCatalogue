@@ -1,7 +1,7 @@
 {
   "id": "stats_helper",
   "name": "Stats Helper",
-  "version": "7.1.1",
+  "version": "7.1.3",
   "repository": "https://github.com/TISUnion/StatsHelper",
   "labels": [
     "tool",
@@ -11,10 +11,10 @@
     "Fallen_Breath"
   ],
   "dependencies": {
-    "mcdreforged": ">=2.0.0-beta.4"
+    "mcdreforged": ">=2.0.0-beta.7"
   },
   "requirements": [
-    "mcdreforged>=2.0.0b4"
+    "mcdreforged>=2.0.0b7"
   ],
   "description": {
     "en_us": "A Minecraft statistic helper",

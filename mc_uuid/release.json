@@ -1,7 +1,8 @@
 {
   "schema_version": 2,
   "id": "mc_uuid",
-  "etag": "W/\"158c04abd4e917908ada1e4617abb6bfdbdabde4464195529f0e6e2f91aa83a3\"",
+  "latest_version": "1.0.0",
+  "etag": "\"158c04abd4e917908ada1e4617abb6bfdbdabde4464195529f0e6e2f91aa83a3\"",
   "releases": [
     {
       "url": "https://github.com/HuajiMUR233/MCUUID/releases/tag/1.0.0",
@@ -21,6 +22,5 @@
       "prerelease": false,
       "parsed_version": "1.0.0"
     }
-  ],
-  "latest_version": "1.0.0"
+  ]
 }
