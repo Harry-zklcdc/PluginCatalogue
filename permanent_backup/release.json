@@ -1,9 +1,45 @@
 {
   "schema_version": 2,
   "id": "permanent_backup",
-  "latest_version": "1.0.1",
-  "etag": "W/\"4dc44d7675acda8c2c049dd7fef1d077391e32c06b408f261bb638b22bebaa66\"",
+  "latest_version": "1.0.3",
+  "etag": "W/\"f5dd72f0990d9eb8a50072df0a4749ac316591d11ee62d8eaa0d56da8fa703a2\"",
   "releases": [
+    {
+      "url": "https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.3",
+      "name": "Permanent Backup v1.0.3",
+      "tag_name": "v1.0.3",
+      "created_at": "2021-08-17T05:49:47Z",
+      "assets": [
+        {
+          "name": "PermanentBackup-v1.0.3.mcdr",
+          "size": 15811,
+          "download_count": 1,
+          "created_at": "2021-08-17T05:50:35Z",
+          "browser_download_url": "https://github.com/MCDReforged/PermanentBackup/releases/download/v1.0.3/PermanentBackup-v1.0.3.mcdr"
+        }
+      ],
+      "description": "yeets unnecessary configs",
+      "prerelease": false,
+      "parsed_version": "1.0.3"
+    },
+    {
+      "url": "https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.2",
+      "name": "Permanent Backup v1.0.2",
+      "tag_name": "v1.0.2",
+      "created_at": "2021-08-17T05:33:19Z",
+      "assets": [
+        {
+          "name": "PermanentBackup-v1.0.2.mcdr",
+          "size": 15915,
+          "download_count": 0,
+          "created_at": "2021-08-17T05:34:54Z",
+          "browser_download_url": "https://github.com/MCDReforged/PermanentBackup/releases/download/v1.0.2/PermanentBackup-v1.0.2.mcdr"
+        }
+      ],
+      "description": "Fixed #1: backup failed with no comment input",
+      "prerelease": false,
+      "parsed_version": "1.0.2"
+    },
     {
       "url": "https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.1",
       "name": "",

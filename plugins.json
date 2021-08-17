@@ -1,5 +1,5 @@
 {
-  "plugin_amount": 14,
+  "plugin_amount": 15,
   "plugins": {
     "carpetbotlist": {
       "id": "carpetbotlist",
@@ -148,6 +148,27 @@
         "en_us": "Minecraft UUID API"
       }
     },
+    "mcd_task": {
+      "id": "mcd_task",
+      "name": "Task",
+      "version": "2.0.0",
+      "repository": "https://github.com/TISUnion/Task",
+      "labels": [
+        "tool"
+      ],
+      "authors": [
+        "Pandaria",
+        "Fallen_Breath",
+        "Ra1ny_Yuki"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0-beta.1"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A plugin to show tasks of project in progress"
+      }
+    },
     "mcdr_pycraft_bot": {
       "id": "mcdr_pycraft_bot",
       "name": "MCDR Bot",
@@ -197,7 +218,7 @@
     "permanent_backup": {
       "id": "permanent_backup",
       "name": "Permanent Backup",
-      "version": "1.0.1",
+      "version": "1.0.3",
       "repository": "https://github.com/MCDReforged/PermanentBackup",
       "labels": [
         "management"
