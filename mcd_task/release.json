@@ -1,7 +1,8 @@
 {
   "schema_version": 2,
   "id": "mcd_task",
-  "etag": "W/\"4b4e96fdeca673f6daf816fc62b067ab4eecbfe844c5d65dddfbdb9b1922c0d4\"",
+  "latest_version": "2.0.0",
+  "etag": "\"4b4e96fdeca673f6daf816fc62b067ab4eecbfe844c5d65dddfbdb9b1922c0d4\"",
   "releases": [
     {
       "url": "https://github.com/TISUnion/Task/releases/tag/2.0.0",
@@ -21,6 +22,5 @@
       "prerelease": false,
       "parsed_version": "2.0.0"
     }
-  ],
-  "latest_version": "2.0.0"
+  ]
 }
