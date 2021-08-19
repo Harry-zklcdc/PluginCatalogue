@@ -1,5 +1,5 @@
 {
-  "plugin_amount": 16,
+  "plugin_amount": 17,
   "plugins": {
     "carpetbotlist": {
       "id": "carpetbotlist",
@@ -187,6 +187,27 @@
       "requirements": [],
       "description": {
         "en_us": "A plugin to show tasks of project in progress"
+      }
+    },
+    "mcdr_plugin_panel": {
+      "id": "mcdr_plugin_panel",
+      "name": "MCDR Plugin Panel",
+      "version": "1.0.0-alpha.3",
+      "repository": "https://github.com/BelowZeroKelvin/MCDRPluginPanel",
+      "labels": [
+        "tool",
+        "api"
+      ],
+      "authors": [
+        "ZeroKelvin"
+      ],
+      "dependencies": {},
+      "requirements": [
+        "ruamel.yaml"
+      ],
+      "description": {
+        "en_us": "A panel for MCDR plugin",
+        "zh_cn": "一个供 MCDR 插件使用的面板"
       }
     },
     "mcdr_pycraft_bot": {
