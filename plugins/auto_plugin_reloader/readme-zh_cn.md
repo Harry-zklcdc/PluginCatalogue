@@ -8,13 +8,13 @@
 
 - 插件 ID: `auto_plugin_reloader`
 - 插件名: Auto Plugin Reloader
-- 版本: 1.0.0
-  - 元数据版本: 1.0.0
-  - 发布版本: 1.0.0
+- 版本: 1.0.1
+  - 元数据版本: 1.0.1
+  - 发布版本: 1.0.1
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/AutoPluginReloader
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: Automatically reload plugins when file changes
+- 描述: 在文件变更时自动重载插件
 
 ### 插件依赖
 
@@ -37,5 +37,5 @@
 
 | 文件 | 版本 | 日期 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [AutoPluginReloader-v1.0.0.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.0.0) | 1.0.0 | 2021/08/19 12:09:15 | 17.4KB | 0 | [下载](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.0.0/AutoPluginReloader-v1.0.0.mcdr) |
+| [AutoPluginReloader-v1.0.1.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.0.1) | 1.0.1 | 2021/08/19 12:27:58 | 17.4KB | 0 | [下载](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.0.1/AutoPluginReloader-v1.0.1.mcdr) |
 
