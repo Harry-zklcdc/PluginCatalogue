@@ -327,6 +327,40 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 | --- | --- | --- | --- | --- | --- |
 | [Task-v2.0.0.mcdr](https://github.com/TISUnion/Task/releases/tag/2.0.0) | 2.0.0 | 2021/08/17 09:09:20 | 14.2KB | 3 | [下载](https://github.com/TISUnion/Task/releases/download/2.0.0/Task-v2.0.0.mcdr) |
 
+## mcdr_plugin_panel
+
+### 基本信息
+
+- 插件 ID: `mcdr_plugin_panel`
+- 插件名: MCDR Plugin Panel
+- 版本: 1.0.0-alpha.3
+  - 元数据版本: 1.0.0-alpha.3
+  - 发布版本: N/A
+- 作者: [ZeroKelvin](https://github.com/BelowZeroKelvin)
+- 仓库: https://github.com/BelowZeroKelvin/MCDRPluginPanel
+- 标签: [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md)
+- 描述: 一个供 MCDR 插件使用的面板
+
+### 插件依赖
+
+| 插件 ID | 依赖需求 |
+| --- | --- |
+
+### 包依赖
+
+| Python 包 | 依赖需求 |
+| --- | --- |
+| [ruamel.yaml](https://pypi.org/project/ruamel.yaml) |  |
+
+### 介绍
+
+一个供 MCDR 插件使用的面板
+
+### 下载
+
+| 文件 | 版本 | 日期 | 大小 | 下载数 | 操作 |
+| --- | --- | --- | --- | --- | --- |
+
 ## mcdr_pycraft_bot
 
 ### 基本信息
