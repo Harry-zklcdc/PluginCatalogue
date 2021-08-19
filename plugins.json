@@ -1,6 +1,26 @@
 {
-  "plugin_amount": 17,
+  "plugin_amount": 18,
   "plugins": {
+    "auto_plugin_reloader": {
+      "id": "auto_plugin_reloader",
+      "name": "Auto Plugin Reloader",
+      "version": "1.0.0",
+      "repository": "https://github.com/TISUnion/AutoPluginReloader",
+      "labels": [
+        "management"
+      ],
+      "authors": [
+        "Fallen_Breath"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.1"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "Automatically reload plugins when file changes",
+        "zh_ch": "在文件变更时自动重载插件"
+      }
+    },
     "carpetbotlist": {
       "id": "carpetbotlist",
       "name": "CarpetBotList",
