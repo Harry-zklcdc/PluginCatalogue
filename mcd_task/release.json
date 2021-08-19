@@ -1,7 +1,8 @@
 {
   "schema_version": 2,
   "id": "mcd_task",
-  "etag": "W/\"c2652e48b0c23b1f06a01a0126cc6bd3a6252e7f83d3e72b15f240542ac7f96c\"",
+  "latest_version": "2.0.0",
+  "etag": "W/\"5c4382604e258bfd1ddbcf926961613927bc88178b90cc4d315156769b5cd014\"",
   "releases": [
     {
       "url": "https://github.com/TISUnion/Task/releases/tag/2.0.0",
@@ -12,7 +13,7 @@
         {
           "name": "Task-v2.0.0.mcdr",
           "size": 14540,
-          "download_count": 1,
+          "download_count": 2,
           "created_at": "2021-08-17T09:09:20Z",
           "browser_download_url": "https://github.com/TISUnion/Task/releases/download/2.0.0/Task-v2.0.0.mcdr"
         }
@@ -21,6 +22,5 @@
       "prerelease": false,
       "parsed_version": "2.0.0"
     }
-  ],
-  "latest_version": "2.0.0"
+  ]
 }
