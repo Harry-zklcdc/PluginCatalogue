@@ -1,5 +1,5 @@
 {
-  "plugin_amount": 14,
+  "plugin_amount": 16,
   "plugins": {
     "carpetbotlist": {
       "id": "carpetbotlist",
@@ -62,6 +62,26 @@
       "description": {
         "en_us": "Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custome clients).",
         "zh_cn": "ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的交互桥梁，多物互联（不是）"
+      }
+    },
+    "daytime": {
+      "id": "daytime",
+      "name": "Daytime",
+      "version": "1.1.0",
+      "repository": "https://github.com/BelowZeroKelvin/MCDR-Daytime",
+      "labels": [
+        "tool"
+      ],
+      "authors": [
+        "ZeroKelvin"
+      ],
+      "dependencies": {
+        "mcdreforged": "^2.0.0-beta.1"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "show time in minecraft",
+        "zh_cn": "显示游戏中的时间"
       }
     },
     "here": {
@@ -148,10 +168,31 @@
         "en_us": "Minecraft UUID API"
       }
     },
+    "mcd_task": {
+      "id": "mcd_task",
+      "name": "Task",
+      "version": "2.0.0",
+      "repository": "https://github.com/TISUnion/Task",
+      "labels": [
+        "tool"
+      ],
+      "authors": [
+        "Pandaria",
+        "Fallen_Breath",
+        "Ra1ny_Yuki"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0-beta.1"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A plugin to show tasks of project in progress"
+      }
+    },
     "mcdr_pycraft_bot": {
       "id": "mcdr_pycraft_bot",
       "name": "MCDR Bot",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "repository": "https://github.com/MCDReforged/MCDR-bot",
       "labels": [
         "tool"

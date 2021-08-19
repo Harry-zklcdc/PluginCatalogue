@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "id": "mcd_task",
+  "etag": "W/\"c2652e48b0c23b1f06a01a0126cc6bd3a6252e7f83d3e72b15f240542ac7f96c\"",
+  "releases": [
+    {
+      "url": "https://github.com/TISUnion/Task/releases/tag/2.0.0",
+      "name": "v2.0.0 for MCDReforged 2.x",
+      "tag_name": "2.0.0",
+      "created_at": "2021-08-17T09:05:47Z",
+      "assets": [
+        {
+          "name": "Task-v2.0.0.mcdr",
+          "size": 14540,
+          "download_count": 1,
+          "created_at": "2021-08-17T09:09:20Z",
+          "browser_download_url": "https://github.com/TISUnion/Task/releases/download/2.0.0/Task-v2.0.0.mcdr"
+        }
+      ],
+      "description": "1. Totally rebuilt, now requires MCDR 2.0 instead of stext\r\n2. You can add responsibles and set deadline for tasks now \r\n3. Fixed some known issue",
+      "prerelease": false,
+      "parsed_version": "2.0.0"
+    }
+  ],
+  "latest_version": "2.0.0"
+}
