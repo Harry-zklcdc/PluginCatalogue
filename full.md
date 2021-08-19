@@ -472,7 +472,7 @@ A MCDReforged api plugin to get player data information and more
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 8 | [Download](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
+| [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 9 | [Download](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
 
 ## permanent_backup
 
@@ -552,7 +552,7 @@ Features:
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [QuickBackupM-v1.2.2.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.2.2) | 1.2.2 | 2021/08/16 17:06:50 | 20.84KB | 24 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.2.2/QuickBackupM-v1.2.2.mcdr) |
+| [QuickBackupM-v1.2.2.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.2.2) | 1.2.2 | 2021/08/16 17:06:50 | 20.84KB | 25 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.2.2/QuickBackupM-v1.2.2.mcdr) |
 
 ## region_file_updater
 
