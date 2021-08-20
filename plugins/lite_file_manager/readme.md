@@ -11,6 +11,7 @@
 - Version: 1.2.1
   - Metadata version: 1.2.1
   - Release version: 1.2.1
+- Total downloads: 11
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/LiteFileManager
 - Labels: [`Management`](/labels/management/readme.md)

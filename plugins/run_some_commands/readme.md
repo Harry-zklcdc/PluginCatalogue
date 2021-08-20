@@ -11,6 +11,7 @@
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
+- Total downloads: 0
 - Authors: [FlyingShuriken](https://github.com/FlyingShuriken)
 - Repository: https://github.com/FlyingShuriken/MCDR-plugins
 - Labels: [`Tool`](/labels/tool/readme.md)

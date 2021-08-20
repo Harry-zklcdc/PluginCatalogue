@@ -11,6 +11,7 @@
 - Version: 2.0.0-rc
   - Metadata version: 2.0.0-rc
   - Release version: 2.0.0-rc
+- Total downloads: 0
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMUR233/MoreAPIs
 - Labels: [`API`](/labels/api/readme.md)

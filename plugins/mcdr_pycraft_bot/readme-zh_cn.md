@@ -11,6 +11,7 @@
 - 版本: 1.2.0
   - 元数据版本: 1.2.0
   - 发布版本: 1.2.0
+- 总下载量: 11
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/MCDReforged/MCDR-bot
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)

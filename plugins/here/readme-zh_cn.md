@@ -11,6 +11,7 @@
 - 版本: 1.1.2
   - 元数据版本: 1.1.2
   - 发布版本: 1.1.2
+- 总下载量: 37
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/TISUnion/Here
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)

@@ -11,6 +11,7 @@
 - Version: 1.0.1
   - Metadata version: 1.0.1
   - Release version: 1.0.1
+- Total downloads: 11
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/AutoPluginReloader
 - Labels: [`Management`](/labels/management/readme.md)

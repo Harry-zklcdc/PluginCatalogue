@@ -11,6 +11,7 @@
 - Version: 1.4.1
   - Metadata version: 1.4.1
   - Release version: 1.4.1
+- Total downloads: 9
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/RegionFileUpdater
 - Labels: [`Management`](/labels/management/readme.md)

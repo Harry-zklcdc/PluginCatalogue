@@ -11,6 +11,7 @@
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
+- Total downloads: 9
 - Authors: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - Repository: https://github.com/BelowZeroKelvin/MCDR-Daytime
 - Labels: [`Tool`](/labels/tool/readme.md)

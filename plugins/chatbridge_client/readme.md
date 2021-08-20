@@ -11,6 +11,7 @@
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
+- Total downloads: 9
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/ChatBridge
 - Labels: [`Tool`](/labels/tool/readme.md)

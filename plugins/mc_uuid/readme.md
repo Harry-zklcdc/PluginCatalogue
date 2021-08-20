@@ -11,6 +11,7 @@
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
+- Total downloads: 3
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMUR233/MCUUID
 - Labels: [`API`](/labels/api/readme.md)

@@ -11,6 +11,7 @@
 - Version: 0.0.1-Alpha-006-pre5-2.0-test
   - Metadata version: 0.0.1-Alpha-006-pre5-2.0-test
   - Release version: N/A
+- Total downloads: 0
 - Authors: [Ricky](https://github.com/rickyhoho)
 - Repository: https://github.com/rickyhoho/ChatBridgeReforged
 - Labels: [`Tool`](/labels/tool/readme.md)

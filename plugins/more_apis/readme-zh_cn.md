@@ -11,6 +11,7 @@
 - 版本: 2.0.0-rc
   - 元数据版本: 2.0.0-rc
   - 发布版本: 2.0.0-rc
+- 总下载量: 0
 - 作者: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - 仓库: https://github.com/HuajiMUR233/MoreAPIs
 - 标签: [`API`](/labels/api/readme-zh_cn.md)

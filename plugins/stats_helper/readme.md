@@ -11,6 +11,7 @@
 - Version: 7.1.3
   - Metadata version: 7.1.3
   - Release version: 7.1.3
+- Total downloads: 48
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/StatsHelper
 - Labels: [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md)

@@ -11,6 +11,7 @@
 - 版本: 1.0.3
   - 元数据版本: 1.0.3
   - 发布版本: 1.0.3
+- 总下载量: 11
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/MCDReforged/PermanentBackup
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)

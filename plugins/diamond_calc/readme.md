@@ -11,6 +11,7 @@
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: N/A
+- Total downloads: 0
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMUR233/DiamondCalc
 - Labels: [`Tool`](/labels/tool/readme.md)

@@ -15,6 +15,7 @@ Use `ctrl-f` to performance an in-page search, for what you are interested in
 - Version: 1.0.1
   - Metadata version: 1.0.1
   - Release version: 1.0.1
+- Total downloads: 11
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/AutoPluginReloader
 - Labels: [`Management`](/labels/management/readme.md)
@@ -52,6 +53,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 - Version: 2.1.0
   - Metadata version: 2.1.0
   - Release version: 2.1.0
+- Total downloads: 25
 - Authors: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - Repository: https://github.com/BelowZeroKelvin/MCDR-CarpetBotList
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -89,6 +91,7 @@ Help you manage your carpet fake player
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
+- Total downloads: 9
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/ChatBridge
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -125,6 +128,7 @@ Shitty written, but it works XD
 - Version: 0.0.1-Alpha-006-pre5-2.0-test
   - Metadata version: 0.0.1-Alpha-006-pre5-2.0-test
   - Release version: N/A
+- Total downloads: 0
 - Authors: [Ricky](https://github.com/rickyhoho)
 - Repository: https://github.com/rickyhoho/ChatBridgeReforged
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -159,6 +163,7 @@ Reforged of ChatBridge, interaction with other clients(such as minecraft server,
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
+- Total downloads: 9
 - Authors: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - Repository: https://github.com/BelowZeroKelvin/MCDR-Daytime
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -194,6 +199,7 @@ Show time in Minecraft
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: N/A
+- Total downloads: 0
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMUR233/DiamondCalc
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -227,6 +233,7 @@ None
 - Version: 1.1.2
   - Metadata version: 1.1.2
   - Release version: 1.1.2
+- Total downloads: 37
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/TISUnion/Here
 - Labels: [`Information`](/labels/information/readme.md)
@@ -262,6 +269,7 @@ None
 - Version: 1.2.1
   - Metadata version: 1.2.1
   - Release version: 1.2.1
+- Total downloads: 11
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/LiteFileManager
 - Labels: [`Management`](/labels/management/readme.md)
@@ -300,6 +308,7 @@ Browse / Import / Export files in the server in Minecraft!
 - Version: 1.3.1
   - Metadata version: 1.3.1
   - Release version: 1.3.1
+- Total downloads: 13
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya)
 - Repository: https://github.com/TISUnion/LocationMarker
 - Labels: [`Information`](/labels/information/readme.md)
@@ -336,6 +345,7 @@ None
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
+- Total downloads: 3
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMUR233/MCUUID
 - Labels: [`API`](/labels/api/readme.md)
@@ -371,6 +381,7 @@ None
 - Version: 2.0.0
   - Metadata version: 2.0.0
   - Release version: 2.0.0
+- Total downloads: 10
 - Authors: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/TISUnion/Task
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -406,6 +417,7 @@ Shows tasks of project in progress
 - Version: 1.0.0-alpha.3
   - Metadata version: 1.0.0-alpha.3
   - Release version: N/A
+- Total downloads: 0
 - Authors: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - Repository: https://github.com/BelowZeroKelvin/MCDRPluginPanel
 - Labels: [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md)
@@ -440,6 +452,7 @@ A panel for MCDR plugin
 - Version: 1.2.0
   - Metadata version: 1.2.0
   - Release version: 1.2.0
+- Total downloads: 11
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/MCDR-bot
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -478,6 +491,7 @@ MCDR Bot powered by [pyCraft](https://github.com/ammaraskar/pyCraft), works for 
 - Version: 1.4.1
   - Metadata version: 1.4.1
   - Release version: 1.4.1
+- Total downloads: 20
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/MinecraftDataAPI
 - Labels: [`API`](/labels/api/readme.md)
@@ -516,6 +530,7 @@ A MCDReforged api plugin to get player data information and more
 - Version: 2.0.0-rc
   - Metadata version: 2.0.0-rc
   - Release version: 2.0.0-rc
+- Total downloads: 0
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMUR233/MoreAPIs
 - Labels: [`API`](/labels/api/readme.md)
@@ -556,6 +571,7 @@ Add some api for MCDReforged
 - Version: 1.0.3
   - Metadata version: 1.0.3
   - Release version: 1.0.3
+- Total downloads: 11
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/PermanentBackup
 - Labels: [`Management`](/labels/management/readme.md)
@@ -593,6 +609,7 @@ None
 - Version: 1.2.2
   - Metadata version: 1.2.2
   - Release version: 1.2.2
+- Total downloads: 35
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/QuickBackupM
 - Labels: [`Management`](/labels/management/readme.md)
@@ -636,6 +653,7 @@ Features:
 - Version: 1.4.1
   - Metadata version: 1.4.1
   - Release version: 1.4.1
+- Total downloads: 9
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/RegionFileUpdater
 - Labels: [`Management`](/labels/management/readme.md)
@@ -671,6 +689,7 @@ None
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
+- Total downloads: 0
 - Authors: [FlyingShuriken](https://github.com/FlyingShuriken)
 - Repository: https://github.com/FlyingShuriken/MCDR-plugins
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -704,6 +723,7 @@ Let player run whitelisted vanilla command
 - Version: 7.1.3
   - Metadata version: 7.1.3
   - Release version: 7.1.3
+- Total downloads: 48
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/StatsHelper
 - Labels: [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md)
@@ -742,6 +762,7 @@ Use `!!stats` to see the value / rank, or build a scoreboard from given statisti
 - Version: 1.0.1
   - Metadata version: 1.0.1
   - Release version: 1.0.1
+- Total downloads: 9
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/TimedQBM
 - Labels: [`Management`](/labels/management/readme.md)

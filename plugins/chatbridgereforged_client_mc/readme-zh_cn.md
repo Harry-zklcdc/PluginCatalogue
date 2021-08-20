@@ -11,6 +11,7 @@
 - 版本: 0.0.1-Alpha-006-pre5-2.0-test
   - 元数据版本: 0.0.1-Alpha-006-pre5-2.0-test
   - 发布版本: N/A
+- 总下载量: 0
 - 作者: [Ricky](https://github.com/rickyhoho)
 - 仓库: https://github.com/rickyhoho/ChatBridgeReforged
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)

@@ -11,6 +11,7 @@
 - 版本: 1.4.1
   - 元数据版本: 1.4.1
   - 发布版本: 1.4.1
+- 总下载量: 9
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/RegionFileUpdater
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)

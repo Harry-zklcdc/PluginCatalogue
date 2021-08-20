@@ -11,6 +11,7 @@
 - 版本: 1.0.0-alpha.3
   - 元数据版本: 1.0.0-alpha.3
   - 发布版本: N/A
+- 总下载量: 0
 - 作者: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - 仓库: https://github.com/BelowZeroKelvin/MCDRPluginPanel
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md)

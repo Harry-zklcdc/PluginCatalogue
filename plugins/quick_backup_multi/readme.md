@@ -11,6 +11,7 @@
 - Version: 1.2.2
   - Metadata version: 1.2.2
   - Release version: 1.2.2
+- Total downloads: 35
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/QuickBackupM
 - Labels: [`Management`](/labels/management/readme.md)

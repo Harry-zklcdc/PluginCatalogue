@@ -11,6 +11,7 @@
 - Version: 1.2.0
   - Metadata version: 1.2.0
   - Release version: 1.2.0
+- Total downloads: 11
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/MCDR-bot
 - Labels: [`Tool`](/labels/tool/readme.md)

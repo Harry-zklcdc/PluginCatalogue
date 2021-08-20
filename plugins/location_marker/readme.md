@@ -11,6 +11,7 @@
 - Version: 1.3.1
   - Metadata version: 1.3.1
   - Release version: 1.3.1
+- Total downloads: 13
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya)
 - Repository: https://github.com/TISUnion/LocationMarker
 - Labels: [`Information`](/labels/information/readme.md)

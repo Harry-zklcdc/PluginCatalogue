@@ -11,6 +11,7 @@
 - Version: 1.0.0-alpha.3
   - Metadata version: 1.0.0-alpha.3
   - Release version: N/A
+- Total downloads: 0
 - Authors: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - Repository: https://github.com/BelowZeroKelvin/MCDRPluginPanel
 - Labels: [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md)

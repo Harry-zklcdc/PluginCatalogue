@@ -11,6 +11,7 @@
 - Version: 1.0.3
   - Metadata version: 1.0.3
   - Release version: 1.0.3
+- Total downloads: 11
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/PermanentBackup
 - Labels: [`Management`](/labels/management/readme.md)

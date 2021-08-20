@@ -11,6 +11,7 @@
 - 版本: 1.0.0
   - 元数据版本: 1.0.0
   - 发布版本: N/A
+- 总下载量: 0
 - 作者: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - 仓库: https://github.com/HuajiMUR233/DiamondCalc
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
