@@ -13,7 +13,7 @@
 
 -------
 
-插件数量: 18
+插件数量: 19
 
 | 插件名 | 作者 | 描述 | 标签 |
 | --- | --- | --- | --- |
@@ -30,6 +30,7 @@
 | [MCDR Plugin Panel](/plugins/mcdr_plugin_panel/readme-zh_cn.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | 一个供 MCDR 插件使用的面板 | [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 | [MCDR Bot](/plugins/mcdr_pycraft_bot/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 使用 pycraft 的假人插件 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Minecraft Data API](/plugins/minecraft_data_api/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个用获得玩家信息等数据的的 API | [`API`](/labels/api/readme-zh_cn.md) |
+| [More APIs](/plugins/more_apis/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | 给 MCDReforged 添加了一些 API | [`API`](/labels/api/readme-zh_cn.md) |
 | [Permanent Backup](/plugins/permanent_backup/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 创建永久的用 zip 压缩的备份 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Quick Backup Multi](/plugins/quick_backup_multi/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 多槽位备份/回档插件 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Region file Updater](/plugins/region_file_updater/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个从指定位置拉取region文件至本服存档的插件 | [`管理`](/labels/management/readme-zh_cn.md) |
