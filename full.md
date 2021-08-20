@@ -185,6 +185,39 @@ Show time in Minecraft
 | --- | --- | --- | --- | --- | --- |
 | [Daytime-v1.1.0.mcdr](https://github.com/BelowZeroKelvin/MCDR-Daytime/releases/tag/v1.1.0) | 1.1.0 | 2021/08/18 04:36:17 | 1.07KB | 9 | [Download](https://github.com/BelowZeroKelvin/MCDR-Daytime/releases/download/v1.1.0/Daytime-v1.1.0.mcdr) |
 
+## diamond_calc
+
+### Basic Information
+
+- Plugin ID: `diamond_calc`
+- Plugin Name: Diamond Calculator
+- Version: 1.0.0
+  - Metadata version: 1.0.0
+  - Release version: N/A
+- Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
+- Repository: https://github.com/HuajiMUR233/DiamondCalc
+- Labels: [`Tool`](/labels/tool/readme.md)
+- Description: None
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+
+### Introduction
+
+None
+
+### Download
+
+| File | Version | Date | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
+
 ## here
 
 ### Basic Information
@@ -592,7 +625,7 @@ Features:
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [QuickBackupM-v1.2.2.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.2.2) | 1.2.2 | 2021/08/16 17:06:50 | 20.84KB | 34 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.2.2/QuickBackupM-v1.2.2.mcdr) |
+| [QuickBackupM-v1.2.2.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.2.2) | 1.2.2 | 2021/08/16 17:06:50 | 20.84KB | 35 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.2.2/QuickBackupM-v1.2.2.mcdr) |
 
 ## region_file_updater
 

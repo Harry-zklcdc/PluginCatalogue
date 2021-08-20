@@ -185,6 +185,39 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 | --- | --- | --- | --- | --- | --- |
 | [Daytime-v1.1.0.mcdr](https://github.com/BelowZeroKelvin/MCDR-Daytime/releases/tag/v1.1.0) | 1.1.0 | 2021/08/18 04:36:17 | 1.07KB | 9 | [下载](https://github.com/BelowZeroKelvin/MCDR-Daytime/releases/download/v1.1.0/Daytime-v1.1.0.mcdr) |
 
+## diamond_calc
+
+### 基本信息
+
+- 插件 ID: `diamond_calc`
+- 插件名: Diamond Calculator
+- 版本: 1.0.0
+  - 元数据版本: 1.0.0
+  - 发布版本: N/A
+- 作者: [Huaji_MUR233](https://github.com/HuajiMUR233)
+- 仓库: https://github.com/HuajiMUR233/DiamondCalc
+- 标签: [`工具`](/labels/tool/readme-zh_cn.md)
+- 描述: 无
+
+### 插件依赖
+
+| 插件 ID | 依赖需求 |
+| --- | --- |
+
+### 包依赖
+
+| Python 包 | 依赖需求 |
+| --- | --- |
+
+### 介绍
+
+无
+
+### 下载
+
+| 文件 | 版本 | 日期 | 大小 | 下载数 | 操作 |
+| --- | --- | --- | --- | --- | --- |
+
 ## here
 
 ### 基本信息
@@ -593,7 +626,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 日期 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [QuickBackupM-v1.2.2.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.2.2) | 1.2.2 | 2021/08/16 17:06:50 | 20.84KB | 34 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.2.2/QuickBackupM-v1.2.2.mcdr) |
+| [QuickBackupM-v1.2.2.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.2.2) | 1.2.2 | 2021/08/16 17:06:50 | 20.84KB | 35 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.2.2/QuickBackupM-v1.2.2.mcdr) |
 
 ## region_file_updater
 
