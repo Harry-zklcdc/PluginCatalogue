@@ -15,7 +15,7 @@
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMUR233/DiamondCalc
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: None
+- Description: *None*
 
 ### Dependencies
 
@@ -29,7 +29,7 @@
 
 ### Introduction
 
-None
+*None*
 
 ### Download
 

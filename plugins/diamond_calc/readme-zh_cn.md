@@ -15,7 +15,7 @@
 - 作者: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - 仓库: https://github.com/HuajiMUR233/DiamondCalc
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: 无
+- 描述: *无*
 
 ### 插件依赖
 
@@ -29,7 +29,7 @@
 
 ### 介绍
 
-无
+*无*
 
 ### 下载
 
