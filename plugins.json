@@ -1,5 +1,5 @@
 {
-  "plugin_amount": 19,
+  "plugin_amount": 20,
   "plugins": {
     "auto_plugin_reloader": {
       "id": "auto_plugin_reloader",
@@ -103,6 +103,21 @@
         "en_us": "show time in minecraft",
         "zh_cn": "显示游戏中的时间"
       }
+    },
+    "diamond_calc": {
+      "id": "diamond_calc",
+      "name": "Diamond Calculator",
+      "version": "1.0.0",
+      "repository": "https://github.com/HuajiMUR233/DiamondCalc",
+      "labels": [
+        "tool"
+      ],
+      "authors": [
+        "Huaji_MUR233"
+      ],
+      "dependencies": {},
+      "requirements": [],
+      "description": {}
     },
     "here": {
       "id": "here",
