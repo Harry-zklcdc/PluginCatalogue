@@ -662,6 +662,39 @@ None
 | --- | --- | --- | --- | --- | --- |
 | [RegionfileUpdater-v1.4.1.mcdr](https://github.com/TISUnion/RegionFileUpdater/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:03:12 | 15.53KB | 9 | [Download](https://github.com/TISUnion/RegionFileUpdater/releases/download/v1.4.1/RegionfileUpdater-v1.4.1.mcdr) |
 
+## run_some_commands
+
+### Basic Information
+
+- Plugin ID: `run_some_commands`
+- Plugin Name: Run Some Commands
+- Version: 1.0.0
+  - Metadata version: 1.0.0
+  - Release version: 1.0.0
+- Authors: [FlyingShuriken](https://github.com/FlyingShuriken)
+- Repository: https://github.com/FlyingShuriken/MCDR-plugins
+- Labels: [`Tool`](/labels/tool/readme.md)
+- Description: None
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+
+### Introduction
+
+Let player run whitelisted vanilla command
+### Download
+
+| File | Version | Date | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
+| [run_some_commands_v1.0.0.mcdr](https://github.com/FlyingShuriken/MCDR-plugins/releases/tag/v1.0.0) | 1.0.0 | 2021/08/20 14:56:00 | 2.7KB | 0 | [Download](https://github.com/FlyingShuriken/MCDR-plugins/releases/download/v1.0.0/run_some_commands_v1.0.0.mcdr) |
+
 ## stats_helper
 
 ### Basic Information
