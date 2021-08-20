@@ -1,5 +1,5 @@
 {
-  "plugin_amount": 18,
+  "plugin_amount": 19,
   "plugins": {
     "auto_plugin_reloader": {
       "id": "auto_plugin_reloader",
@@ -274,6 +274,29 @@
       "description": {
         "en_us": "A MCDReforged api plugin to get player data information and more",
         "zh_cn": "一个用获得玩家信息等数据的的 API"
+      }
+    },
+    "more_apis": {
+      "id": "more_apis",
+      "name": "More APIs",
+      "version": "2.0.0-rc",
+      "repository": "https://github.com/HuajiMUR233/MoreAPIs",
+      "labels": [
+        "api"
+      ],
+      "authors": [
+        "Huaji_MUR233"
+      ],
+      "dependencies": {},
+      "requirements": [
+        "ruamel.yaml>=0.16.12",
+        "javaproperties>=0.8.0",
+        "mcdreforged>=2.0.0",
+        "parse>=1.18.0"
+      ],
+      "description": {
+        "en_us": "Add some api for MCDReforged",
+        "zh_cn": "给 MCDReforged 添加了一些 API"
       }
     },
     "permanent_backup": {
