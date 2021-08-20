@@ -1,5 +1,5 @@
 {
-  "plugin_amount": 20,
+  "plugin_amount": 21,
   "plugins": {
     "auto_plugin_reloader": {
       "id": "auto_plugin_reloader",
@@ -375,6 +375,21 @@
         "en_us": "A MCDR plugin to help you update region files in game",
         "zh_cn": "一个从指定位置拉取region文件至本服存档的插件"
       }
+    },
+    "run_some_commands": {
+      "id": "run_some_commands",
+      "name": "Run Some Commands",
+      "version": "1.0.0",
+      "repository": "https://github.com/FlyingShuriken/MCDR-plugins",
+      "labels": [
+        "tool"
+      ],
+      "authors": [
+        "FlyingShuriken"
+      ],
+      "dependencies": {},
+      "requirements": [],
+      "description": {}
     },
     "stats_helper": {
       "id": "stats_helper",
