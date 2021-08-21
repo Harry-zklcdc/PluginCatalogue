@@ -1,6 +1,7 @@
 {
   "schema_version": 2,
   "id": "beep",
+  "latest_version": "1.0.0",
   "etag": "\"994545d73a74845344805b48eb84185c130d5eac2c57738ba9982f210f770c90\"",
   "releases": [
     {
@@ -21,6 +22,5 @@
       "prerelease": false,
       "parsed_version": "1.0.0"
     }
-  ],
-  "latest_version": "1.0.0"
+  ]
 }

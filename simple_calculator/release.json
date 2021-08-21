@@ -1,6 +1,7 @@
 {
   "schema_version": 2,
   "id": "simple_calculator",
+  "latest_version": "1.1.0",
   "etag": "\"1d8198362118c78eadf9662f98509f8ca3bb5c8c49089e19b62ab9983ee82c61\"",
   "releases": [
     {
@@ -21,6 +22,5 @@
       "prerelease": false,
       "parsed_version": "1.1.0"
     }
-  ],
-  "latest_version": "1.1.0"
+  ]
 }
