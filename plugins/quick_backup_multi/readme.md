@@ -9,7 +9,7 @@
 - Plugin ID: `quick_backup_multi`
 - Plugin Name: Quick Backup Multi
 - Version: 1.2.2
-  - Metadata version: 1.2.2
+  - Metadata version: 1.3.0
   - Release version: 1.2.2
 - Total downloads: 49
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
@@ -21,13 +21,13 @@
 
 | Plugin ID | Requirement |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0-beta.3 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.1 |
 
 ### Requirements
 
 | Python package | Requirement |
 | --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.0b3 |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.1 |
 
 ### Introduction
 

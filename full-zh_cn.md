@@ -609,7 +609,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 插件 ID: `quick_backup_multi`
 - 插件名: Quick Backup Multi
 - 版本: 1.2.2
-  - 元数据版本: 1.2.2
+  - 元数据版本: 1.3.0
   - 发布版本: 1.2.2
 - 总下载量: 49
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
@@ -621,13 +621,13 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 插件 ID | 依赖需求 |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0-beta.3 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.1 |
 
 ### 包依赖
 
 | Python 包 | 依赖需求 |
 | --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.0b3 |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.1 |
 
 ### 介绍
 
