@@ -44,6 +44,41 @@
 | --- | --- | --- | --- | --- | --- |
 | [AutoPluginReloader-v1.0.1.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.0.1) | 1.0.1 | 2021/08/19 12:27:58 | 17.4KB | 22 | [下载](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.0.1/AutoPluginReloader-v1.0.1.mcdr) |
 
+## beep
+
+### 基本信息
+
+- 插件 ID: `beep`
+- 插件名: Beep
+- 版本: 1.0.0
+  - 元数据版本: 1.0.0
+  - 发布版本: 1.0.0
+- 总下载量: 0
+- 作者: [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi)
+- 仓库: https://github.com/TISUnion/Beep
+- 标签: [`工具`](/labels/tool/readme-zh_cn.md)
+- 描述: @某人，@ all可作用于所有玩家。使用两个@@小心被打
+
+### 插件依赖
+
+| 插件 ID | 依赖需求 |
+| --- | --- |
+
+### 包依赖
+
+| Python 包 | 依赖需求 |
+| --- | --- |
+
+### 介绍
+
+*无*
+
+### 下载
+
+| 文件 | 版本 | 日期 | 大小 | 下载数 | 操作 |
+| --- | --- | --- | --- | --- | --- |
+| [Beep-v1.0.0.mcdr](https://github.com/TISUnion/Beep/releases/tag/v1.0.0) | 1.0.0 | 2021/08/21 15:35:36 | 1.67KB | 0 | [下载](https://github.com/TISUnion/Beep/releases/download/v1.0.0/Beep-v1.0.0.mcdr) |
+
 ## carpetbotlist
 
 ### 基本信息
@@ -715,6 +750,42 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 | 文件 | 版本 | 日期 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
 | [run_some_commands_v1.0.0.mcdr](https://github.com/FlyingShuriken/MCDR-plugins/releases/tag/v1.0.0) | 1.0.0 | 2021/08/20 14:56:00 | 2.7KB | 3 | [下载](https://github.com/FlyingShuriken/MCDR-plugins/releases/download/v1.0.0/run_some_commands_v1.0.0.mcdr) |
+
+## simple_calculator
+
+### 基本信息
+
+- 插件 ID: `simple_calculator`
+- 插件名: Simple in-game calculator
+- 版本: 1.1.0
+  - 元数据版本: 1.1.0
+  - 发布版本: 1.1.0
+- 总下载量: 0
+- 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
+- 仓库: https://github.com/TISUnion/Calculator
+- 标签: [`工具`](/labels/tool/readme-zh_cn.md)
+- 描述: 一个简单的游戏内计算器
+
+### 插件依赖
+
+| 插件 ID | 依赖需求 |
+| --- | --- |
+
+### 包依赖
+
+| Python 包 | 依赖需求 |
+| --- | --- |
+| [simpleeval](https://pypi.org/project/simpleeval) |  |
+
+### 介绍
+
+*无*
+
+### 下载
+
+| 文件 | 版本 | 日期 | 大小 | 下载数 | 操作 |
+| --- | --- | --- | --- | --- | --- |
+| [SimpleCalculator-v1.1.0.mcdr](https://github.com/TISUnion/Calculator/releases/tag/v1.1.0) | 1.1.0 | 2021/08/21 16:39:21 | 15.5KB | 0 | [下载](https://github.com/TISUnion/Calculator/releases/download/v1.1.0/SimpleCalculator-v1.1.0.mcdr) |
 
 ## stats_helper
 

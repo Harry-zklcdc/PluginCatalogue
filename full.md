@@ -44,6 +44,41 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 | --- | --- | --- | --- | --- | --- |
 | [AutoPluginReloader-v1.0.1.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.0.1) | 1.0.1 | 2021/08/19 12:27:58 | 17.4KB | 22 | [Download](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.0.1/AutoPluginReloader-v1.0.1.mcdr) |
 
+## beep
+
+### Basic Information
+
+- Plugin ID: `beep`
+- Plugin Name: Beep
+- Version: 1.0.0
+  - Metadata version: 1.0.0
+  - Release version: 1.0.0
+- Total downloads: 0
+- Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi)
+- Repository: https://github.com/TISUnion/Beep
+- Labels: [`Tool`](/labels/tool/readme.md)
+- Description: Use @ \<someone\> to ping someone, @ all for everyone. Use @@ for a pogger ping
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+
+### Introduction
+
+*None*
+
+### Download
+
+| File | Version | Date | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
+| [Beep-v1.0.0.mcdr](https://github.com/TISUnion/Beep/releases/tag/v1.0.0) | 1.0.0 | 2021/08/21 15:35:36 | 1.67KB | 0 | [Download](https://github.com/TISUnion/Beep/releases/download/v1.0.0/Beep-v1.0.0.mcdr) |
+
 ## carpetbotlist
 
 ### Basic Information
@@ -714,6 +749,42 @@ Let player run whitelisted vanilla command
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
 | [run_some_commands_v1.0.0.mcdr](https://github.com/FlyingShuriken/MCDR-plugins/releases/tag/v1.0.0) | 1.0.0 | 2021/08/20 14:56:00 | 2.7KB | 3 | [Download](https://github.com/FlyingShuriken/MCDR-plugins/releases/download/v1.0.0/run_some_commands_v1.0.0.mcdr) |
+
+## simple_calculator
+
+### Basic Information
+
+- Plugin ID: `simple_calculator`
+- Plugin Name: Simple in-game calculator
+- Version: 1.1.0
+  - Metadata version: 1.1.0
+  - Release version: 1.1.0
+- Total downloads: 0
+- Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
+- Repository: https://github.com/TISUnion/Calculator
+- Labels: [`Tool`](/labels/tool/readme.md)
+- Description: A Simple in-game calculator
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+| [simpleeval](https://pypi.org/project/simpleeval) |  |
+
+### Introduction
+
+*None*
+
+### Download
+
+| File | Version | Date | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
+| [SimpleCalculator-v1.1.0.mcdr](https://github.com/TISUnion/Calculator/releases/tag/v1.1.0) | 1.1.0 | 2021/08/21 16:39:21 | 15.5KB | 0 | [Download](https://github.com/TISUnion/Calculator/releases/download/v1.1.0/SimpleCalculator-v1.1.0.mcdr) |
 
 ## stats_helper
 

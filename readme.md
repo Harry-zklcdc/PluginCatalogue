@@ -13,11 +13,12 @@ Full plugin information document [here](./full.md)
 
 -------
 
-Plugin Amount: 21
+Plugin Amount: 23
 
 | Plugin Name | Authors | Description | Labels |
 | --- | --- | --- | --- |
 | [Auto Plugin Reloader](/plugins/auto_plugin_reloader/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Automatically reload plugins when file changes | [`Management`](/labels/management/readme.md) |
+| [Beep](/plugins/beep/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi) | Use @ \<someone\> to ping someone, @ all for everyone. Use @@ for a pogger ping | [`Tool`](/labels/tool/readme.md) |
 | [CarpetBotList](/plugins/carpetbotlist/readme.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | Help you manage your carpet fake player | [`Tool`](/labels/tool/readme.md) |
 | [ChatBridge Client](/plugins/chatbridge_client/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Boardcast chat between mc servers or even discord server | [`Tool`](/labels/tool/readme.md) |
 | [ChatBridgeReforged_client_mc](/plugins/chatbridgereforged_client_mc/readme.md) | [Ricky](https://github.com/rickyhoho) | Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custome clients). | [`Tool`](/labels/tool/readme.md) |
@@ -36,6 +37,7 @@ Plugin Amount: 21
 | [Quick Backup Multi](/plugins/quick_backup_multi/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A backup / restore plugin, with multiple backup slot | [`Management`](/labels/management/readme.md) |
 | [Region file Updater](/plugins/region_file_updater/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A MCDR plugin to help you update region files in game | [`Management`](/labels/management/readme.md) |
 | [Run Some Commands](/plugins/run_some_commands/readme.md) | [FlyingShuriken](https://github.com/FlyingShuriken) | Let player run whitelisted vanilla command | [`Tool`](/labels/tool/readme.md) |
+| [Simple in-game calculator](/plugins/simple_calculator/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Simple in-game calculator | [`Tool`](/labels/tool/readme.md) |
 | [Stats Helper](/plugins/stats_helper/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Minecraft statistic helper | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
 | [Timed QBM](/plugins/timed_quick_backup_multi/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Quick-Backup-Multi extension for automatically trigger QBM at given interval | [`Management`](/labels/management/readme.md) |
 

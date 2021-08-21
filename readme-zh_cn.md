@@ -13,11 +13,12 @@
 
 -------
 
-插件数量: 21
+插件数量: 23
 
 | 插件名 | 作者 | 描述 | 标签 |
 | --- | --- | --- | --- |
 | [Auto Plugin Reloader](/plugins/auto_plugin_reloader/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 在文件变更时自动重载插件 | [`管理`](/labels/management/readme-zh_cn.md) |
+| [Beep](/plugins/beep/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi) | @某人，@ all可作用于所有玩家。使用两个@@小心被打 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [CarpetBotList](/plugins/carpetbotlist/readme-zh_cn.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | 帮助你管理地毯端假人 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [ChatBridge Client](/plugins/chatbridge_client/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 跨服聊天 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [ChatBridgeReforged_client_mc](/plugins/chatbridgereforged_client_mc/readme-zh_cn.md) | [Ricky](https://github.com/rickyhoho) | ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的交互桥梁，多物互联（不是） | [`工具`](/labels/tool/readme-zh_cn.md) |
@@ -36,6 +37,7 @@
 | [Quick Backup Multi](/plugins/quick_backup_multi/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 多槽位备份/回档插件 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Region file Updater](/plugins/region_file_updater/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个从指定位置拉取region文件至本服存档的插件 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Run Some Commands](/plugins/run_some_commands/readme-zh_cn.md) | [FlyingShuriken](https://github.com/FlyingShuriken) | 讓普通玩家執行已被加入白名單的原版指令 | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [Simple in-game calculator](/plugins/simple_calculator/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个简单的游戏内计算器 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Stats Helper](/plugins/stats_helper/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个 Minecraft 统计信息助手 | [`工具`](/labels/tool/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md) |
 | [Timed QBM](/plugins/timed_quick_backup_multi/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个QuickBackupM插件的扩展，用于定时触发QBM从而进行自动备份 | [`管理`](/labels/management/readme-zh_cn.md) |
 
