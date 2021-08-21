@@ -27,6 +27,7 @@
 | Python package | Requirement |
 | --- | --- |
 | [ruamel.yaml](https://pypi.org/project/ruamel.yaml) |  |
+| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
 
 ### Introduction
 
