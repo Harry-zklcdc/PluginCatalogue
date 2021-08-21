@@ -269,7 +269,7 @@ Show time in Minecraft
 - Version: 1.2.1
   - Metadata version: 1.2.1
   - Release version: 1.2.1
-- Total downloads: 11
+- Total downloads: 12
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/LiteFileManager
 - Labels: [`Management`](/labels/management/readme.md)
@@ -296,7 +296,7 @@ Browse / Import / Export files in the server in Minecraft!
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [LiteFileManager-v1.2.1.mcdr](https://github.com/MCDReforged/LiteFileManager/releases/tag/v1.2.1) | 1.2.1 | 2021/08/16 17:09:01 | 24.56KB | 9 | [Download](https://github.com/MCDReforged/LiteFileManager/releases/download/v1.2.1/LiteFileManager-v1.2.1.mcdr) |
+| [LiteFileManager-v1.2.1.mcdr](https://github.com/MCDReforged/LiteFileManager/releases/tag/v1.2.1) | 1.2.1 | 2021/08/16 17:09:01 | 24.56KB | 10 | [Download](https://github.com/MCDReforged/LiteFileManager/releases/download/v1.2.1/LiteFileManager-v1.2.1.mcdr) |
 | [LiteFileManager-v1.2.0.mcdr](https://github.com/MCDReforged/LiteFileManager/releases/tag/v1.2.0) | 1.2.0 | 2021/08/16 17:07:34 | 12.46KB | 2 | [Download](https://github.com/MCDReforged/LiteFileManager/releases/download/v1.2.0/LiteFileManager-v1.2.0.mcdr) |
 
 ## location_marker
@@ -530,7 +530,7 @@ A MCDReforged api plugin to get player data information and more
 - Version: 2.0.0-rc
   - Metadata version: 2.0.0-rc
   - Release version: 2.0.0-rc
-- Total downloads: 0
+- Total downloads: 1
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMUR233/MoreAPIs
 - Labels: [`API`](/labels/api/readme.md)
@@ -558,7 +558,7 @@ Add some api for MCDReforged
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MoreAPIs-v2.0.0-rc.mcdr](https://github.com/HuajiMUR233/MoreAPIs/releases/tag/2.0.0-rc) | 2.0.0-rc | 2021/08/20 09:57:08 | 18.48KB | 0 | [Download](https://github.com/HuajiMUR233/MoreAPIs/releases/download/2.0.0-rc/MoreAPIs-v2.0.0-rc.mcdr) |
+| [MoreAPIs-v2.0.0-rc.mcdr](https://github.com/HuajiMUR233/MoreAPIs/releases/tag/2.0.0-rc) | 2.0.0-rc | 2021/08/20 09:57:08 | 18.48KB | 1 | [Download](https://github.com/HuajiMUR233/MoreAPIs/releases/download/2.0.0-rc/MoreAPIs-v2.0.0-rc.mcdr) |
 | [MoreAPIs-v2.0.0-beta.1.mcdr](https://github.com/HuajiMUR233/MoreAPIs/releases/tag/2.0.0-beta.1) | 2.0.0-beta.1 | 2021/08/20 09:55:52 | 18.48KB | 0 | [Download](https://github.com/HuajiMUR233/MoreAPIs/releases/download/2.0.0-beta.1/MoreAPIs-v2.0.0-beta.1.mcdr) |
 | [MoreAPIs-v2.0.0-beta.mcdr](https://github.com/HuajiMUR233/MoreAPIs/releases/tag/2.0.0-beta) | 2.0.0-beta | 2021/08/20 08:52:35 | 18.46KB | 0 | [Download](https://github.com/HuajiMUR233/MoreAPIs/releases/download/2.0.0-beta/MoreAPIs-v2.0.0-beta.mcdr) |
 
