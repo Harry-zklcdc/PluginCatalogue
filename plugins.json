@@ -293,8 +293,7 @@
       ],
       "dependencies": {},
       "requirements": [
-        "ruamel.yaml",
-        "mcdreforged"
+        "ruamel.yaml"
       ],
       "description": {
         "en_us": "A panel for MCDR plugin",
