@@ -593,8 +593,8 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 - 插件 ID: `mcdr_plugin_panel`
 - 插件名: MCDR Plugin Panel
-- 版本: 1.0.0-alpha.3
-  - 元数据版本: 1.0.0-alpha.3
+- 版本: 1.0.0-alpha.4
+  - 元数据版本: 1.0.0-alpha.4
   - 发布版本: N/A
 - 总下载量: 0
 - 作者: [ZeroKelvin](https://github.com/BelowZeroKelvin)

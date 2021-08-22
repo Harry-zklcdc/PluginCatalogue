@@ -8,8 +8,8 @@
 
 - Plugin ID: `mcdr_plugin_panel`
 - Plugin Name: MCDR Plugin Panel
-- Version: 1.0.0-alpha.3
-  - Metadata version: 1.0.0-alpha.3
+- Version: 1.0.0-alpha.4
+  - Metadata version: 1.0.0-alpha.4
   - Release version: N/A
 - Total downloads: 0
 - Authors: [ZeroKelvin](https://github.com/BelowZeroKelvin)
