@@ -13,7 +13,7 @@ Full plugin information document [here](./full.md)
 
 -------
 
-Plugin Amount: 29
+Plugin Amount: 30
 
 | Plugin Name | Authors | Description | Labels |
 | --- | --- | --- | --- |
@@ -27,6 +27,7 @@ Plugin Amount: 29
 | [Daytime](/plugins/daytime/readme.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | show time in minecraft | [`Tool`](/labels/tool/readme.md) |
 | [Diamond Calculator](/plugins/diamond_calc/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | *None* | [`Tool`](/labels/tool/readme.md) |
 | [Here](/plugins/here/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | Broadcast your position and high light yourself | [`Information`](/labels/information/readme.md) |
+| [Info](/plugins/info/readme.md) | [zhang_anzhi](https://github.com/zhang-anzhi) | Get server info | [`Information`](/labels/information/readme.md) |
 | [Join MOTD](/plugins/join_motd/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Send player a MOTD when he joins | [`Information`](/labels/information/readme.md) |
 | [Lite File Manager](/plugins/lite_file_manager/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A lite-weight in-game file manager | [`Management`](/labels/management/readme.md) |
 | [Location Marker](/plugins/location_marker/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya) | A server side waypoint manager | [`Information`](/labels/information/readme.md) |
