@@ -1,5 +1,5 @@
 {
-  "plugin_amount": 27,
+  "plugin_amount": 29,
   "plugins": {
     "auto_plugin_reloader": {
       "id": "auto_plugin_reloader",
@@ -279,6 +279,30 @@
         "en_us": "Minecraft UUID API"
       }
     },
+    "mcd_seen": {
+      "id": "mcd_seen",
+      "name": "Seen",
+      "version": "1.1.0-pre.1",
+      "repository": "https://github.com/TISUnion/Seen",
+      "labels": [
+        "tool"
+      ],
+      "authors": [
+        "Pandaria",
+        "Fallen_Breath",
+        "Ra1ny_Yuki"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0-beta.12"
+      },
+      "requirements": [
+        "mcdreforged>=2.0.0b12",
+        "parse"
+      ],
+      "description": {
+        "en_us": "Show laziness rank easily"
+      }
+    },
     "mcd_task": {
       "id": "mcd_task",
       "name": "Task",
@@ -506,6 +530,24 @@
       "description": {
         "en_us": "!!op to get op, !!restart to restart the server",
         "zh_cn": "!!op 以获取op, !!restart 以重启服务器"
+      }
+    },
+    "simple_op_modified": {
+      "id": "simple_op_modified",
+      "name": "Simple OP Modified",
+      "version": "1.0.0",
+      "repository": "https://github.com/Lazy-Bing-Server/SimpleOPModified",
+      "labels": [
+        "tool"
+      ],
+      "authors": [
+        "Fallen_Breath",
+        "Ra1ny_Yuki"
+      ],
+      "dependencies": {},
+      "requirements": [],
+      "description": {
+        "en_us": "!!op to get op, !!restart to restart"
       }
     },
     "stats_helper": {
