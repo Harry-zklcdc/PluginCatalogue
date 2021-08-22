@@ -1,5 +1,5 @@
 {
-  "plugin_amount": 29,
+  "plugin_amount": 30,
   "plugins": {
     "auto_plugin_reloader": {
       "id": "auto_plugin_reloader",
@@ -195,6 +195,26 @@
       "description": {
         "en_us": "Broadcast your position and high light yourself",
         "zh_cn": "一显示坐标并高亮玩家"
+      }
+    },
+    "info": {
+      "id": "info",
+      "name": "Info",
+      "version": "0.0.2",
+      "repository": "https://github.com/zhang-anzhi/MCDReforgedPlugins",
+      "labels": [
+        "information"
+      ],
+      "authors": [
+        "zhang_anzhi"
+      ],
+      "dependencies": {},
+      "requirements": [
+        "psutil"
+      ],
+      "description": {
+        "en_us": "Get server info",
+        "zh_cn": "获取服务器信息"
       }
     },
     "join_motd": {
