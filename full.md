@@ -189,6 +189,40 @@ Reforged of ChatBridge, interaction with other clients(such as minecraft server,
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
 
+## crash_restart
+
+### Basic Information
+
+- Plugin ID: `crash_restart`
+- Plugin Name: Crash Restart
+- Version: 1.0.0
+  - Metadata version: 1.0.0
+  - Release version: N/A
+- Total downloads: 0
+- Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
+- Repository: https://github.com/MCDReforged/CrashRestart
+- Labels: [`Tool`](/labels/tool/readme.md)
+- Description: Automatically restart the server after the server crashed
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+
+### Introduction
+
+*None*
+
+### Download
+
+| File | Version | Date | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
+
 ## daytime
 
 ### Basic Information
@@ -378,7 +412,7 @@ Browse / Import / Export files in the server in Minecraft!
 - Version: 1.3.1
   - Metadata version: 1.3.1
   - Release version: 1.3.1
-- Total downloads: 17
+- Total downloads: 18
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya)
 - Repository: https://github.com/TISUnion/LocationMarker
 - Labels: [`Information`](/labels/information/readme.md)
@@ -404,7 +438,7 @@ Browse / Import / Export files in the server in Minecraft!
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [LocationMarker-v1.3.1.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.1) | 1.3.1 | 2021/08/16 17:09:34 | 17.38KB | 17 | [Download](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.1/LocationMarker-v1.3.1.mcdr) |
+| [LocationMarker-v1.3.1.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.1) | 1.3.1 | 2021/08/16 17:09:34 | 17.38KB | 18 | [Download](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.1/LocationMarker-v1.3.1.mcdr) |
 
 ## mc_uuid
 
