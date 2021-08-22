@@ -1,5 +1,5 @@
 {
-  "plugin_amount": 25,
+  "plugin_amount": 26,
   "plugins": {
     "auto_plugin_reloader": {
       "id": "auto_plugin_reloader",
@@ -101,6 +101,24 @@
       "description": {
         "en_us": "Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custome clients).",
         "zh_cn": "ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的交互桥梁，多物互联（不是）"
+      }
+    },
+    "crash_restart": {
+      "id": "crash_restart",
+      "name": "Crash Restart",
+      "version": "1.0.0",
+      "repository": "https://github.com/MCDReforged/CrashRestart",
+      "labels": [
+        "tool"
+      ],
+      "authors": [
+        "Fallen_Breath"
+      ],
+      "dependencies": {},
+      "requirements": [],
+      "description": {
+        "en_us": "Automatically restart the server after the server crashed",
+        "zh_cn": "在服务端崩溃后自动重启服务器的插件"
       }
     },
     "daytime": {

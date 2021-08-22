@@ -1,6 +1,7 @@
 {
   "schema_version": 2,
   "id": "join_motd",
+  "latest_version": "1.2.0",
   "etag": "\"7ea18ff8003cb27e7980322d3bca05129821649fe01381431aa7d89ecf73a335\"",
   "releases": [
     {
@@ -21,6 +22,5 @@
       "prerelease": false,
       "parsed_version": "1.2.0"
     }
-  ],
-  "latest_version": "1.2.0"
+  ]
 }

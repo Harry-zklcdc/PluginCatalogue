@@ -1,6 +1,7 @@
 {
   "schema_version": 2,
   "id": "simple_op",
+  "latest_version": "1.1.0",
   "etag": "\"b523f9e7ad4adeb90c9e1b66bc3c651fc51b0d0c62c27ddce94407f097ef0478\"",
   "releases": [
     {
@@ -21,6 +22,5 @@
       "prerelease": false,
       "parsed_version": "1.1.0"
     }
-  ],
-  "latest_version": "1.1.0"
+  ]
 }
