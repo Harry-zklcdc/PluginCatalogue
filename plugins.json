@@ -1,5 +1,5 @@
 {
-  "plugin_amount": 23,
+  "plugin_amount": 25,
   "plugins": {
     "auto_plugin_reloader": {
       "id": "auto_plugin_reloader",
@@ -156,6 +156,24 @@
       "description": {
         "en_us": "Broadcast your position and high light yourself",
         "zh_cn": "一显示坐标并高亮玩家"
+      }
+    },
+    "join_motd": {
+      "id": "join_motd",
+      "name": "Join MOTD",
+      "version": "1.2.0",
+      "repository": "https://github.com/TISUnion/joinMOTD",
+      "labels": [
+        "information"
+      ],
+      "authors": [
+        "Fallen_Breath"
+      ],
+      "dependencies": {},
+      "requirements": [],
+      "description": {
+        "en_us": "Send player a MOTD when he joins",
+        "zh_cn": "当玩家加入游戏时向其发送欢迎信息"
       }
     },
     "lite_file_manager": {
@@ -432,6 +450,24 @@
       "description": {
         "en_us": "A Simple in-game calculator",
         "zh_cn": "一个简单的游戏内计算器"
+      }
+    },
+    "simple_op": {
+      "id": "simple_op",
+      "name": "Simple OP",
+      "version": "1.1.0",
+      "repository": "https://github.com/MCDReforged/SimpleOP",
+      "labels": [
+        "tool"
+      ],
+      "authors": [
+        "Fallen_Breath"
+      ],
+      "dependencies": {},
+      "requirements": [],
+      "description": {
+        "en_us": "!!op to get op, !!restart to restart the server",
+        "zh_cn": "!!op 以获取op, !!restart 以重启服务器"
       }
     },
     "stats_helper": {

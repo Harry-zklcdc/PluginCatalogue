@@ -1,0 +1,18 @@
+{
+  "id": "simple_op",
+  "name": "Simple OP",
+  "version": "1.1.0",
+  "repository": "https://github.com/MCDReforged/SimpleOP",
+  "labels": [
+    "tool"
+  ],
+  "authors": [
+    "Fallen_Breath"
+  ],
+  "dependencies": {},
+  "requirements": [],
+  "description": {
+    "en_us": "!!op to get op, !!restart to restart the server",
+    "zh_cn": "!!op 以获取op, !!restart 以重启服务器"
+  }
+}
