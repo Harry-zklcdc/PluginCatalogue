@@ -538,7 +538,6 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 | Python 包 | 依赖需求 |
 | --- | --- |
 | [ruamel.yaml](https://pypi.org/project/ruamel.yaml) |  |
-| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
 
 ### 介绍
 

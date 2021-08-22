@@ -27,7 +27,6 @@
 | Python 包 | 依赖需求 |
 | --- | --- |
 | [ruamel.yaml](https://pypi.org/project/ruamel.yaml) |  |
-| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
 
 ### 介绍
 
