@@ -422,7 +422,7 @@ Show time in Minecraft
 
 ```json
 [
-  "world"
+    "world"
 ]
 ```
 

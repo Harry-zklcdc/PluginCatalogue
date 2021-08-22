@@ -422,7 +422,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 ```json
 [
-  "world"
+    "world"
 ]
 ```
 
