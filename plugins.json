@@ -1,5 +1,5 @@
 {
-  "plugin_amount": 26,
+  "plugin_amount": 27,
   "plugins": {
     "auto_plugin_reloader": {
       "id": "auto_plugin_reloader",
@@ -38,6 +38,27 @@
       "description": {
         "en_us": "Use @ <someone> to ping someone, @ all for everyone. Use @@ for a pogger ping",
         "zh_cn": "@某人，@ all可作用于所有玩家。使用两个@@小心被打"
+      }
+    },
+    "carpet_bot_manager": {
+      "id": "carpet_bot_manager",
+      "name": "Carpet Bot Manager",
+      "version": "0.2.1",
+      "repository": "https://github.com/FAS-Server/CarpetBotManager",
+      "labels": [
+        "tool"
+      ],
+      "authors": [
+        "YehowahLiu"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0",
+        "minecraft_data_api": ">=1.4.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A carpet bot manage plugin, able to spawn bot and make it execute actions",
+        "zh_cn": "一个地毯端bot管理插件，可以点击召唤bot并让其执行系列动作"
       }
     },
     "carpetbotlist": {
