@@ -870,7 +870,7 @@ Add some api for MCDReforged
 - Version: 1.2.0
   - Metadata version: 1.2.0
   - Release version: 1.2.0
-- Total downloads: 2
+- Total downloads: 3
 - Authors: [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/Online
 - Labels: [`Information`](/labels/information/readme.md)
@@ -895,7 +895,7 @@ Display the online players for Group server, with click event to quickly join ev
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [online-v1.2.0.mcdr](https://github.com/FAS-Server/Online/releases/tag/v1.2.0) | 1.2.0 | 2021/08/21 11:06:24 | 2.78KB | 2 | [Download](https://github.com/FAS-Server/Online/releases/download/v1.2.0/online-v1.2.0.mcdr) |
+| [online-v1.2.0.mcdr](https://github.com/FAS-Server/Online/releases/tag/v1.2.0) | 1.2.0 | 2021/08/21 11:06:24 | 2.78KB | 3 | [Download](https://github.com/FAS-Server/Online/releases/download/v1.2.0/online-v1.2.0.mcdr) |
 
 ## permanent_backup
 
@@ -1058,7 +1058,7 @@ Let player run whitelisted vanilla command
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
-- Total downloads: 13
+- Total downloads: 14
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/Calculator
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -1083,7 +1083,7 @@ Let player run whitelisted vanilla command
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [SimpleCalculator-v1.1.0.mcdr](https://github.com/TISUnion/Calculator/releases/tag/v1.1.0) | 1.1.0 | 2021/08/21 16:39:21 | 15.5KB | 13 | [Download](https://github.com/TISUnion/Calculator/releases/download/v1.1.0/SimpleCalculator-v1.1.0.mcdr) |
+| [SimpleCalculator-v1.1.0.mcdr](https://github.com/TISUnion/Calculator/releases/tag/v1.1.0) | 1.1.0 | 2021/08/21 16:39:21 | 15.5KB | 14 | [Download](https://github.com/TISUnion/Calculator/releases/download/v1.1.0/SimpleCalculator-v1.1.0.mcdr) |
 
 ## simple_op
 
