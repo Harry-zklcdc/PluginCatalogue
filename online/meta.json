@@ -1,0 +1,19 @@
+{
+  "id": "online",
+  "name": "online",
+  "version": "1.2.0",
+  "repository": "https://github.com/FAS-Server/Online",
+  "labels": [
+    "information"
+  ],
+  "authors": [
+    "A-JiuA",
+    "Nineking",
+    "YehowahLiu"
+  ],
+  "dependencies": {
+    "mcdreforged": ">=2.0.0"
+  },
+  "requirements": [],
+  "description": {}
+}

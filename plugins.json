@@ -1,5 +1,5 @@
 {
-  "plugin_amount": 30,
+  "plugin_amount": 31,
   "plugins": {
     "auto_plugin_reloader": {
       "id": "auto_plugin_reloader",
@@ -433,6 +433,25 @@
         "en_us": "Add some api for MCDReforged",
         "zh_cn": "给 MCDReforged 添加了一些 API"
       }
+    },
+    "online": {
+      "id": "online",
+      "name": "online",
+      "version": "1.2.0",
+      "repository": "https://github.com/FAS-Server/Online",
+      "labels": [
+        "information"
+      ],
+      "authors": [
+        "A-JiuA",
+        "Nineking",
+        "YehowahLiu"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0"
+      },
+      "requirements": [],
+      "description": {}
     },
     "permanent_backup": {
       "id": "permanent_backup",
