@@ -1094,7 +1094,7 @@ Let player run whitelisted vanilla command
 
 ### Introduction
 
-*None*
+`!!op` to configure auto-op, or `!!restart` to restart serv3r
 
 ### Download
 
