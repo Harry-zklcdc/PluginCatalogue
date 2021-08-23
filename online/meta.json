@@ -1,6 +1,6 @@
 {
   "id": "online",
-  "name": "online",
+  "name": "Online",
   "version": "1.2.0",
   "repository": "https://github.com/FAS-Server/Online",
   "labels": [
@@ -15,5 +15,8 @@
     "mcdreforged": ">=2.0.0"
   },
   "requirements": [],
-  "description": {}
+  "description": {
+    "en_us": "Display the online players for Group server, with click event to quickly join every sub-server.",
+    "zh_cn": "为群组服展示所有在线玩家, 同时提供了点击事件以便于快速切换子服"
+  }
 }
