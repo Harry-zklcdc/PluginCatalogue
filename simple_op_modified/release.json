@@ -1,9 +1,27 @@
 {
   "schema_version": 2,
   "id": "simple_op_modified",
-  "latest_version": "1.0.0",
-  "etag": "\"c27d6b43d337507fe6097ede04df2110c66f934b448aa3800827d3e1e126b383\"",
+  "latest_version": "1.1.0",
+  "etag": "\"5f7fa64620836e400e1188e8e0e84aa48f0212d00cd0500e454b4d7fae999974\"",
   "releases": [
+    {
+      "url": "https://github.com/Lazy-Bing-Server/SimpleOPModified/releases/tag/1.1.0",
+      "name": "v1.1.0",
+      "tag_name": "1.1.0",
+      "created_at": "2021-08-23T06:20:47Z",
+      "assets": [
+        {
+          "name": "SimpleOPModified-v1.1.0.mcdr",
+          "size": 5703,
+          "download_count": 0,
+          "created_at": "2021-08-23T06:23:11Z",
+          "browser_download_url": "https://github.com/Lazy-Bing-Server/SimpleOPModified/releases/download/1.1.0/SimpleOPModified-v1.1.0.mcdr"
+        }
+      ],
+      "description": "Sync changes in LBS: countdown change and restart confirm is a configurable feature now",
+      "prerelease": false,
+      "parsed_version": "1.1.0"
+    },
     {
       "url": "https://github.com/Lazy-Bing-Server/SimpleOPModified/releases/tag/1.0.0",
       "name": "v1.0.0: First release for MCDR 2.0",
