@@ -7,7 +7,7 @@
 ### Basic Information
 
 - Plugin ID: `online`
-- Plugin Name: online
+- Plugin Name: Online
 - Version: 1.2.0
   - Metadata version: 1.2.0
   - Release version: 1.2.0
@@ -15,7 +15,7 @@
 - Authors: [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/Online
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: *None*
+- Description: Display the online players for Group server, with click event to quickly join every sub-server.
 
 ### Dependencies
 

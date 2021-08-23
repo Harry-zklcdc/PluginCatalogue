@@ -7,7 +7,7 @@
 ### 基本信息
 
 - 插件 ID: `online`
-- 插件名: online
+- 插件名: Online
 - 版本: 1.2.0
   - 元数据版本: 1.2.0
   - 发布版本: 1.2.0
@@ -15,7 +15,7 @@
 - 作者: [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu)
 - 仓库: https://github.com/FAS-Server/Online
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
-- 描述: *无*
+- 描述: 为群组服展示所有在线玩家, 同时提供了点击事件以便于快速切换子服
 
 ### 插件依赖
 
