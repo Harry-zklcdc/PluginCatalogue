@@ -1,5 +1,5 @@
 {
-  "plugin_amount": 32,
+  "plugin_amount": 33,
   "plugins": {
     "auto_plugin_reloader": {
       "id": "auto_plugin_reloader",
@@ -122,6 +122,24 @@
       "description": {
         "en_us": "Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custome clients).",
         "zh_cn": "ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的交互桥梁，多物互联（不是）"
+      }
+    },
+    "colored_chat": {
+      "id": "colored_chat",
+      "name": "ColoredChat",
+      "version": "0.0.2",
+      "repository": "https://github.com/zhang-anzhi/MCDReforgedPlugins",
+      "labels": [
+        "tool"
+      ],
+      "authors": [
+        "zhang_anzhi"
+      ],
+      "dependencies": {},
+      "requirements": [],
+      "description": {
+        "en_us": "Support formatting codes for vanilla",
+        "zh_cn": "支持原版显示格式化代码"
       }
     },
     "crash_restart": {

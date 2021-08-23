@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "id": "colored_chat",
+  "etag": "\"38716d337818d1ef98d4750e601151c624ae7c056a068324f024519453dbec46\"",
+  "releases": [
+    {
+      "url": "https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/tag/colored_chat-v0.0.2",
+      "name": "ColoredChat-v0.0.2",
+      "tag_name": "colored_chat-v0.0.2",
+      "created_at": "2021-08-23T09:13:15Z",
+      "assets": [
+        {
+          "name": "ColoredChat-v0.0.2.mcdr",
+          "size": 1575,
+          "download_count": 0,
+          "created_at": "2021-08-23T10:20:29Z",
+          "browser_download_url": "https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/download/colored_chat-v0.0.2/ColoredChat-v0.0.2.mcdr"
+        }
+      ],
+      "description": "",
+      "prerelease": false,
+      "parsed_version": "0.0.2"
+    }
+  ],
+  "latest_version": "0.0.2"
+}
