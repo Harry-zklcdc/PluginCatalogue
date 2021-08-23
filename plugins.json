@@ -1,5 +1,5 @@
 {
-  "plugin_amount": 31,
+  "plugin_amount": 32,
   "plugins": {
     "auto_plugin_reloader": {
       "id": "auto_plugin_reloader",
@@ -590,6 +590,25 @@
       "requirements": [],
       "description": {
         "en_us": "!!op to get op, !!restart to restart"
+      }
+    },
+    "start_stop_helper_r": {
+      "id": "start_stop_helper_r",
+      "name": "StartStopHelperR",
+      "version": "0.0.2",
+      "repository": "https://github.com/zhang-anzhi/MCDReforgedPlugins",
+      "labels": [
+        "management"
+      ],
+      "authors": [
+        "Fallen_Breath",
+        "zhang_anzhi"
+      ],
+      "dependencies": {},
+      "requirements": [],
+      "description": {
+        "en_us": "Start and stop server helper",
+        "zh_cn": "开关服助手"
       }
     },
     "stats_helper": {
