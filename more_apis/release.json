@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "more_apis",
   "latest_version": "2.0.0-rc",
-  "etag": "\"b30adc1d52e7bc04c70247c78ec09e23153808dcb145f797258ab159b8629b82\"",
+  "etag": "\"1197dd24824570758bdb7d5284f2a8475da4d8d0b8bc037cd9cab0f44259c7bc\"",
   "releases": [
     {
       "url": "https://github.com/HuajiMUR233/MoreAPIs/releases/tag/2.0.0-rc",
@@ -13,7 +13,7 @@
         {
           "name": "MoreAPIs-v2.0.0-rc.mcdr",
           "size": 18925,
-          "download_count": 5,
+          "download_count": 6,
           "created_at": "2021-08-20T09:57:08Z",
           "browser_download_url": "https://github.com/HuajiMUR233/MoreAPIs/releases/download/2.0.0-rc/MoreAPIs-v2.0.0-rc.mcdr"
         }
