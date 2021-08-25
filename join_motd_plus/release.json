@@ -1,7 +1,26 @@
 {
   "schema_version": 2,
   "id": "join_motd_plus",
-  "etag": "\"a1c04bb8da05935a40db665abcc364a28608d028dccbcc1779d86e7d473a596e\"",
-  "releases": [],
-  "latest_version": "N/A"
+  "latest_version": "3.0.0",
+  "etag": "\"11bb12ce1bb23efe91e45b8f728f0479251d4be409bd18330b7d793662c5e7f9\"",
+  "releases": [
+    {
+      "url": "https://github.com/eagle3236/joinMOTD_Plus/releases/tag/v3.0.0",
+      "name": "3.0.0",
+      "tag_name": "v3.0.0",
+      "created_at": "2021-08-25T03:19:39Z",
+      "assets": [
+        {
+          "name": "joinMOTD++-v3.0.0.mcdr",
+          "size": 3265,
+          "download_count": 0,
+          "created_at": "2021-08-25T03:32:07Z",
+          "browser_download_url": "https://github.com/eagle3236/joinMOTD_Plus/releases/download/v3.0.0/joinMOTD%2B%2B-v3.0.0.mcdr"
+        }
+      ],
+      "description": "## 新特性 🚀🚀🚀\r\n- MCDR 2！\r\n- 重构大部分代码，增强一堆功能\r\n- 修复一些你不会注意到的问题\r\n\r\n## 注意 ⚠️ \r\n支持 MCDR 1.x 的旧版本可以在 2.x 分支找到。",
+      "prerelease": false,
+      "parsed_version": "3.0.0"
+    }
+  ]
 }
