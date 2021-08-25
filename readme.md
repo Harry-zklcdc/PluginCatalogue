@@ -13,7 +13,7 @@ Full plugin information document [here](./full.md)
 
 -------
 
-Plugin Amount: 34
+Plugin Amount: 35
 
 | Plugin Name | Authors | Description | Labels |
 | --- | --- | --- | --- |
@@ -25,6 +25,7 @@ Plugin Amount: 34
 | [ChatBridgeReforged_client_mc](/plugins/chatbridgereforged_client_mc/readme.md) | [Ricky](https://github.com/rickyhoho) | Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custome clients). | [`Tool`](/labels/tool/readme.md) |
 | [ColoredChat](/plugins/colored_chat/readme.md) | [zhang_anzhi](https://github.com/zhang-anzhi) | Support formatting codes for vanilla | [`Tool`](/labels/tool/readme.md) |
 | [Crash Restart](/plugins/crash_restart/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Automatically restart the server after the server crashed | [`Tool`](/labels/tool/readme.md) |
+| [DayCount NBT](/plugins/daycount_nbt/readme.md) | [Alex3236](https://github.com/eagle3236) | Get and export server opening times. | [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md) |
 | [Daytime](/plugins/daytime/readme.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | show time in minecraft | [`Tool`](/labels/tool/readme.md) |
 | [Diamond Calculator](/plugins/diamond_calc/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | *None* | [`Tool`](/labels/tool/readme.md) |
 | [Here](/plugins/here/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | Broadcast your position and high light yourself | [`Information`](/labels/information/readme.md) |

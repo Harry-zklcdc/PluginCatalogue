@@ -6,10 +6,11 @@
 
 Plugin Index with label `Information`
 
-Plugin Amount: 7
+Plugin Amount: 8
 
 | Plugin Name | Authors | Description | Labels |
 | --- | --- | --- | --- |
+| [DayCount NBT](/plugins/daycount_nbt/readme.md) | [Alex3236](https://github.com/eagle3236) | Get and export server opening times. | [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md) |
 | [Here](/plugins/here/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | Broadcast your position and high light yourself | [`Information`](/labels/information/readme.md) |
 | [Info](/plugins/info/readme.md) | [zhang_anzhi](https://github.com/zhang-anzhi) | Get server info | [`Information`](/labels/information/readme.md) |
 | [Join MOTD](/plugins/join_motd/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Send player a MOTD when he joins | [`Information`](/labels/information/readme.md) |

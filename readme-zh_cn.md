@@ -13,7 +13,7 @@
 
 -------
 
-插件数量: 34
+插件数量: 35
 
 | 插件名 | 作者 | 描述 | 标签 |
 | --- | --- | --- | --- |
@@ -25,6 +25,7 @@
 | [ChatBridgeReforged_client_mc](/plugins/chatbridgereforged_client_mc/readme-zh_cn.md) | [Ricky](https://github.com/rickyhoho) | ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的交互桥梁，多物互联（不是） | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [ColoredChat](/plugins/colored_chat/readme-zh_cn.md) | [zhang_anzhi](https://github.com/zhang-anzhi) | 支持原版显示格式化代码 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Crash Restart](/plugins/crash_restart/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 在服务端崩溃后自动重启服务器的插件 | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [DayCount NBT](/plugins/daycount_nbt/readme-zh_cn.md) | [Alex3236](https://github.com/eagle3236) | 获取和输出服务器开服时间。 | [`信息`](/labels/information/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 | [Daytime](/plugins/daytime/readme-zh_cn.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | 显示游戏中的时间 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Diamond Calculator](/plugins/diamond_calc/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | *无* | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Here](/plugins/here/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | 一显示坐标并高亮玩家 | [`信息`](/labels/information/readme-zh_cn.md) |

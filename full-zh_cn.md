@@ -314,6 +314,47 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 | --- | --- | --- | --- | --- | --- |
 | [CrashRestart-v1.0.0.mcdr](https://github.com/MCDReforged/CrashRestart/releases/tag/v1.0.0) | 1.0.0 | 2021/08/22 04:31:25 | 13.33KB | 18 | [下载](https://github.com/MCDReforged/CrashRestart/releases/download/v1.0.0/CrashRestart-v1.0.0.mcdr) |
 
+## daycount_nbt
+
+### 基本信息
+
+- 插件 ID: `daycount_nbt`
+- 插件名: DayCount NBT
+- 版本: 2.0.0
+  - 元数据版本: 2.0.0
+  - 发布版本: 2.0.0
+- 总下载量: 0
+- 作者: [Alex3236](https://github.com/eagle3236)
+- 仓库: https://github.com/eagle3236/daycount-NBT
+- 标签: [`信息`](/labels/information/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md)
+- 描述: 获取和输出服务器开服时间。
+
+### 插件依赖
+
+| 插件 ID | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.1 |
+
+### 包依赖
+
+| Python 包 | 依赖需求 |
+| --- | --- |
+| [nbtlib](https://pypi.org/project/nbtlib) |  |
+
+### 介绍
+
+获取和输出服务器开服时间。
+
+特色功能：
+- NBT 模式
+
+:warning: **务必在使用前阅读仓库中的 README！**
+### 下载
+
+| 文件 | 版本 | 日期 | 大小 | 下载数 | 操作 |
+| --- | --- | --- | --- | --- | --- |
+| [DayCountNBT-v2.0.0.mcdr](https://github.com/eagle3236/daycount-NBT/releases/tag/v2.0.0) | 2.0.0 | 2021/08/25 09:34:00 | 1.52KB | 0 | [下载](https://github.com/eagle3236/daycount-NBT/releases/download/v2.0.0/DayCountNBT-v2.0.0.mcdr) |
+
 ## daytime
 
 ### 基本信息
