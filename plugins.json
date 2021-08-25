@@ -272,7 +272,8 @@
         "requests"
       ],
       "description": {
-        "en_us": "一个为 MCDR 设计的 MOTD 插件。在玩家进入服务器时展示内容。"
+        "en_us": "在玩家进入服务器时展示内容。（特色功能++）",
+        "zh_cn": "Display content when players join the server. (with many useful features)"
       }
     },
     "lite_file_manager": {
