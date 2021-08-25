@@ -40,6 +40,7 @@ Features:
 - Compatible with most days fetching plugins
 - ...
 
+:warning: **Read README in repository before use!**
 ### Download
 
 | File | Version | Date | Size | Downloads | Operations |
