@@ -1,5 +1,5 @@
 {
-  "plugin_amount": 34,
+  "plugin_amount": 35,
   "plugins": {
     "auto_plugin_reloader": {
       "id": "auto_plugin_reloader",
@@ -158,6 +158,29 @@
       "description": {
         "en_us": "Automatically restart the server after the server crashed",
         "zh_cn": "在服务端崩溃后自动重启服务器的插件"
+      }
+    },
+    "daycount_nbt": {
+      "id": "daycount_nbt",
+      "name": "DayCount NBT",
+      "version": "2.0.0",
+      "repository": "https://github.com/eagle3236/daycount-NBT",
+      "labels": [
+        "information",
+        "api"
+      ],
+      "authors": [
+        "Alex3236"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.1"
+      },
+      "requirements": [
+        "nbtlib"
+      ],
+      "description": {
+        "en_us": "Get and export server opening times.",
+        "zh_cn": "获取和输出服务器开服时间。"
       }
     },
     "daytime": {

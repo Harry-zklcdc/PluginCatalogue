@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "id": "daycount_nbt",
+  "etag": "\"b074cecc9c05359d56be772db6c7fc7a6e78ca53e4865e46be76c5d762c07916\"",
+  "releases": [
+    {
+      "url": "https://github.com/eagle3236/daycount-NBT/releases/tag/v2.0.0",
+      "name": "2.0.0",
+      "tag_name": "v2.0.0",
+      "created_at": "2021-08-25T09:32:10Z",
+      "assets": [
+        {
+          "name": "DayCountNBT-v2.0.0.mcdr",
+          "size": 1553,
+          "download_count": 0,
+          "created_at": "2021-08-25T09:34:00Z",
+          "browser_download_url": "https://github.com/eagle3236/daycount-NBT/releases/download/v2.0.0/DayCountNBT-v2.0.0.mcdr"
+        }
+      ],
+      "description": "## 新特性 🚀🚀🚀\r\n- MCDR 2！",
+      "prerelease": false,
+      "parsed_version": "2.0.0"
+    }
+  ],
+  "latest_version": "2.0.0"
+}
