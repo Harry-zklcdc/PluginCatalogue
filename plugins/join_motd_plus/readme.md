@@ -15,7 +15,7 @@
 - Authors: [Alex3236](https://github.com/eagle3236)
 - Repository: https://github.com/eagle3236/joinMOTD_Plus
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: 在玩家进入服务器时展示内容。（特色功能++）
+- Description: Display content when players join the server. (with many useful features)
 
 ### Dependencies
 

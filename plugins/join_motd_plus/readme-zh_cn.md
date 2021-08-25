@@ -15,7 +15,7 @@
 - 作者: [Alex3236](https://github.com/eagle3236)
 - 仓库: https://github.com/eagle3236/joinMOTD_Plus
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
-- 描述: Display content when players join the server. (with many useful features)
+- 描述: 在玩家进入服务器时展示内容。（特色功能++）
 
 ### 插件依赖
 
