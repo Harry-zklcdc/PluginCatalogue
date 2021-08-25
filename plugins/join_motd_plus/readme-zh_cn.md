@@ -11,11 +11,11 @@
 - 版本: 3.0.0
   - 元数据版本: 3.0.0
   - 发布版本: 3.0.0
-- 总下载量: 0
+- 总下载量: 1
 - 作者: [Alex3236](https://github.com/eagle3236)
 - 仓库: https://github.com/eagle3236/joinMOTD_Plus
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
-- 描述: 一个为 MCDR 设计的 MOTD 插件。在玩家进入服务器时展示内容。
+- 描述: Display content when players join the server. (with many useful features)
 
 ### 插件依赖
 
@@ -43,5 +43,5 @@
 
 | 文件 | 版本 | 日期 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [joinMOTD++-v3.0.0.mcdr](https://github.com/eagle3236/joinMOTD_Plus/releases/tag/v3.0.0) | 3.0.0 | 2021/08/25 03:32:07 | 3.19KB | 0 | [下载](https://github.com/eagle3236/joinMOTD_Plus/releases/download/v3.0.0/joinMOTD%2B%2B-v3.0.0.mcdr) |
+| [joinMOTD++-v3.0.0.mcdr](https://github.com/eagle3236/joinMOTD_Plus/releases/tag/v3.0.0) | 3.0.0 | 2021/08/25 03:32:07 | 3.19KB | 1 | [下载](https://github.com/eagle3236/joinMOTD_Plus/releases/download/v3.0.0/joinMOTD%2B%2B-v3.0.0.mcdr) |
 

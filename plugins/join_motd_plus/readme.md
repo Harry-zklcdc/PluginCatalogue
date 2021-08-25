@@ -11,11 +11,11 @@
 - Version: 3.0.0
   - Metadata version: 3.0.0
   - Release version: 3.0.0
-- Total downloads: 0
+- Total downloads: 1
 - Authors: [Alex3236](https://github.com/eagle3236)
 - Repository: https://github.com/eagle3236/joinMOTD_Plus
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: 一个为 MCDR 设计的 MOTD 插件。在玩家进入服务器时展示内容。
+- Description: 在玩家进入服务器时展示内容。（特色功能++）
 
 ### Dependencies
 
@@ -44,5 +44,5 @@ Features:
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [joinMOTD++-v3.0.0.mcdr](https://github.com/eagle3236/joinMOTD_Plus/releases/tag/v3.0.0) | 3.0.0 | 2021/08/25 03:32:07 | 3.19KB | 0 | [Download](https://github.com/eagle3236/joinMOTD_Plus/releases/download/v3.0.0/joinMOTD%2B%2B-v3.0.0.mcdr) |
+| [joinMOTD++-v3.0.0.mcdr](https://github.com/eagle3236/joinMOTD_Plus/releases/tag/v3.0.0) | 3.0.0 | 2021/08/25 03:32:07 | 3.19KB | 1 | [Download](https://github.com/eagle3236/joinMOTD_Plus/releases/download/v3.0.0/joinMOTD%2B%2B-v3.0.0.mcdr) |
 
