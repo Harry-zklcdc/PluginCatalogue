@@ -1,0 +1,22 @@
+{
+  "id": "join_motd_plus",
+  "name": "joinMOTD++",
+  "version": "3.0.0",
+  "repository": "https://github.com/eagle3236/joinMOTD_Plus",
+  "labels": [
+    "information"
+  ],
+  "authors": [
+    "Alex3236"
+  ],
+  "dependencies": {
+    "mcdreforged": ">=2.0.1"
+  },
+  "requirements": [
+    "mcdreforged>=2.0.1",
+    "requests"
+  ],
+  "description": {
+    "en_us": "一个为 MCDR 设计的 MOTD 插件。在玩家进入服务器时展示内容。"
+  }
+}
