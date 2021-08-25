@@ -1,6 +1,7 @@
 {
   "schema_version": 2,
   "id": "daycount_nbt",
+  "latest_version": "2.0.0",
   "etag": "\"b074cecc9c05359d56be772db6c7fc7a6e78ca53e4865e46be76c5d762c07916\"",
   "releases": [
     {
@@ -21,6 +22,5 @@
       "prerelease": false,
       "parsed_version": "2.0.0"
     }
-  ],
-  "latest_version": "2.0.0"
+  ]
 }
