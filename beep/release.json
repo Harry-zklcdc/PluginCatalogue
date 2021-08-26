@@ -1,9 +1,27 @@
 {
   "schema_version": 2,
   "id": "beep",
-  "latest_version": "1.0.0",
-  "etag": "\"629836c3b5e3c4416c393b1464e815e157bd562cbcb9131f9d6f3a6a88b9a4d6\"",
+  "latest_version": "1.1.0",
+  "etag": "\"74b190430681d732fae134fda89b051cbd340de5f43c7fe8138175864ff82437\"",
   "releases": [
+    {
+      "url": "https://github.com/TISUnion/Beep/releases/tag/v1.1.0",
+      "name": "Beep v1.1.0",
+      "tag_name": "v1.1.0",
+      "created_at": "2021-08-26T13:49:50Z",
+      "assets": [
+        {
+          "name": "Beep-v1.1.0.mcdr",
+          "size": 1777,
+          "download_count": 0,
+          "created_at": "2021-08-26T14:01:49Z",
+          "browser_download_url": "https://github.com/TISUnion/Beep/releases/download/v1.1.0/Beep-v1.1.0.mcdr"
+        }
+      ],
+      "description": "- Upgraded to MCDR 2.1+ better translation logic\r\n",
+      "prerelease": false,
+      "parsed_version": "1.1.0"
+    },
     {
       "url": "https://github.com/TISUnion/Beep/releases/tag/v1.0.0",
       "name": "",
