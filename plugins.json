@@ -4,7 +4,7 @@
     "auto_plugin_reloader": {
       "id": "auto_plugin_reloader",
       "name": "Auto Plugin Reloader",
-      "version": "1.0.1",
+      "version": "1.1.0",
       "repository": "https://github.com/TISUnion/AutoPluginReloader",
       "labels": [
         "management"
@@ -13,7 +13,7 @@
         "Fallen_Breath"
       ],
       "dependencies": {
-        "mcdreforged": ">=2.0.1"
+        "mcdreforged": ">=2.1.0-beta"
       },
       "requirements": [],
       "description": {
@@ -543,7 +543,7 @@
     "quick_backup_multi": {
       "id": "quick_backup_multi",
       "name": "Quick Backup Multi",
-      "version": "1.3.3",
+      "version": "1.4.0",
       "repository": "https://github.com/TISUnion/QuickBackupM",
       "labels": [
         "management"
@@ -552,7 +552,7 @@
         "Fallen_Breath"
       ],
       "dependencies": {
-        "mcdreforged": ">=2.0.1"
+        "mcdreforged": ">=2.1.0-beta"
       },
       "requirements": [
         "mcdreforged>=2.0.1"
@@ -623,7 +623,7 @@
     "simple_op": {
       "id": "simple_op",
       "name": "Simple OP",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "repository": "https://github.com/MCDReforged/SimpleOP",
       "labels": [
         "tool"
@@ -631,7 +631,9 @@
       "authors": [
         "Fallen_Breath"
       ],
-      "dependencies": {},
+      "dependencies": {
+        "mcdreforged": ">=2.1.0-beta"
+      },
       "requirements": [],
       "description": {
         "en_us": "!!op to get op, !!restart to restart the server",
@@ -678,7 +680,7 @@
     "stats_helper": {
       "id": "stats_helper",
       "name": "Stats Helper",
-      "version": "7.1.3",
+      "version": "7.2.0",
       "repository": "https://github.com/TISUnion/StatsHelper",
       "labels": [
         "tool",
@@ -688,7 +690,7 @@
         "Fallen_Breath"
       ],
       "dependencies": {
-        "mcdreforged": ">=2.0.0-beta.7"
+        "mcdreforged": ">=2.1.0-beta.1"
       },
       "requirements": [
         "mcdreforged>=2.0.0b7"
