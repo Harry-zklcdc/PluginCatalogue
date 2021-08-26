@@ -8,8 +8,8 @@
 
 - 插件 ID: `mcdr_plugin_panel`
 - 插件名: MCDR Plugin Panel
-- 版本: 1.0.0-alpha.5
-  - 元数据版本: 1.0.0-alpha.5
+- 版本: 1.0.0-alpha.6
+  - 元数据版本: 1.0.0-alpha.6
   - 发布版本: N/A
 - 总下载量: 0
 - 作者: [ZeroKelvin](https://github.com/BelowZeroKelvin)
