@@ -8,9 +8,9 @@
 
 - Plugin ID: `beep`
 - Plugin Name: Beep
-- Version: 1.0.0
-  - Metadata version: 1.0.0
-  - Release version: 1.0.0
+- Version: 1.1.0
+  - Metadata version: 1.1.0
+  - Release version: 1.1.0
 - Total downloads: 18
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi)
 - Repository: https://github.com/TISUnion/Beep
@@ -21,6 +21,7 @@
 
 | Plugin ID | Requirement |
 | --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0 |
 
 ### Requirements
 
@@ -35,5 +36,6 @@
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
+| [Beep-v1.1.0.mcdr](https://github.com/TISUnion/Beep/releases/tag/v1.1.0) | 1.1.0 | 2021/08/26 14:01:49 | 1.74KB | 0 | [Download](https://github.com/TISUnion/Beep/releases/download/v1.1.0/Beep-v1.1.0.mcdr) |
 | [Beep-v1.0.0.mcdr](https://github.com/TISUnion/Beep/releases/tag/v1.0.0) | 1.0.0 | 2021/08/21 15:35:36 | 1.67KB | 18 | [Download](https://github.com/TISUnion/Beep/releases/download/v1.0.0/Beep-v1.0.0.mcdr) |
 
