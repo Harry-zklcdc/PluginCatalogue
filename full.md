@@ -326,7 +326,7 @@ Reforged of ChatBridge, interaction with other clients(such as minecraft server,
 - Version: 2.0.0
   - Metadata version: 2.0.0
   - Release version: 2.0.0
-- Total downloads: 5
+- Total downloads: 6
 - Authors: [Alex3236](https://github.com/eagle3236)
 - Repository: https://github.com/eagle3236/daycount-NBT
 - Labels: [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md)
@@ -356,7 +356,7 @@ Feature:
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [DayCountNBT-v2.0.0.mcdr](https://github.com/eagle3236/daycount-NBT/releases/tag/v2.0.0) | 2.0.0 | 2021/08/25 09:34:00 | 1.52KB | 5 | [Download](https://github.com/eagle3236/daycount-NBT/releases/download/v2.0.0/DayCountNBT-v2.0.0.mcdr) |
+| [DayCountNBT-v2.0.0.mcdr](https://github.com/eagle3236/daycount-NBT/releases/tag/v2.0.0) | 2.0.0 | 2021/08/25 09:34:00 | 1.52KB | 6 | [Download](https://github.com/eagle3236/daycount-NBT/releases/download/v2.0.0/DayCountNBT-v2.0.0.mcdr) |
 
 ## daytime
 
@@ -540,7 +540,7 @@ Show time in Minecraft
 - Version: 1.2.0
   - Metadata version: 1.2.0
   - Release version: 1.2.0
-- Total downloads: 22
+- Total downloads: 23
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/joinMOTD
 - Labels: [`Information`](/labels/information/readme.md)
@@ -564,7 +564,7 @@ Show time in Minecraft
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [JoinMOTD-v1.2.0.mcdr](https://github.com/TISUnion/joinMOTD/releases/tag/v1.2.0) | 1.2.0 | 2021/08/22 04:18:37 | 1.53KB | 22 | [Download](https://github.com/TISUnion/joinMOTD/releases/download/v1.2.0/JoinMOTD-v1.2.0.mcdr) |
+| [JoinMOTD-v1.2.0.mcdr](https://github.com/TISUnion/joinMOTD/releases/tag/v1.2.0) | 1.2.0 | 2021/08/22 04:18:37 | 1.53KB | 23 | [Download](https://github.com/TISUnion/joinMOTD/releases/download/v1.2.0/JoinMOTD-v1.2.0.mcdr) |
 
 ## join_motd_plus
 
@@ -1037,7 +1037,7 @@ Display the online players for Group server, with click event to quickly join ev
 - Version: 1.4.1
   - Metadata version: 1.4.1
   - Release version: 1.4.1
-- Total downloads: 92
+- Total downloads: 93
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/QuickBackupM
 - Labels: [`Management`](/labels/management/readme.md)
@@ -1070,7 +1070,7 @@ Features:
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [QuickBackupM-v1.4.1.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.1) | 1.4.1 | 2021/08/27 09:44:34 | 21.72KB | 0 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.4.1/QuickBackupM-v1.4.1.mcdr) |
+| [QuickBackupM-v1.4.1.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.1) | 1.4.1 | 2021/08/27 09:44:34 | 21.72KB | 1 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.4.1/QuickBackupM-v1.4.1.mcdr) |
 | [QuickBackupM-v1.3.3.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.3.3) | 1.3.3 | 2021/08/24 16:01:43 | 21.09KB | 13 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.3.3/QuickBackupM-v1.3.3.mcdr) |
 | [QuickBackupM-v1.2.2.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.2.2) | 1.2.2 | 2021/08/16 17:06:50 | 20.84KB | 79 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.2.2/QuickBackupM-v1.2.2.mcdr) |
 
