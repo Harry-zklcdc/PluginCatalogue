@@ -1,5 +1,5 @@
 {
-  "plugin_amount": 35,
+  "plugin_amount": 36,
   "plugins": {
     "auto_plugin_reloader": {
       "id": "auto_plugin_reloader",
@@ -722,6 +722,25 @@
       "description": {
         "en_us": "A Quick-Backup-Multi extension for automatically trigger QBM at given interval",
         "zh_cn": "一个QuickBackupM插件的扩展，用于定时触发QBM从而进行自动备份"
+      }
+    },
+    "wiki_request": {
+      "id": "wiki_request",
+      "name": "Wiki Request Plugin",
+      "version": "3.0",
+      "repository": "https://github.com/DrLee-lihr/WikiRequest",
+      "labels": [
+        "information"
+      ],
+      "authors": [
+        "DrLee_lihr"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0-alpha.1"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A plugin to look up any MediaWiki"
       }
     }
   }
