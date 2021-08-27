@@ -1,6 +1,7 @@
 {
   "schema_version": 2,
   "id": "lazytp",
+  "latest_version": "2.0.1",
   "etag": "\"c3dc94438def9b0d8e1525b0e19d0ce67feacbcf55641a5d8b3d80e0a3b7fbb7\"",
   "releases": [
     {
@@ -39,6 +40,5 @@
       "prerelease": false,
       "parsed_version": "2.0.0"
     }
-  ],
-  "latest_version": "2.0.1"
+  ]
 }
