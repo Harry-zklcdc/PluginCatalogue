@@ -1,9 +1,27 @@
 {
   "schema_version": 2,
   "id": "mcd_seen",
-  "latest_version": "1.1.0",
-  "etag": "\"b9a19d197f7ff766d5a5884ec792ccb431e41d0a32d418afda15bf902e98af3d\"",
+  "latest_version": "1.1.1",
+  "etag": "\"52590e145218d34bb9a5a9fbf69fa5bcceeeaae966c98508c48be1c60d0588e9\"",
   "releases": [
+    {
+      "url": "https://github.com/TISUnion/Seen/releases/tag/1.1.1",
+      "name": "1.1.1",
+      "tag_name": "1.1.1",
+      "created_at": "2018-12-24T17:43:41Z",
+      "assets": [
+        {
+          "name": "Seen-v1.1.1.mcdr",
+          "size": 10016,
+          "download_count": 0,
+          "created_at": "2021-08-27T06:13:23Z",
+          "browser_download_url": "https://github.com/TISUnion/Seen/releases/download/1.1.1/Seen-v1.1.1.mcdr"
+        }
+      ],
+      "description": "1. Fixed english help message\r\n2. Loading warning now will only be displayed when server running",
+      "prerelease": false,
+      "parsed_version": "1.1.1"
+    },
     {
       "url": "https://github.com/TISUnion/Seen/releases/tag/1.1.0",
       "name": "1.1.0 for MCDR2.0",
