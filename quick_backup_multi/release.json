@@ -1,26 +1,26 @@
 {
   "schema_version": 2,
   "id": "quick_backup_multi",
-  "latest_version": "1.4.0",
-  "etag": "\"92ca843de0b46bcffb4d4772a3075c15df20bc3e3990a9f8ccf13b63d2953fcd\"",
+  "latest_version": "1.4.1",
+  "etag": "\"de30b06946c402726897ae31936b5d4633382c499f0b550ffb39bdf201365480\"",
   "releases": [
     {
-      "url": "https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.0",
+      "url": "https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.1",
       "name": "QuickBackupM v1.4",
-      "tag_name": "v1.4.0",
-      "created_at": "2021-08-26T13:38:01Z",
+      "tag_name": "v1.4.1",
+      "created_at": "2021-08-27T09:44:14Z",
       "assets": [
         {
-          "name": "QuickBackupM-v1.4.0.mcdr",
+          "name": "QuickBackupM-v1.4.1.mcdr",
           "size": 22243,
-          "download_count": 5,
-          "created_at": "2021-08-26T13:41:36Z",
-          "browser_download_url": "https://github.com/TISUnion/QuickBackupM/releases/download/v1.4.0/QuickBackupM-v1.4.0.mcdr"
+          "download_count": 0,
+          "created_at": "2021-08-27T09:44:34Z",
+          "browser_download_url": "https://github.com/TISUnion/QuickBackupM/releases/download/v1.4.1/QuickBackupM-v1.4.1.mcdr"
         }
       ],
       "description": "- Added  `ignored_files` option with default value `['session.lock']` in config file for #22\r\n  - Removed option `ignore_session_lock`\r\n- Upgraded to MCDR 2.1+ better translation logic\r\n",
       "prerelease": false,
-      "parsed_version": "1.4.0"
+      "parsed_version": "1.4.1"
     },
     {
       "url": "https://github.com/TISUnion/QuickBackupM/releases/tag/v1.3.3",
