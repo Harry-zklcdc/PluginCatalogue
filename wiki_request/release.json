@@ -1,6 +1,7 @@
 {
   "schema_version": 2,
   "id": "wiki_request",
+  "latest_version": "3.0",
   "etag": "\"ec16fdb5a99420d9610a5cb560f8c158674dbe77ffd7277c701d848bba0ed873\"",
   "releases": [
     {
@@ -28,6 +29,5 @@
       "prerelease": false,
       "parsed_version": "3.0"
     }
-  ],
-  "latest_version": "3.0"
+  ]
 }
