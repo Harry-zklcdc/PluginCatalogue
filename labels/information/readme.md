@@ -6,7 +6,7 @@
 
 Plugin Index with label `Information`
 
-Plugin Amount: 8
+Plugin Amount: 9
 
 | Plugin Name | Authors | Description | Labels |
 | --- | --- | --- | --- |
@@ -18,4 +18,5 @@ Plugin Amount: 8
 | [Location Marker](/plugins/location_marker/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya) | A server side waypoint manager | [`Information`](/labels/information/readme.md) |
 | [Online](/plugins/online/readme.md) | [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu) | Display the online players for Group server, with click event to quickly join every sub-server. | [`Information`](/labels/information/readme.md) |
 | [Stats Helper](/plugins/stats_helper/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Minecraft statistic helper | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
+| [Wiki Request Plugin](/plugins/wiki_request/readme.md) | [DrLee_lihr](https://github.com/DrLee-lihr) | A plugin to look up any MediaWiki | [`Information`](/labels/information/readme.md) |
 
