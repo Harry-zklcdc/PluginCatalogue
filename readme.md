@@ -13,7 +13,7 @@ Full plugin information document [here](./full.md)
 
 -------
 
-Plugin Amount: 36
+Plugin Amount: 37
 
 | Plugin Name | Authors | Description | Labels |
 | --- | --- | --- | --- |
@@ -32,6 +32,7 @@ Plugin Amount: 36
 | [Info](/plugins/info/readme.md) | [zhang_anzhi](https://github.com/zhang-anzhi) | Get server info | [`Information`](/labels/information/readme.md) |
 | [Join MOTD](/plugins/join_motd/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Send player a MOTD when he joins | [`Information`](/labels/information/readme.md) |
 | [joinMOTD++](/plugins/join_motd_plus/readme.md) | [Alex3236](https://github.com/eagle3236) | Display content when players join the server. (with many useful features) | [`Information`](/labels/information/readme.md) |
+| [Lazy Teleport](/plugins/lazytp/readme.md) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | A express gateway between each dimensions | [`Tool`](/labels/tool/readme.md) |
 | [Lite File Manager](/plugins/lite_file_manager/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A lite-weight in-game file manager | [`Management`](/labels/management/readme.md) |
 | [Location Marker](/plugins/location_marker/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya) | A server side waypoint manager | [`Information`](/labels/information/readme.md) |
 | [Minecraft UUID API](/plugins/mc_uuid/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | Minecraft UUID API | [`API`](/labels/api/readme.md) |
