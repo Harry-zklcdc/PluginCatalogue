@@ -9,7 +9,7 @@
 - 插件 ID: `more_apis`
 - 插件名: More APIs
 - 版本: 2.1.0
-  - 元数据版本: 2.1.0
+  - 元数据版本: 2.1.1-beta
   - 发布版本: 2.1.0
 - 总下载量: 12
 - 作者: [Huaji_MUR233](https://github.com/HuajiMUR233)
@@ -30,6 +30,7 @@
 | [ruamel.yaml](https://pypi.org/project/ruamel.yaml) | \>=0.16.12 |
 | [javaproperties](https://pypi.org/project/javaproperties) | \>=0.8.0 |
 | [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.1.0 |
+| [dnspython](https://pypi.org/project/dnspython) | \>=2.1.0 |
 | [parse](https://pypi.org/project/parse) | \>=1.18.0 |
 
 ### 介绍
