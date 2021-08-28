@@ -1448,7 +1448,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 - Version: 3.0
   - Metadata version: 3.0
   - Release version: 3.0
-- Total downloads: 0
+- Total downloads: 4
 - Authors: [DrLee_lihr](https://github.com/DrLee-lihr)
 - Repository: https://github.com/DrLee-lihr/WikiRequest
 - Labels: [`Information`](/labels/information/readme.md)
@@ -1474,5 +1474,5 @@ It's a plugin to look up any MediaWiki (such as Minecraft Wiki,and so on) and re
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [WikiRequestPlugin-v3.0.mcdr](https://github.com/DrLee-lihr/WikiRequest/releases/tag/v3.0) | 3.0 | 2021/08/27 12:16:57 | 2.75KB | 0 | [Download](https://github.com/DrLee-lihr/WikiRequest/releases/download/v3.0/WikiRequestPlugin-v3.0.mcdr) |
+| [WikiRequestPlugin-v3.0.mcdr](https://github.com/DrLee-lihr/WikiRequest/releases/tag/v3.0) | 3.0 | 2021/08/27 12:16:57 | 2.75KB | 4 | [Download](https://github.com/DrLee-lihr/WikiRequest/releases/download/v3.0/WikiRequestPlugin-v3.0.mcdr) |
 
