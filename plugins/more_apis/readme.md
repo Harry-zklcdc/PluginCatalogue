@@ -9,7 +9,7 @@
 - Plugin ID: `more_apis`
 - Plugin Name: More APIs
 - Version: 2.0.0-rc
-  - Metadata version: 2.0.0-rc
+  - Metadata version: 2.1.0
   - Release version: 2.0.0-rc
 - Total downloads: 12
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
@@ -21,6 +21,7 @@
 
 | Plugin ID | Requirement |
 | --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0 |
 
 ### Requirements
 
@@ -28,7 +29,7 @@
 | --- | --- |
 | [ruamel.yaml](https://pypi.org/project/ruamel.yaml) | \>=0.16.12 |
 | [javaproperties](https://pypi.org/project/javaproperties) | \>=0.8.0 |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.0 |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.1.0 |
 | [parse](https://pypi.org/project/parse) | \>=1.18.0 |
 
 ### Introduction

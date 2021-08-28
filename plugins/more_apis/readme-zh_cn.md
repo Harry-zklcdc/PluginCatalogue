@@ -9,7 +9,7 @@
 - 插件 ID: `more_apis`
 - 插件名: More APIs
 - 版本: 2.0.0-rc
-  - 元数据版本: 2.0.0-rc
+  - 元数据版本: 2.1.0
   - 发布版本: 2.0.0-rc
 - 总下载量: 12
 - 作者: [Huaji_MUR233](https://github.com/HuajiMUR233)
@@ -21,6 +21,7 @@
 
 | 插件 ID | 依赖需求 |
 | --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0 |
 
 ### 包依赖
 
@@ -28,7 +29,7 @@
 | --- | --- |
 | [ruamel.yaml](https://pypi.org/project/ruamel.yaml) | \>=0.16.12 |
 | [javaproperties](https://pypi.org/project/javaproperties) | \>=0.8.0 |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.0 |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.1.0 |
 | [parse](https://pypi.org/project/parse) | \>=1.18.0 |
 
 ### 介绍
