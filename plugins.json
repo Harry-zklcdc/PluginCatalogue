@@ -165,7 +165,7 @@
     "daycount_nbt": {
       "id": "daycount_nbt",
       "name": "DayCount NBT",
-      "version": "2.0.0",
+      "version": "2.0.1",
       "repository": "https://github.com/eagle3236/daycount-NBT",
       "labels": [
         "information",
@@ -504,7 +504,7 @@
     "more_apis": {
       "id": "more_apis",
       "name": "More APIs",
-      "version": "2.0.0-rc",
+      "version": "2.1.0",
       "repository": "https://github.com/HuajiMUR233/MoreAPIs",
       "labels": [
         "api"
@@ -512,11 +512,13 @@
       "authors": [
         "Huaji_MUR233"
       ],
-      "dependencies": {},
+      "dependencies": {
+        "mcdreforged": ">=2.1.0"
+      },
       "requirements": [
         "ruamel.yaml>=0.16.12",
         "javaproperties>=0.8.0",
-        "mcdreforged>=2.0.0",
+        "mcdreforged>=2.1.0",
         "parse>=1.18.0"
       ],
       "description": {

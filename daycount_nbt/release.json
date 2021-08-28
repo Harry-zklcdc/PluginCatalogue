@@ -1,9 +1,27 @@
 {
   "schema_version": 2,
   "id": "daycount_nbt",
-  "latest_version": "2.0.0",
-  "etag": "\"bcdec09388b0f1dab5244d87d11f6a8552dce59284ae065e323358000d15fd37\"",
+  "latest_version": "2.0.1",
+  "etag": "\"fceee336199c19d4bb52f6428f311e8afa3167f20f777315110b5657ff6ecbf2\"",
   "releases": [
+    {
+      "url": "https://github.com/eagle3236/daycount-NBT/releases/tag/v2.0.1",
+      "name": "2.0.1",
+      "tag_name": "v2.0.1",
+      "created_at": "2021-08-28T03:17:31Z",
+      "assets": [
+        {
+          "name": "DayCountNBT-v2.0.1.mcdr",
+          "size": 1384,
+          "download_count": 0,
+          "created_at": "2021-08-28T03:20:11Z",
+          "browser_download_url": "https://github.com/eagle3236/daycount-NBT/releases/download/v2.0.1/DayCountNBT-v2.0.1.mcdr"
+        }
+      ],
+      "description": "## 🔨 修复问题\r\n- 删除旧的 PLUGIN_METADATA\r\n- 修复一个定义错误",
+      "prerelease": false,
+      "parsed_version": "2.0.1"
+    },
     {
       "url": "https://github.com/eagle3236/daycount-NBT/releases/tag/v2.0.0",
       "name": "2.0.0",
@@ -13,7 +31,7 @@
         {
           "name": "DayCountNBT-v2.0.0.mcdr",
           "size": 1553,
-          "download_count": 8,
+          "download_count": 9,
           "created_at": "2021-08-25T09:34:00Z",
           "browser_download_url": "https://github.com/eagle3236/daycount-NBT/releases/download/v2.0.0/DayCountNBT-v2.0.0.mcdr"
         }
