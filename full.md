@@ -327,7 +327,7 @@ Reforged of ChatBridge, interaction with other clients(such as minecraft server,
 - Version: 2.0.1
   - Metadata version: 2.0.1
   - Release version: 2.0.1
-- Total downloads: 11
+- Total downloads: 12
 - Authors: [Alex3236](https://github.com/eagle3236)
 - Repository: https://github.com/eagle3236/daycount-NBT
 - Labels: [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md)
@@ -357,7 +357,7 @@ Feature:
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [DayCountNBT-v2.0.1.mcdr](https://github.com/eagle3236/daycount-NBT/releases/tag/v2.0.1) | 2.0.1 | 2021/08/28 03:20:11 | 1.35KB | 2 | [Download](https://github.com/eagle3236/daycount-NBT/releases/download/v2.0.1/DayCountNBT-v2.0.1.mcdr) |
+| [DayCountNBT-v2.0.1.mcdr](https://github.com/eagle3236/daycount-NBT/releases/tag/v2.0.1) | 2.0.1 | 2021/08/28 03:20:11 | 1.35KB | 3 | [Download](https://github.com/eagle3236/daycount-NBT/releases/download/v2.0.1/DayCountNBT-v2.0.1.mcdr) |
 | [DayCountNBT-v2.0.0.mcdr](https://github.com/eagle3236/daycount-NBT/releases/tag/v2.0.0) | 2.0.0 | 2021/08/25 09:34:00 | 1.52KB | 9 | [Download](https://github.com/eagle3236/daycount-NBT/releases/download/v2.0.0/DayCountNBT-v2.0.0.mcdr) |
 
 ## daytime
@@ -577,7 +577,7 @@ Show time in Minecraft
 - Version: 3.0.0
   - Metadata version: 3.0.0
   - Release version: 3.0.0
-- Total downloads: 8
+- Total downloads: 9
 - Authors: [Alex3236](https://github.com/eagle3236)
 - Repository: https://github.com/eagle3236/joinMOTD_Plus
 - Labels: [`Information`](/labels/information/readme.md)
@@ -611,7 +611,7 @@ Features:
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [join_motd_plus_3.0.0.mcdr](https://github.com/eagle3236/joinMOTD_Plus/releases/tag/v3.0.0) | 3.0.0 | 2021/08/25 03:32:07 | 3.19KB | 8 | [Download](https://github.com/eagle3236/joinMOTD_Plus/releases/download/v3.0.0/join_motd_plus_3.0.0.mcdr) |
+| [join_motd_plus_3.0.0.mcdr](https://github.com/eagle3236/joinMOTD_Plus/releases/tag/v3.0.0) | 3.0.0 | 2021/08/25 03:32:07 | 3.19KB | 9 | [Download](https://github.com/eagle3236/joinMOTD_Plus/releases/download/v3.0.0/join_motd_plus_3.0.0.mcdr) |
 
 ## lazytp
 
@@ -1375,7 +1375,7 @@ Let player run whitelisted vanilla command
 - Version: 7.2.0
   - Metadata version: 7.2.0
   - Release version: 7.2.0
-- Total downloads: 74
+- Total downloads: 76
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/StatsHelper
 - Labels: [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md)
@@ -1401,7 +1401,7 @@ Use `!!stats` to see the value / rank, or build a scoreboard from given statisti
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [StatsHelper-v7.2.0.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.2.0) | 7.2.0 | 2021/08/26 13:47:17 | 22.62KB | 4 | [Download](https://github.com/TISUnion/StatsHelper/releases/download/v7.2.0/StatsHelper-v7.2.0.mcdr) |
+| [StatsHelper-v7.2.0.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.2.0) | 7.2.0 | 2021/08/26 13:47:17 | 22.62KB | 6 | [Download](https://github.com/TISUnion/StatsHelper/releases/download/v7.2.0/StatsHelper-v7.2.0.mcdr) |
 | [StatsHelper-v7.1.3.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.1.3) | 7.1.3 | 2021/08/16 17:11:23 | 22.43KB | 39 | [Download](https://github.com/TISUnion/StatsHelper/releases/download/v7.1.3/StatsHelper-v7.1.3.mcdr) |
 | [StatsHelper-v7.1.1.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.1.1) | 7.1.1 | 2021/08/15 03:16:33 | 29.06KB | 16 | [Download](https://github.com/TISUnion/StatsHelper/releases/download/v7.1.1/StatsHelper-v7.1.1.mcdr) |
 
