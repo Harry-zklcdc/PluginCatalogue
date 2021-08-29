@@ -577,7 +577,7 @@ Show time in Minecraft
 - Version: 3.0.0
   - Metadata version: 3.0.0
   - Release version: 3.0.0
-- Total downloads: 9
+- Total downloads: 10
 - Authors: [Alex3236](https://github.com/eagle3236)
 - Repository: https://github.com/eagle3236/joinMOTD_Plus
 - Labels: [`Information`](/labels/information/readme.md)
@@ -611,7 +611,7 @@ Features:
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [join_motd_plus_3.0.0.mcdr](https://github.com/eagle3236/joinMOTD_Plus/releases/tag/v3.0.0) | 3.0.0 | 2021/08/25 03:32:07 | 3.19KB | 9 | [Download](https://github.com/eagle3236/joinMOTD_Plus/releases/download/v3.0.0/join_motd_plus_3.0.0.mcdr) |
+| [join_motd_plus_3.0.0.mcdr](https://github.com/eagle3236/joinMOTD_Plus/releases/tag/v3.0.0) | 3.0.0 | 2021/08/25 03:32:07 | 3.19KB | 10 | [Download](https://github.com/eagle3236/joinMOTD_Plus/releases/download/v3.0.0/join_motd_plus_3.0.0.mcdr) |
 
 ## lazytp
 
@@ -1163,7 +1163,7 @@ Features:
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
-- Total downloads: 9
+- Total downloads: 10
 - Authors: [FlyingShuriken](https://github.com/FlyingShuriken)
 - Repository: https://github.com/FlyingShuriken/MCDR-plugins
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -1186,7 +1186,7 @@ Let player run whitelisted vanilla command
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [run_some_commands_v1.0.0.mcdr](https://github.com/FlyingShuriken/MCDR-plugins/releases/tag/v1.0.0) | 1.0.0 | 2021/08/20 14:56:00 | 2.7KB | 9 | [Download](https://github.com/FlyingShuriken/MCDR-plugins/releases/download/v1.0.0/run_some_commands_v1.0.0.mcdr) |
+| [run_some_commands_v1.0.0.mcdr](https://github.com/FlyingShuriken/MCDR-plugins/releases/tag/v1.0.0) | 1.0.0 | 2021/08/20 14:56:00 | 2.7KB | 10 | [Download](https://github.com/FlyingShuriken/MCDR-plugins/releases/download/v1.0.0/run_some_commands_v1.0.0.mcdr) |
 
 ## simple_calculator
 
@@ -1308,7 +1308,7 @@ Let player run whitelisted vanilla command
 - Version: 0.0.2
   - Metadata version: 0.0.2
   - Release version: 0.0.2
-- Total downloads: 15
+- Total downloads: 16
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [zhang_anzhi](https://github.com/zhang-anzhi)
 - Repository: https://github.com/zhang-anzhi/MCDReforgedPlugins
 - Labels: [`Management`](/labels/management/readme.md)
@@ -1364,7 +1364,7 @@ Let player run whitelisted vanilla command
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [StartStopHelperR-v0.0.2.mcdr](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/tag/start_stop_helper_r-v0.0.2) | 0.0.2 | 2021/08/23 07:05:20 | 1.72KB | 15 | [Download](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/download/start_stop_helper_r-v0.0.2/StartStopHelperR-v0.0.2.mcdr) |
+| [StartStopHelperR-v0.0.2.mcdr](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/tag/start_stop_helper_r-v0.0.2) | 0.0.2 | 2021/08/23 07:05:20 | 1.72KB | 16 | [Download](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/download/start_stop_helper_r-v0.0.2/StartStopHelperR-v0.0.2.mcdr) |
 
 ## stats_helper
 
@@ -1414,7 +1414,7 @@ Use `!!stats` to see the value / rank, or build a scoreboard from given statisti
 - Version: 1.0.1
   - Metadata version: 1.0.1
   - Release version: 1.0.1
-- Total downloads: 42
+- Total downloads: 43
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/TimedQBM
 - Labels: [`Management`](/labels/management/readme.md)
@@ -1439,7 +1439,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [TimedQBM-v1.0.1.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.0.1) | 1.0.1 | 2021/08/16 17:10:01 | 16.05KB | 42 | [Download](https://github.com/TISUnion/TimedQBM/releases/download/v1.0.1/TimedQBM-v1.0.1.mcdr) |
+| [TimedQBM-v1.0.1.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.0.1) | 1.0.1 | 2021/08/16 17:10:01 | 16.05KB | 43 | [Download](https://github.com/TISUnion/TimedQBM/releases/download/v1.0.1/TimedQBM-v1.0.1.mcdr) |
 
 ## wiki_request
 
@@ -1450,7 +1450,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 - Version: 3.0
   - Metadata version: 3.0
   - Release version: 3.0
-- Total downloads: 7
+- Total downloads: 8
 - Authors: [DrLee_lihr](https://github.com/DrLee-lihr)
 - Repository: https://github.com/DrLee-lihr/WikiRequest
 - Labels: [`Information`](/labels/information/readme.md)
@@ -1476,5 +1476,5 @@ It's a plugin to look up any MediaWiki (such as Minecraft Wiki,and so on) and re
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [WikiRequestPlugin-v3.0.mcdr](https://github.com/DrLee-lihr/WikiRequest/releases/tag/v3.0) | 3.0 | 2021/08/27 12:16:57 | 2.75KB | 7 | [Download](https://github.com/DrLee-lihr/WikiRequest/releases/download/v3.0/WikiRequestPlugin-v3.0.mcdr) |
+| [WikiRequestPlugin-v3.0.mcdr](https://github.com/DrLee-lihr/WikiRequest/releases/tag/v3.0) | 3.0 | 2021/08/27 12:16:57 | 2.75KB | 8 | [Download](https://github.com/DrLee-lihr/WikiRequest/releases/download/v3.0/WikiRequestPlugin-v3.0.mcdr) |
 

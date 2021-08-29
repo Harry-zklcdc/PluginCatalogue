@@ -577,7 +577,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 3.0.0
   - 元数据版本: 3.0.0
   - 发布版本: 3.0.0
-- 总下载量: 9
+- 总下载量: 10
 - 作者: [Alex3236](https://github.com/eagle3236)
 - 仓库: https://github.com/eagle3236/joinMOTD_Plus
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
@@ -611,7 +611,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 日期 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [join_motd_plus_3.0.0.mcdr](https://github.com/eagle3236/joinMOTD_Plus/releases/tag/v3.0.0) | 3.0.0 | 2021/08/25 03:32:07 | 3.19KB | 9 | [下载](https://github.com/eagle3236/joinMOTD_Plus/releases/download/v3.0.0/join_motd_plus_3.0.0.mcdr) |
+| [join_motd_plus_3.0.0.mcdr](https://github.com/eagle3236/joinMOTD_Plus/releases/tag/v3.0.0) | 3.0.0 | 2021/08/25 03:32:07 | 3.19KB | 10 | [下载](https://github.com/eagle3236/joinMOTD_Plus/releases/download/v3.0.0/join_motd_plus_3.0.0.mcdr) |
 
 ## lazytp
 
@@ -1164,7 +1164,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 1.0.0
   - 元数据版本: 1.0.0
   - 发布版本: 1.0.0
-- 总下载量: 9
+- 总下载量: 10
 - 作者: [FlyingShuriken](https://github.com/FlyingShuriken)
 - 仓库: https://github.com/FlyingShuriken/MCDR-plugins
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
@@ -1187,7 +1187,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 日期 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [run_some_commands_v1.0.0.mcdr](https://github.com/FlyingShuriken/MCDR-plugins/releases/tag/v1.0.0) | 1.0.0 | 2021/08/20 14:56:00 | 2.7KB | 9 | [下载](https://github.com/FlyingShuriken/MCDR-plugins/releases/download/v1.0.0/run_some_commands_v1.0.0.mcdr) |
+| [run_some_commands_v1.0.0.mcdr](https://github.com/FlyingShuriken/MCDR-plugins/releases/tag/v1.0.0) | 1.0.0 | 2021/08/20 14:56:00 | 2.7KB | 10 | [下载](https://github.com/FlyingShuriken/MCDR-plugins/releases/download/v1.0.0/run_some_commands_v1.0.0.mcdr) |
 
 ## simple_calculator
 
@@ -1309,7 +1309,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 0.0.2
   - 元数据版本: 0.0.2
   - 发布版本: 0.0.2
-- 总下载量: 15
+- 总下载量: 16
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath), [zhang_anzhi](https://github.com/zhang-anzhi)
 - 仓库: https://github.com/zhang-anzhi/MCDReforgedPlugins
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
@@ -1365,7 +1365,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 日期 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [StartStopHelperR-v0.0.2.mcdr](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/tag/start_stop_helper_r-v0.0.2) | 0.0.2 | 2021/08/23 07:05:20 | 1.72KB | 15 | [下载](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/download/start_stop_helper_r-v0.0.2/StartStopHelperR-v0.0.2.mcdr) |
+| [StartStopHelperR-v0.0.2.mcdr](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/tag/start_stop_helper_r-v0.0.2) | 0.0.2 | 2021/08/23 07:05:20 | 1.72KB | 16 | [下载](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/download/start_stop_helper_r-v0.0.2/StartStopHelperR-v0.0.2.mcdr) |
 
 ## stats_helper
 
@@ -1415,7 +1415,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 1.0.1
   - 元数据版本: 1.0.1
   - 发布版本: 1.0.1
-- 总下载量: 42
+- 总下载量: 43
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/TimedQBM
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
@@ -1440,7 +1440,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 日期 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [TimedQBM-v1.0.1.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.0.1) | 1.0.1 | 2021/08/16 17:10:01 | 16.05KB | 42 | [下载](https://github.com/TISUnion/TimedQBM/releases/download/v1.0.1/TimedQBM-v1.0.1.mcdr) |
+| [TimedQBM-v1.0.1.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.0.1) | 1.0.1 | 2021/08/16 17:10:01 | 16.05KB | 43 | [下载](https://github.com/TISUnion/TimedQBM/releases/download/v1.0.1/TimedQBM-v1.0.1.mcdr) |
 
 ## wiki_request
 
@@ -1451,7 +1451,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 3.0
   - 元数据版本: 3.0
   - 发布版本: 3.0
-- 总下载量: 7
+- 总下载量: 8
 - 作者: [DrLee_lihr](https://github.com/DrLee-lihr)
 - 仓库: https://github.com/DrLee-lihr/WikiRequest
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
@@ -1477,5 +1477,5 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 日期 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [WikiRequestPlugin-v3.0.mcdr](https://github.com/DrLee-lihr/WikiRequest/releases/tag/v3.0) | 3.0 | 2021/08/27 12:16:57 | 2.75KB | 7 | [下载](https://github.com/DrLee-lihr/WikiRequest/releases/download/v3.0/WikiRequestPlugin-v3.0.mcdr) |
+| [WikiRequestPlugin-v3.0.mcdr](https://github.com/DrLee-lihr/WikiRequest/releases/tag/v3.0) | 3.0 | 2021/08/27 12:16:57 | 2.75KB | 8 | [下载](https://github.com/DrLee-lihr/WikiRequest/releases/download/v3.0/WikiRequestPlugin-v3.0.mcdr) |
 
