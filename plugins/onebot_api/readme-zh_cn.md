@@ -9,7 +9,7 @@
 - 插件 ID: `onebot_api`
 - 插件名: OneBot API
 - 版本: 0.1.0-beta
-  - 元数据版本: 0.1.0-beta
+  - 元数据版本: 0.1.0-beta.1
   - 发布版本: 0.1.0-beta
 - 总下载量: 0
 - 作者: [Huaji_MUR233](https://github.com/HuajiMUR233)
