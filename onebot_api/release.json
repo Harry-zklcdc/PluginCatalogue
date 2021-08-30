@@ -1,6 +1,7 @@
 {
   "schema_version": 2,
   "id": "onebot_api",
+  "latest_version": "0.1.0-beta",
   "etag": "\"ac0edd2301948de102d6c9752a606119817e38a96053bae7861d21be465b58af\"",
   "releases": [
     {
@@ -21,6 +22,5 @@
       "prerelease": false,
       "parsed_version": "0.1.0-beta"
     }
-  ],
-  "latest_version": "0.1.0-beta"
+  ]
 }
