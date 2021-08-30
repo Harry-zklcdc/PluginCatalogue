@@ -1,5 +1,5 @@
 {
-  "plugin_amount": 37,
+  "plugin_amount": 38,
   "plugins": {
     "auto_plugin_reloader": {
       "id": "auto_plugin_reloader",
@@ -525,6 +525,28 @@
       "description": {
         "en_us": "Add some api for MCDReforged",
         "zh_cn": "给 MCDReforged 添加了一些 API"
+      }
+    },
+    "onebot_api": {
+      "id": "onebot_api",
+      "name": "OneBot API",
+      "version": "0.1.0-beta",
+      "repository": "https://github.com/HuajiMUR233/OneBotAPI",
+      "labels": [
+        "api"
+      ],
+      "authors": [
+        "Huaji_MUR233"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.4"
+      },
+      "requirements": [
+        "websocket-client>=1.2.0",
+        "mcdreforged>=2.0.4"
+      ],
+      "description": {
+        "en_us": "OneBot in MCDReforged"
       }
     },
     "online": {
