@@ -1,9 +1,27 @@
 {
   "schema_version": 2,
   "id": "onebot_api",
-  "latest_version": "0.1.0-beta",
-  "etag": "\"ac0edd2301948de102d6c9752a606119817e38a96053bae7861d21be465b58af\"",
+  "latest_version": "0.1.0-beta.1",
+  "etag": "\"9132037cd8b5816669baa838b23f95657ee3cf056fa6fd658e8c181148a41394\"",
   "releases": [
+    {
+      "url": "https://github.com/HuajiMUR233/OneBotAPI/releases/tag/0.1.0-beta.1",
+      "name": "0.1.0-beta.1",
+      "tag_name": "0.1.0-beta.1",
+      "created_at": "2021-08-30T13:29:02Z",
+      "assets": [
+        {
+          "name": "OneBotAPI-v0.1.0-beta.1.mcdr",
+          "size": 15214,
+          "download_count": 0,
+          "created_at": "2021-08-30T13:38:09Z",
+          "browser_download_url": "https://github.com/HuajiMUR233/OneBotAPI/releases/download/0.1.0-beta.1/OneBotAPI-v0.1.0-beta.1.mcdr"
+        }
+      ],
+      "description": "",
+      "prerelease": false,
+      "parsed_version": "0.1.0-beta.1"
+    },
     {
       "url": "https://github.com/HuajiMUR233/OneBotAPI/releases/tag/0.1.0-beta",
       "name": "0.1.0-beta",
