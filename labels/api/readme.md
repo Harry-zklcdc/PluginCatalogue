@@ -6,7 +6,7 @@
 
 Plugin Index with label `API`
 
-Plugin Amount: 5
+Plugin Amount: 6
 
 | Plugin Name | Authors | Description | Labels |
 | --- | --- | --- | --- |
@@ -15,4 +15,5 @@ Plugin Amount: 5
 | [MCDR Plugin Panel](/plugins/mcdr_plugin_panel/readme.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | A panel for MCDR plugin | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
 | [Minecraft Data API](/plugins/minecraft_data_api/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A MCDReforged api plugin to get player data information and more | [`API`](/labels/api/readme.md) |
 | [More APIs](/plugins/more_apis/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | Add some api for MCDReforged | [`API`](/labels/api/readme.md) |
+| [OneBot API](/plugins/onebot_api/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | OneBot in MCDReforged | [`API`](/labels/api/readme.md) |
 
