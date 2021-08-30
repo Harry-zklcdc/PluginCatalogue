@@ -1005,9 +1005,9 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 - 插件 ID: `onebot_api`
 - 插件名: OneBot API
-- 版本: 0.1.0-beta
+- 版本: 0.1.0-beta.1
   - 元数据版本: 0.1.0-beta.1
-  - 发布版本: 0.1.0-beta
+  - 发布版本: 0.1.0-beta.1
 - 总下载量: 0
 - 作者: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - 仓库: https://github.com/HuajiMUR233/OneBotAPI
@@ -1035,6 +1035,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 日期 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
+| [OneBotAPI-v0.1.0-beta.1.mcdr](https://github.com/HuajiMUR233/OneBotAPI/releases/tag/0.1.0-beta.1) | 0.1.0-beta.1 | 2021/08/30 13:38:09 | 14.86KB | 0 | [下载](https://github.com/HuajiMUR233/OneBotAPI/releases/download/0.1.0-beta.1/OneBotAPI-v0.1.0-beta.1.mcdr) |
 | [OneBotAPI-v0.1.0-beta.mcdr](https://github.com/HuajiMUR233/OneBotAPI/releases/tag/0.1.0-beta) | 0.1.0-beta | 2021/08/30 11:00:12 | 14.86KB | 0 | [下载](https://github.com/HuajiMUR233/OneBotAPI/releases/download/0.1.0-beta/OneBotAPI-v0.1.0-beta.mcdr) |
 
 ## online
@@ -1120,7 +1121,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 1.4.2
   - 元数据版本: 1.4.2
   - 发布版本: 1.4.2
-- 总下载量: 115
+- 总下载量: 116
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/QuickBackupM
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
@@ -1153,7 +1154,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 日期 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [QuickBackupM-v1.4.2.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.2) | 1.4.2 | 2021/08/29 15:35:41 | 21.73KB | 6 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.4.2/QuickBackupM-v1.4.2.mcdr) |
+| [QuickBackupM-v1.4.2.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.2) | 1.4.2 | 2021/08/29 15:35:41 | 21.73KB | 7 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.4.2/QuickBackupM-v1.4.2.mcdr) |
 | [QuickBackupM-v1.4.1.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.1) | 1.4.1 | 2021/08/27 09:44:34 | 21.72KB | 17 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.4.1/QuickBackupM-v1.4.1.mcdr) |
 | [QuickBackupM-v1.3.3.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.3.3) | 1.3.3 | 2021/08/24 16:01:43 | 21.09KB | 13 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.3.3/QuickBackupM-v1.3.3.mcdr) |
 
