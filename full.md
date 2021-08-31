@@ -15,7 +15,7 @@ Use `ctrl-f` to performance an in-page search, for what you are interested in
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
-- Total downloads: 52
+- Total downloads: 53
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/AutoPluginReloader
 - Labels: [`Management`](/labels/management/readme.md)
@@ -42,7 +42,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [AutoPluginReloader-v1.1.0.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.1.0) | 1.1.0 | 2021/08/26 13:43:28 | 17.44KB | 12 | [Download](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.1.0/AutoPluginReloader-v1.1.0.mcdr) |
+| [AutoPluginReloader-v1.1.0.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.1.0) | 1.1.0 | 2021/08/26 13:43:28 | 17.44KB | 13 | [Download](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.1.0/AutoPluginReloader-v1.1.0.mcdr) |
 | [AutoPluginReloader-v1.0.1.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.0.1) | 1.0.1 | 2021/08/19 12:27:58 | 17.4KB | 40 | [Download](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.0.1/AutoPluginReloader-v1.0.1.mcdr) |
 
 ## beep
@@ -166,7 +166,7 @@ Help you manage your carpet fake player
 - Version: 1.1.1
   - Metadata version: 1.1.1
   - Release version: 1.1.1
-- Total downloads: 31
+- Total downloads: 32
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/ChatBridge
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -193,7 +193,7 @@ Shitty written, but it works XD
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
 | [ChatBridgeClient-v1.1.1.mcdr](https://github.com/TISUnion/ChatBridge/releases/tag/v1.1.1) | 1.1.1 | 2021/08/28 09:51:30 | 21.83KB | 1 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v1.1.1/ChatBridgeClient-v1.1.1.mcdr) |
-| [ChatBridgeClient-v1.1.0.mcdr](https://github.com/TISUnion/ChatBridge/releases/tag/v1.1.0) | 1.1.0 | 2021/08/17 03:58:31 | 21.83KB | 30 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v1.1.0/ChatBridgeClient-v1.1.0.mcdr) |
+| [ChatBridgeClient-v1.1.0.mcdr](https://github.com/TISUnion/ChatBridge/releases/tag/v1.1.0) | 1.1.0 | 2021/08/17 03:58:31 | 21.83KB | 31 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v1.1.0/ChatBridgeClient-v1.1.0.mcdr) |
 
 ## chatbridgereforged_client_mc
 
@@ -292,7 +292,7 @@ Reforged of ChatBridge, interaction with other clients(such as minecraft server,
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
-- Total downloads: 31
+- Total downloads: 32
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/CrashRestart
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -316,7 +316,7 @@ Reforged of ChatBridge, interaction with other clients(such as minecraft server,
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [CrashRestart-v1.0.0.mcdr](https://github.com/MCDReforged/CrashRestart/releases/tag/v1.0.0) | 1.0.0 | 2021/08/22 04:31:25 | 13.33KB | 31 | [Download](https://github.com/MCDReforged/CrashRestart/releases/download/v1.0.0/CrashRestart-v1.0.0.mcdr) |
+| [CrashRestart-v1.0.0.mcdr](https://github.com/MCDReforged/CrashRestart/releases/tag/v1.0.0) | 1.0.0 | 2021/08/22 04:31:25 | 13.33KB | 32 | [Download](https://github.com/MCDReforged/CrashRestart/releases/download/v1.0.0/CrashRestart-v1.0.0.mcdr) |
 
 ## daycount_nbt
 
@@ -327,7 +327,7 @@ Reforged of ChatBridge, interaction with other clients(such as minecraft server,
 - Version: 2.0.1
   - Metadata version: 2.0.1
   - Release version: 2.0.1
-- Total downloads: 20
+- Total downloads: 22
 - Authors: [Alex3236](https://github.com/eagle3236)
 - Repository: https://github.com/eagle3236/daycount-NBT
 - Labels: [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md)
@@ -357,7 +357,7 @@ Feature:
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [DayCountNBT-v2.0.1.mcdr](https://github.com/eagle3236/daycount-NBT/releases/tag/v2.0.1) | 2.0.1 | 2021/08/28 03:20:11 | 1.35KB | 10 | [Download](https://github.com/eagle3236/daycount-NBT/releases/download/v2.0.1/DayCountNBT-v2.0.1.mcdr) |
+| [DayCountNBT-v2.0.1.mcdr](https://github.com/eagle3236/daycount-NBT/releases/tag/v2.0.1) | 2.0.1 | 2021/08/28 03:20:11 | 1.35KB | 12 | [Download](https://github.com/eagle3236/daycount-NBT/releases/download/v2.0.1/DayCountNBT-v2.0.1.mcdr) |
 | [DayCountNBT-v2.0.0.mcdr](https://github.com/eagle3236/daycount-NBT/releases/tag/v2.0.0) | 2.0.0 | 2021/08/25 09:34:00 | 1.52KB | 10 | [Download](https://github.com/eagle3236/daycount-NBT/releases/download/v2.0.0/DayCountNBT-v2.0.0.mcdr) |
 
 ## daytime
@@ -369,7 +369,7 @@ Feature:
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
-- Total downloads: 28
+- Total downloads: 29
 - Authors: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - Repository: https://github.com/BelowZeroKelvin/MCDR-Daytime
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -394,7 +394,7 @@ Show time in Minecraft
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Daytime-v1.1.0.mcdr](https://github.com/BelowZeroKelvin/MCDR-Daytime/releases/tag/v1.1.0) | 1.1.0 | 2021/08/18 04:36:17 | 1.07KB | 28 | [Download](https://github.com/BelowZeroKelvin/MCDR-Daytime/releases/download/v1.1.0/Daytime-v1.1.0.mcdr) |
+| [Daytime-v1.1.0.mcdr](https://github.com/BelowZeroKelvin/MCDR-Daytime/releases/tag/v1.1.0) | 1.1.0 | 2021/08/18 04:36:17 | 1.07KB | 29 | [Download](https://github.com/BelowZeroKelvin/MCDR-Daytime/releases/download/v1.1.0/Daytime-v1.1.0.mcdr) |
 
 ## diamond_calc
 
@@ -542,7 +542,7 @@ Show time in Minecraft
 - Version: 1.2.0
   - Metadata version: 1.2.0
   - Release version: 1.2.0
-- Total downloads: 31
+- Total downloads: 32
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/joinMOTD
 - Labels: [`Information`](/labels/information/readme.md)
@@ -566,7 +566,7 @@ Show time in Minecraft
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [JoinMOTD-v1.2.0.mcdr](https://github.com/TISUnion/joinMOTD/releases/tag/v1.2.0) | 1.2.0 | 2021/08/22 04:18:37 | 1.53KB | 31 | [Download](https://github.com/TISUnion/joinMOTD/releases/download/v1.2.0/JoinMOTD-v1.2.0.mcdr) |
+| [JoinMOTD-v1.2.0.mcdr](https://github.com/TISUnion/joinMOTD/releases/tag/v1.2.0) | 1.2.0 | 2021/08/22 04:18:37 | 1.53KB | 32 | [Download](https://github.com/TISUnion/joinMOTD/releases/download/v1.2.0/JoinMOTD-v1.2.0.mcdr) |
 
 ## join_motd_plus
 
@@ -577,7 +577,7 @@ Show time in Minecraft
 - Version: 3.0.0
   - Metadata version: 3.0.0
   - Release version: 3.0.0
-- Total downloads: 14
+- Total downloads: 15
 - Authors: [Alex3236](https://github.com/eagle3236)
 - Repository: https://github.com/eagle3236/joinMOTD_Plus
 - Labels: [`Information`](/labels/information/readme.md)
@@ -611,7 +611,7 @@ Features:
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [join_motd_plus_3.0.0.mcdr](https://github.com/eagle3236/joinMOTD_Plus/releases/tag/v3.0.0) | 3.0.0 | 2021/08/25 03:32:07 | 3.19KB | 14 | [Download](https://github.com/eagle3236/joinMOTD_Plus/releases/download/v3.0.0/join_motd_plus_3.0.0.mcdr) |
+| [join_motd_plus_3.0.0.mcdr](https://github.com/eagle3236/joinMOTD_Plus/releases/tag/v3.0.0) | 3.0.0 | 2021/08/25 03:32:07 | 3.19KB | 15 | [Download](https://github.com/eagle3236/joinMOTD_Plus/releases/download/v3.0.0/join_motd_plus_3.0.0.mcdr) |
 
 ## lazytp
 
@@ -775,7 +775,7 @@ Browse / Import / Export files in the server in Minecraft!
 - Version: 1.1.1
   - Metadata version: 1.1.1
   - Release version: 1.1.1
-- Total downloads: 5
+- Total downloads: 6
 - Authors: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/TISUnion/Seen
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -802,7 +802,7 @@ Shows tasks of project in progress
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Seen-v1.1.1.mcdr](https://github.com/TISUnion/Seen/releases/tag/1.1.1) | 1.1.1 | 2021/08/27 06:13:23 | 9.78KB | 0 | [Download](https://github.com/TISUnion/Seen/releases/download/1.1.1/Seen-v1.1.1.mcdr) |
+| [Seen-v1.1.1.mcdr](https://github.com/TISUnion/Seen/releases/tag/1.1.1) | 1.1.1 | 2021/08/27 06:13:23 | 9.78KB | 1 | [Download](https://github.com/TISUnion/Seen/releases/download/1.1.1/Seen-v1.1.1.mcdr) |
 | [Seen-v1.1.0.mcdr](https://github.com/TISUnion/Seen/releases/tag/1.1.0) | 1.1.0 | 2021/08/22 13:01:56 | 9.77KB | 5 | [Download](https://github.com/TISUnion/Seen/releases/download/1.1.0/Seen-v1.1.0.mcdr) |
 
 ## mcd_task
@@ -1082,7 +1082,7 @@ Display the online players for Group server, with click event to quickly join ev
 - Version: 1.0.3
   - Metadata version: 1.0.3
   - Release version: 1.0.3
-- Total downloads: 31
+- Total downloads: 32
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/PermanentBackup
 - Labels: [`Management`](/labels/management/readme.md)
@@ -1107,7 +1107,7 @@ Display the online players for Group server, with click event to quickly join ev
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [PermanentBackup-v1.0.3.mcdr](https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.3) | 1.0.3 | 2021/08/17 05:50:35 | 15.44KB | 24 | [Download](https://github.com/MCDReforged/PermanentBackup/releases/download/v1.0.3/PermanentBackup-v1.0.3.mcdr) |
+| [PermanentBackup-v1.0.3.mcdr](https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.3) | 1.0.3 | 2021/08/17 05:50:35 | 15.44KB | 25 | [Download](https://github.com/MCDReforged/PermanentBackup/releases/download/v1.0.3/PermanentBackup-v1.0.3.mcdr) |
 | [PermanentBackup-v1.0.2.mcdr](https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.2) | 1.0.2 | 2021/08/17 05:34:54 | 15.54KB | 3 | [Download](https://github.com/MCDReforged/PermanentBackup/releases/download/v1.0.2/PermanentBackup-v1.0.2.mcdr) |
 | [PermanentBackup-v1.0.1.mcdr](https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.1) | 1.0.1 | 2021/08/16 17:05:01 | 15.5KB | 4 | [Download](https://github.com/MCDReforged/PermanentBackup/releases/download/v1.0.1/PermanentBackup-v1.0.1.mcdr) |
 
@@ -1120,7 +1120,7 @@ Display the online players for Group server, with click event to quickly join ev
 - Version: 1.4.2
   - Metadata version: 1.4.2
   - Release version: 1.4.2
-- Total downloads: 121
+- Total downloads: 123
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/QuickBackupM
 - Labels: [`Management`](/labels/management/readme.md)
@@ -1153,7 +1153,7 @@ Features:
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [QuickBackupM-v1.4.2.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.2) | 1.4.2 | 2021/08/29 15:35:41 | 21.73KB | 12 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.4.2/QuickBackupM-v1.4.2.mcdr) |
+| [QuickBackupM-v1.4.2.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.2) | 1.4.2 | 2021/08/29 15:35:41 | 21.73KB | 14 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.4.2/QuickBackupM-v1.4.2.mcdr) |
 | [QuickBackupM-v1.4.1.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.1) | 1.4.1 | 2021/08/27 09:44:34 | 21.72KB | 17 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.4.1/QuickBackupM-v1.4.1.mcdr) |
 | [QuickBackupM-v1.3.3.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.3.3) | 1.3.3 | 2021/08/24 16:01:43 | 21.09KB | 13 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.3.3/QuickBackupM-v1.3.3.mcdr) |
 
@@ -1414,7 +1414,7 @@ Let player run whitelisted vanilla command
 - Version: 7.2.0
   - Metadata version: 7.2.0
   - Release version: 7.2.0
-- Total downloads: 83
+- Total downloads: 84
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/StatsHelper
 - Labels: [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md)
@@ -1440,7 +1440,7 @@ Use `!!stats` to see the value / rank, or build a scoreboard from given statisti
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [StatsHelper-v7.2.0.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.2.0) | 7.2.0 | 2021/08/26 13:47:17 | 22.62KB | 12 | [Download](https://github.com/TISUnion/StatsHelper/releases/download/v7.2.0/StatsHelper-v7.2.0.mcdr) |
+| [StatsHelper-v7.2.0.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.2.0) | 7.2.0 | 2021/08/26 13:47:17 | 22.62KB | 13 | [Download](https://github.com/TISUnion/StatsHelper/releases/download/v7.2.0/StatsHelper-v7.2.0.mcdr) |
 | [StatsHelper-v7.1.3.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.1.3) | 7.1.3 | 2021/08/16 17:11:23 | 22.43KB | 40 | [Download](https://github.com/TISUnion/StatsHelper/releases/download/v7.1.3/StatsHelper-v7.1.3.mcdr) |
 | [StatsHelper-v7.1.1.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.1.1) | 7.1.1 | 2021/08/15 03:16:33 | 29.06KB | 16 | [Download](https://github.com/TISUnion/StatsHelper/releases/download/v7.1.1/StatsHelper-v7.1.1.mcdr) |
 
@@ -1453,7 +1453,7 @@ Use `!!stats` to see the value / rank, or build a scoreboard from given statisti
 - Version: 1.0.1
   - Metadata version: 1.0.1
   - Release version: 1.0.1
-- Total downloads: 50
+- Total downloads: 51
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/TimedQBM
 - Labels: [`Management`](/labels/management/readme.md)
@@ -1478,7 +1478,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [TimedQBM-v1.0.1.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.0.1) | 1.0.1 | 2021/08/16 17:10:01 | 16.05KB | 50 | [Download](https://github.com/TISUnion/TimedQBM/releases/download/v1.0.1/TimedQBM-v1.0.1.mcdr) |
+| [TimedQBM-v1.0.1.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.0.1) | 1.0.1 | 2021/08/16 17:10:01 | 16.05KB | 51 | [Download](https://github.com/TISUnion/TimedQBM/releases/download/v1.0.1/TimedQBM-v1.0.1.mcdr) |
 
 ## wiki_request
 
