@@ -1,7 +1,7 @@
 {
   "id": "here",
   "name": "Here",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "repository": "https://github.com/TISUnion/Here",
   "labels": [
     "information"
@@ -15,6 +15,6 @@
   "requirements": [],
   "description": {
     "en_us": "Broadcast your position and high light yourself",
-    "zh_cn": "一显示坐标并高亮玩家"
+    "zh_cn": "显示坐标并高亮玩家"
   }
 }

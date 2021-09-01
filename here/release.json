@@ -1,9 +1,27 @@
 {
   "schema_version": 2,
   "id": "here",
-  "latest_version": "1.2.0",
-  "etag": "\"631ecf8d3d34561ee45729094d7ba67cace8371a684f1bedda7677dcc16beff4\"",
+  "latest_version": "1.2.1",
+  "etag": "\"8e9ad7f15604de0a4f6db4808f45d11af4c59b729c931f06f7c939d438ee9443\"",
   "releases": [
+    {
+      "url": "https://github.com/TISUnion/Here/releases/tag/v1.2.1",
+      "name": "Here v1.2.1",
+      "tag_name": "v1.2.1",
+      "created_at": "2021-09-01T15:15:56Z",
+      "assets": [
+        {
+          "name": "Here-v1.2.1.mcdr",
+          "size": 16068,
+          "download_count": 0,
+          "created_at": "2021-09-01T15:21:46Z",
+          "browser_download_url": "https://github.com/TISUnion/Here/releases/download/v1.2.1/Here-v1.2.1.mcdr"
+        }
+      ],
+      "description": "- Fixed coordinate convert does not work\r\n- Fixed typo in description",
+      "prerelease": false,
+      "parsed_version": "1.2.1"
+    },
     {
       "url": "https://github.com/TISUnion/Here/releases/tag/v1.2.0",
       "name": "Here v1.2.0",
