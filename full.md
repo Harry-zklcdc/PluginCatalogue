@@ -239,7 +239,7 @@ Reforged of ChatBridge, interaction with other clients(such as minecraft server,
 - Version: 0.0.2
   - Metadata version: 0.0.2
   - Release version: 0.0.2
-- Total downloads: 16
+- Total downloads: 17
 - Authors: [zhang_anzhi](https://github.com/zhang-anzhi)
 - Repository: https://github.com/zhang-anzhi/MCDReforgedPlugins
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -281,7 +281,7 @@ Reforged of ChatBridge, interaction with other clients(such as minecraft server,
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [ColoredChat-v0.0.2.mcdr](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/tag/colored_chat-v0.0.2) | 0.0.2 | 2021/08/23 10:20:29 | 1.54KB | 16 | [Download](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/download/colored_chat-v0.0.2/ColoredChat-v0.0.2.mcdr) |
+| [ColoredChat-v0.0.2.mcdr](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/tag/colored_chat-v0.0.2) | 0.0.2 | 2021/08/23 10:20:29 | 1.54KB | 17 | [Download](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/download/colored_chat-v0.0.2/ColoredChat-v0.0.2.mcdr) |
 
 ## crash_restart
 
@@ -327,7 +327,7 @@ Reforged of ChatBridge, interaction with other clients(such as minecraft server,
 - Version: 2.0.1
   - Metadata version: 2.0.1
   - Release version: 2.0.1
-- Total downloads: 23
+- Total downloads: 24
 - Authors: [Alex3236](https://github.com/eagle3236)
 - Repository: https://github.com/eagle3236/daycount-NBT
 - Labels: [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md)
@@ -357,7 +357,7 @@ Feature:
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [DayCountNBT-v2.0.1.mcdr](https://github.com/eagle3236/daycount-NBT/releases/tag/v2.0.1) | 2.0.1 | 2021/08/28 03:20:11 | 1.35KB | 13 | [Download](https://github.com/eagle3236/daycount-NBT/releases/download/v2.0.1/DayCountNBT-v2.0.1.mcdr) |
+| [DayCountNBT-v2.0.1.mcdr](https://github.com/eagle3236/daycount-NBT/releases/tag/v2.0.1) | 2.0.1 | 2021/08/28 03:20:11 | 1.35KB | 14 | [Download](https://github.com/eagle3236/daycount-NBT/releases/download/v2.0.1/DayCountNBT-v2.0.1.mcdr) |
 | [DayCountNBT-v2.0.0.mcdr](https://github.com/eagle3236/daycount-NBT/releases/tag/v2.0.0) | 2.0.0 | 2021/08/25 09:34:00 | 1.52KB | 10 | [Download](https://github.com/eagle3236/daycount-NBT/releases/download/v2.0.0/DayCountNBT-v2.0.0.mcdr) |
 
 ## daytime
@@ -1202,7 +1202,7 @@ Features:
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
-- Total downloads: 12
+- Total downloads: 13
 - Authors: [FlyingShuriken](https://github.com/FlyingShuriken)
 - Repository: https://github.com/FlyingShuriken/MCDR-plugins
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -1225,7 +1225,7 @@ Let player run whitelisted vanilla command
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [run_some_commands_v1.0.0.mcdr](https://github.com/FlyingShuriken/MCDR-plugins/releases/tag/v1.0.0) | 1.0.0 | 2021/08/20 14:56:00 | 2.7KB | 12 | [Download](https://github.com/FlyingShuriken/MCDR-plugins/releases/download/v1.0.0/run_some_commands_v1.0.0.mcdr) |
+| [run_some_commands_v1.0.0.mcdr](https://github.com/FlyingShuriken/MCDR-plugins/releases/tag/v1.0.0) | 1.0.0 | 2021/08/20 14:56:00 | 2.7KB | 13 | [Download](https://github.com/FlyingShuriken/MCDR-plugins/releases/download/v1.0.0/run_some_commands_v1.0.0.mcdr) |
 
 ## simple_calculator
 
