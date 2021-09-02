@@ -9,7 +9,7 @@
 - Plugin ID: `onebot_api`
 - Plugin Name: OneBot API
 - Version: 0.1.0-beta.1
-  - Metadata version: 0.1.0-beta.1
+  - Metadata version: 1.0.0
   - Release version: 0.1.0-beta.1
 - Total downloads: 0
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
