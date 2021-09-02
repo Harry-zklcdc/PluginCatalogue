@@ -327,7 +327,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 2.0.1
   - 元数据版本: 2.0.1
   - 发布版本: 2.0.1
-- 总下载量: 24
+- 总下载量: 25
 - 作者: [Alex3236](https://github.com/eagle3236)
 - 仓库: https://github.com/eagle3236/daycount-NBT
 - 标签: [`信息`](/labels/information/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md)
@@ -357,7 +357,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 日期 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [DayCountNBT-v2.0.1.mcdr](https://github.com/eagle3236/daycount-NBT/releases/tag/v2.0.1) | 2.0.1 | 2021/08/28 03:20:11 | 1.35KB | 14 | [下载](https://github.com/eagle3236/daycount-NBT/releases/download/v2.0.1/DayCountNBT-v2.0.1.mcdr) |
+| [DayCountNBT-v2.0.1.mcdr](https://github.com/eagle3236/daycount-NBT/releases/tag/v2.0.1) | 2.0.1 | 2021/08/28 03:20:11 | 1.35KB | 15 | [下载](https://github.com/eagle3236/daycount-NBT/releases/download/v2.0.1/DayCountNBT-v2.0.1.mcdr) |
 | [DayCountNBT-v2.0.0.mcdr](https://github.com/eagle3236/daycount-NBT/releases/tag/v2.0.0) | 2.0.0 | 2021/08/25 09:34:00 | 1.52KB | 10 | [下载](https://github.com/eagle3236/daycount-NBT/releases/download/v2.0.0/DayCountNBT-v2.0.0.mcdr) |
 
 ## daytime
@@ -577,7 +577,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 3.0.0
   - 元数据版本: 3.0.0
   - 发布版本: 3.0.0
-- 总下载量: 17
+- 总下载量: 18
 - 作者: [Alex3236](https://github.com/eagle3236)
 - 仓库: https://github.com/eagle3236/joinMOTD_Plus
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
@@ -611,7 +611,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 日期 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [join_motd_plus_3.0.0.mcdr](https://github.com/eagle3236/joinMOTD_Plus/releases/tag/v3.0.0) | 3.0.0 | 2021/08/25 03:32:07 | 3.19KB | 17 | [下载](https://github.com/eagle3236/joinMOTD_Plus/releases/download/v3.0.0/join_motd_plus_3.0.0.mcdr) |
+| [join_motd_plus_3.0.0.mcdr](https://github.com/eagle3236/joinMOTD_Plus/releases/tag/v3.0.0) | 3.0.0 | 2021/08/25 03:32:07 | 3.19KB | 18 | [下载](https://github.com/eagle3236/joinMOTD_Plus/releases/download/v3.0.0/join_motd_plus_3.0.0.mcdr) |
 
 ## lazytp
 
