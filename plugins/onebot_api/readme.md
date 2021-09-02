@@ -11,7 +11,7 @@
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
-- Total downloads: 3
+- Total downloads: 4
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMUR233/OneBotAPI
 - Labels: [`API`](/labels/api/readme.md)
@@ -38,5 +38,5 @@
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [OneBotAPI-v1.0.0.mcdr](https://github.com/HuajiMUR233/OneBotAPI/releases/tag/1.0.0) | 1.0.0 | 2021/09/02 14:37:05 | 14.81KB | 3 | [Download](https://github.com/HuajiMUR233/OneBotAPI/releases/download/1.0.0/OneBotAPI-v1.0.0.mcdr) |
+| [OneBotAPI-v1.0.0.mcdr](https://github.com/HuajiMUR233/OneBotAPI/releases/tag/1.0.0) | 1.0.0 | 2021/09/02 14:37:05 | 14.81KB | 4 | [Download](https://github.com/HuajiMUR233/OneBotAPI/releases/download/1.0.0/OneBotAPI-v1.0.0.mcdr) |
 
