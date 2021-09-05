@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "wiki_request",
   "latest_version": "3.0",
-  "etag": "\"20bb99ce3eb8a4bcc1b98949d51b4306f8c95e244b1318581ef8b710460609e6\"",
+  "etag": "\"b469658a2c96b33ee777f0061f083d29cb9b8d1b99fcc63527f99618eaaf6a72\"",
   "releases": [
     {
       "url": "https://github.com/DrLee-lihr/WikiRequest/releases/tag/v3.0",
@@ -13,14 +13,14 @@
         {
           "name": "WikiRequestPlugin-v3.0.mcdr",
           "size": 2819,
-          "download_count": 142,
+          "download_count": 143,
           "created_at": "2021-08-27T12:16:57Z",
           "browser_download_url": "https://github.com/DrLee-lihr/WikiRequest/releases/download/v3.0/WikiRequestPlugin-v3.0.mcdr"
         },
         {
           "name": "wiki_request.py",
           "size": 9263,
-          "download_count": 131,
+          "download_count": 132,
           "created_at": "2021-08-26T14:08:16Z",
           "browser_download_url": "https://github.com/DrLee-lihr/WikiRequest/releases/download/v3.0/wiki_request.py"
         }
