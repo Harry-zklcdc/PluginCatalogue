@@ -8,10 +8,10 @@
 
 - 插件 ID: `onebot_api`
 - 插件名: OneBot API
-- 版本: 1.0.0
-  - 元数据版本: 1.0.0
-  - 发布版本: 1.0.0
-- 总下载量: 174
+- 版本: 1.0.1
+  - 元数据版本: 1.0.1
+  - 发布版本: 1.0.1
+- 总下载量: 0
 - 作者: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - 仓库: https://github.com/HuajiMUR233/OneBotAPI
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
@@ -38,5 +38,5 @@
 
 | 文件 | 版本 | 日期 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [OneBotAPI-v1.0.0.mcdr](https://github.com/HuajiMUR233/OneBotAPI/releases/tag/1.0.0) | 1.0.0 | 2021/09/02 14:37:05 | 14.81KB | 174 | [下载](https://github.com/HuajiMUR233/OneBotAPI/releases/download/1.0.0/OneBotAPI-v1.0.0.mcdr) |
+| [OneBotAPI-v1.0.1.mcdr](https://github.com/HuajiMUR233/OneBotAPI/releases/tag/1.0.1) | 1.0.1 | 2021/09/06 13:06:15 | 14.8KB | 0 | [下载](https://github.com/HuajiMUR233/OneBotAPI/releases/download/1.0.1/OneBotAPI-v1.0.1.mcdr) |
 
