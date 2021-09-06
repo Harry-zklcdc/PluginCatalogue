@@ -13,7 +13,7 @@ Full plugin information document [here](./full.md)
 
 -------
 
-Plugin Amount: 38
+Plugin Amount: 39
 
 | Plugin Name | Authors | Description | Labels |
 | --- | --- | --- | --- |
@@ -42,6 +42,7 @@ Plugin Amount: 38
 | [MCDR Bot](/plugins/mcdr_pycraft_bot/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | MCDR Bot powered by pyCraft | [`Tool`](/labels/tool/readme.md) |
 | [Minecraft Data API](/plugins/minecraft_data_api/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A MCDReforged api plugin to get player data information and more | [`API`](/labels/api/readme.md) |
 | [More APIs](/plugins/more_apis/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | Add some api for MCDReforged | [`API`](/labels/api/readme.md) |
+| [MultiRconAPI](/plugins/multi_rcon_api/readme.md) | [YehowahLiu](https://github.com/YehowahLiu) | An api to make it easier to control group server by rcon. | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
 | [OneBot API](/plugins/onebot_api/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | OneBot in MCDReforged | [`API`](/labels/api/readme.md) |
 | [Online](/plugins/online/readme.md) | [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu) | Display the online players for Group server, with click event to quickly join every sub-server. | [`Information`](/labels/information/readme.md) |
 | [Permanent Backup](/plugins/permanent_backup/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A plugin for creating permanent zip world backups | [`Management`](/labels/management/readme.md) |
