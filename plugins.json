@@ -1,5 +1,5 @@
 {
-  "plugin_amount": 38,
+  "plugin_amount": 39,
   "plugins": {
     "auto_plugin_reloader": {
       "id": "auto_plugin_reloader",
@@ -525,6 +525,27 @@
       "description": {
         "en_us": "Add some api for MCDReforged",
         "zh_cn": "给 MCDReforged 添加了一些 API"
+      }
+    },
+    "multi_rcon_api": {
+      "id": "multi_rcon_api",
+      "name": "MultiRconAPI",
+      "version": "1.0.0",
+      "repository": "https://github.com/FAS-Server/MultiRconAPI",
+      "labels": [
+        "tool",
+        "api"
+      ],
+      "authors": [
+        "YehowahLiu"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.1.2"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "An api to make it easier to control group server by rcon.",
+        "zh_cn": "一个使用rcon来做到对群组服进行简单操作的api"
       }
     },
     "onebot_api": {
