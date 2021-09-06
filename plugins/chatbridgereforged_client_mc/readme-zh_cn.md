@@ -7,20 +7,26 @@
 ### 基本信息
 
 - 插件 ID: `chatbridgereforged_client_mc`
-- 版本: *数据拉取失败*
+- 插件名: ChatBridgeReforged_client_mc
+- 版本: 0.0.1-Alpha-006-pre5-2.0-test
+  - 元数据版本: 0.0.1-Alpha-006-pre5-2.0-test
+  - 发布版本: N/A
 - 总下载量: 0
 - 作者: [Ricky](https://github.com/rickyhoho)
 - 仓库: https://github.com/rickyhoho/ChatBridgeReforged
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的交互桥梁，多物互联（不是）
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0-alpha4 |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
 
 ### 介绍
 

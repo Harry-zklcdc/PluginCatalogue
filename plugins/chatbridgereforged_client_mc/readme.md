@@ -7,20 +7,26 @@
 ### Basic Information
 
 - Plugin ID: `chatbridgereforged_client_mc`
-- Version: *Data fetching failed*
+- Plugin Name: ChatBridgeReforged_client_mc
+- Version: 0.0.1-Alpha-006-pre5-2.0-test
+  - Metadata version: 0.0.1-Alpha-006-pre5-2.0-test
+  - Release version: N/A
 - Total downloads: 0
 - Authors: [Ricky](https://github.com/rickyhoho)
 - Repository: https://github.com/rickyhoho/ChatBridgeReforged
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custome clients).
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0-alpha4 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
