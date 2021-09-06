@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "online",
   "latest_version": "1.2.0",
-  "etag": "\"183aa87b2b14203e910a27b495261e65ed9e50e590a8ffcc384c577de2ec8174\"",
+  "etag": "\"b5843fb6cfee822d6523b8bd6c28d95fe2498235f4bc4e5877b4d1f9cd50979a\"",
   "releases": [
     {
       "url": "https://github.com/FAS-Server/Online/releases/tag/v1.2.0",
@@ -13,7 +13,7 @@
         {
           "name": "online-v1.2.0.mcdr",
           "size": 2842,
-          "download_count": 190,
+          "download_count": 191,
           "created_at": "2021-08-21T11:06:24Z",
           "browser_download_url": "https://github.com/FAS-Server/Online/releases/download/v1.2.0/online-v1.2.0.mcdr"
         }
