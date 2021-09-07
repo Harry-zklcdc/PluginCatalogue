@@ -8,9 +8,9 @@
 
 - 插件 ID: `carpet_bot_manager`
 - 插件名: Carpet Bot Manager
-- 版本: 0.2.1
-  - 元数据版本: 0.2.1
-  - 发布版本: N/A
+- 版本: 0.3.0
+  - 元数据版本: 0.3.0
+  - 发布版本: 0.3.0
 - 总下载量: 0
 - 作者: [YehowahLiu](https://github.com/YehowahLiu)
 - 仓库: https://github.com/FAS-Server/CarpetBotManager
@@ -21,7 +21,7 @@
 
 | 插件 ID | 依赖需求 |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.2 |
 | [minecraft_data_api](/plugins/minecraft_data_api/readme-zh_cn.md) | \>=1.4.0 |
 
 ### 包依赖
@@ -37,4 +37,5 @@
 
 | 文件 | 版本 | 日期 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
+| [CarpetBotManager-v0.3.0.mcdr](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.0) | 0.3.0 | 2021/09/07 17:13:43 | 9.93KB | 0 | [下载](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.0/CarpetBotManager-v0.3.0.mcdr) |
 
