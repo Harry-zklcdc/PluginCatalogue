@@ -1,7 +1,7 @@
 {
   "id": "carpet_bot_manager",
   "name": "Carpet Bot Manager",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "repository": "https://github.com/FAS-Server/CarpetBotManager",
   "labels": [
     "tool"
@@ -10,7 +10,7 @@
     "YehowahLiu"
   ],
   "dependencies": {
-    "mcdreforged": ">=2.0.0",
+    "mcdreforged": ">=2.1.2",
     "minecraft_data_api": ">=1.4.0"
   },
   "requirements": [],
