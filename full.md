@@ -1231,6 +1231,42 @@ Features:
 | --- | --- | --- | --- | --- | --- |
 | [RegionfileUpdater-v1.4.1.mcdr](https://github.com/TISUnion/RegionFileUpdater/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:03:12 | 15.53KB | 264 | [Download](https://github.com/TISUnion/RegionFileUpdater/releases/download/v1.4.1/RegionfileUpdater-v1.4.1.mcdr) |
 
+## renewability
+
+### Basic Information
+
+- Plugin ID: `renewability`
+- Plugin Name: Renewability
+- Version: 1.1.0
+  - Metadata version: 1.1.0
+  - Release version: 1.1.0
+- Total downloads: 0
+- Authors: [Fidel Yin](https://github.com/Fidelxyz)
+- Repository: https://github.com/Fidelxyz/MCDR-Renewability
+- Labels: [`Tool`](/labels/tool/readme.md)
+- Description: A plugin that allows players to clone non-renewable items
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0-alpha.1 |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | * |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+
+### Introduction
+
+Allow players to clone non-renewable items.
+### Download
+
+| File | Version | Date | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
+| [Renewability.mcdr](https://github.com/Fidelxyz/MCDR-Renewability/releases/tag/v1.1.0) | 1.1.0 | 2021/09/08 03:43:00 | 6.04KB | 0 | [Download](https://github.com/Fidelxyz/MCDR-Renewability/releases/download/v1.1.0/Renewability.mcdr) |
+
 ## run_some_commands
 
 ### Basic Information

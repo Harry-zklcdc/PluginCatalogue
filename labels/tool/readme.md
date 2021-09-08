@@ -6,7 +6,7 @@
 
 Plugin Index with label `Tool`
 
-Plugin Amount: 20
+Plugin Amount: 21
 
 | Plugin Name | Authors | Description | Labels |
 | --- | --- | --- | --- |
@@ -25,6 +25,7 @@ Plugin Amount: 20
 | [MCDR Plugin Panel](/plugins/mcdr_plugin_panel/readme.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | A panel for MCDR plugin | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
 | [MCDR Bot](/plugins/mcdr_pycraft_bot/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | MCDR Bot powered by pyCraft | [`Tool`](/labels/tool/readme.md) |
 | [MultiRconAPI](/plugins/multi_rcon_api/readme.md) | [YehowahLiu](https://github.com/YehowahLiu) | An api to make it easier to control group server by rcon. | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
+| [Renewability](/plugins/renewability/readme.md) | [Fidel Yin](https://github.com/Fidelxyz) | A plugin that allows players to clone non-renewable items | [`Tool`](/labels/tool/readme.md) |
 | [Run Some Commands](/plugins/run_some_commands/readme.md) | [FlyingShuriken](https://github.com/FlyingShuriken) | Let player run whitelisted vanilla command | [`Tool`](/labels/tool/readme.md) |
 | [Simple in-game calculator](/plugins/simple_calculator/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Simple in-game calculator | [`Tool`](/labels/tool/readme.md) |
 | [Simple OP](/plugins/simple_op/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | !!op to get op, !!restart to restart the server | [`Tool`](/labels/tool/readme.md) |
