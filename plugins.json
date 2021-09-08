@@ -1,5 +1,5 @@
 {
-  "plugin_amount": 39,
+  "plugin_amount": 40,
   "plugins": {
     "auto_plugin_reloader": {
       "id": "auto_plugin_reloader",
@@ -653,6 +653,26 @@
       "description": {
         "en_us": "A MCDR plugin to help you update region files in game",
         "zh_cn": "一个从指定位置拉取region文件至本服存档的插件"
+      }
+    },
+    "renewability": {
+      "id": "renewability",
+      "name": "Renewability",
+      "version": "1.1.0",
+      "repository": "https://github.com/Fidelxyz/MCDR-Renewability",
+      "labels": [
+        "tool"
+      ],
+      "authors": [
+        "Fidel Yin"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0-alpha.1",
+        "minecraft_data_api": "*"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A plugin that allows players to clone non-renewable items"
       }
     },
     "run_some_commands": {
