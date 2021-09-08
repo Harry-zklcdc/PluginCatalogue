@@ -57,7 +57,9 @@
         "mcdreforged": ">=2.1.2",
         "minecraft_data_api": ">=1.4.0"
       },
-      "requirements": [],
+      "requirements": [
+        "mcdreforged>=2.1.2"
+      ],
       "description": {
         "en_us": "A carpet bot manage plugin, able to spawn bot and make it execute actions",
         "zh_cn": "一个地毯端bot管理插件，可以点击召唤bot并让其执行系列动作"
@@ -587,7 +589,9 @@
         "mcdreforged": ">=2.1.3",
         "multi_rcon_api": ">=1.0.0"
       },
-      "requirements": [],
+      "requirements": [
+        "mcdreforged>=2.1.3"
+      ],
       "description": {
         "en_us": "Display the online players for Group server, with click event to quickly join every sub-server.",
         "zh_cn": "为群组服展示所有在线玩家, 同时提供了点击事件以便于快速切换子服"
