@@ -1,9 +1,27 @@
 {
   "schema_version": 2,
   "id": "daycount_nbt",
-  "latest_version": "2.0.1",
-  "etag": "\"7c5ae8f1b639bdd5ef9aab30f493496985ce0e10b0fcc55151acd8614ccbd66f\"",
+  "latest_version": "2.0.2",
+  "etag": "\"8031a5bcd6c3126eda563abc9148dc66da440ec382d1a1e9d1c109228c79422c\"",
   "releases": [
+    {
+      "url": "https://github.com/eagle3236/daycount-NBT/releases/tag/v2.0.2",
+      "name": "2.0.2",
+      "tag_name": "v2.0.2",
+      "created_at": "2021-09-10T09:28:38Z",
+      "assets": [
+        {
+          "name": "DayCountNBT-v2.0.2.mcdr",
+          "size": 1353,
+          "download_count": 2,
+          "created_at": "2021-09-10T09:31:21Z",
+          "browser_download_url": "https://github.com/eagle3236/daycount-NBT/releases/download/v2.0.2/DayCountNBT-v2.0.2.mcdr"
+        }
+      ],
+      "description": "## 🔨 2.0.2\r\n- 修复配置文件路径问题",
+      "prerelease": false,
+      "parsed_version": "2.0.2"
+    },
     {
       "url": "https://github.com/eagle3236/daycount-NBT/releases/tag/v2.0.1",
       "name": "2.0.1",
@@ -13,7 +31,7 @@
         {
           "name": "DayCountNBT-v2.0.1.mcdr",
           "size": 1384,
-          "download_count": 379,
+          "download_count": 381,
           "created_at": "2021-08-28T03:20:11Z",
           "browser_download_url": "https://github.com/eagle3236/daycount-NBT/releases/download/v2.0.1/DayCountNBT-v2.0.1.mcdr"
         }
@@ -31,7 +49,7 @@
         {
           "name": "DayCountNBT-v2.0.0.mcdr",
           "size": 1553,
-          "download_count": 358,
+          "download_count": 360,
           "created_at": "2021-08-25T09:34:00Z",
           "browser_download_url": "https://github.com/eagle3236/daycount-NBT/releases/download/v2.0.0/DayCountNBT-v2.0.0.mcdr"
         }
