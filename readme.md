@@ -22,7 +22,7 @@ Plugin Amount: 40
 | [Carpet Bot Manager](/plugins/carpet_bot_manager/readme.md) | [YehowahLiu](https://github.com/YehowahLiu) | A carpet bot manage plugin, able to spawn bot and make it execute actions | [`Tool`](/labels/tool/readme.md) |
 | [CarpetBotList](/plugins/carpetbotlist/readme.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | Help you manage your carpet fake player | [`Tool`](/labels/tool/readme.md) |
 | [ChatBridge Client](/plugins/chatbridge_client/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Boardcast chat between mc servers or even discord server | [`Tool`](/labels/tool/readme.md) |
-| [ChatBridgeReforged_client_mc](/plugins/chatbridgereforged_client_mc/readme.md) | [Ricky](https://github.com/rickyhoho) | Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custome clients). | [`Tool`](/labels/tool/readme.md) |
+| [*Data fetching failed*](/plugins/chatbridgereforged_client_mc/readme.md) | [Ricky](https://github.com/rickyhoho) | *Data fetching failed* | [`Tool`](/labels/tool/readme.md) |
 | [ColoredChat](/plugins/colored_chat/readme.md) | [zhang_anzhi](https://github.com/zhang-anzhi) | Support formatting codes for vanilla | [`Tool`](/labels/tool/readme.md) |
 | [Crash Restart](/plugins/crash_restart/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Automatically restart the server after the server crashed | [`Tool`](/labels/tool/readme.md) |
 | [DayCount NBT](/plugins/daycount_nbt/readme.md) | [Alex3236](https://github.com/eagle3236) | Get and export server opening times. | [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md) |
