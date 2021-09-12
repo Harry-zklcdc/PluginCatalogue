@@ -197,29 +197,39 @@ Shitty written, but it works XD
 | [ChatBridgeClient-v1.1.1.mcdr](https://github.com/TISUnion/ChatBridge/releases/tag/v1.1.1) | 1.1.1 | 2021/08/28 09:51:30 | 21.83KB | 446 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v1.1.1/ChatBridgeClient-v1.1.1.mcdr) |
 | [ChatBridgeClient-v1.1.0.mcdr](https://github.com/TISUnion/ChatBridge/releases/tag/v1.1.0) | 1.1.0 | 2021/08/17 03:58:31 | 21.83KB | 470 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v1.1.0/ChatBridgeClient-v1.1.0.mcdr) |
 
-## chatbridgereforged_client_mc
+## chatbridgereforged_mc
 
 ### Basic Information
 
-- Plugin ID: `chatbridgereforged_client_mc`
-- Version: *Data fetching failed*
+- Plugin ID: `chatbridgereforged_mc`
+- Plugin Name: ChatBridgeReforged_MC
+- Version: 0.0.1-BETA-014
+  - Metadata version: 0.0.1-BETA-014
+  - Release version: N/A
 - Total downloads: 0
 - Authors: [Ricky](https://github.com/rickyhoho)
 - Repository: https://github.com/rickyhoho/ChatBridgeReforged
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custome clients).
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [trio](https://pypi.org/project/trio) |  |
+| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
+| [pycryptodome](https://pypi.org/project/pycryptodome) |  |
 
 ### Introduction
 
-*Data fetching failed*
+Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bot or other things).
+
 ### Download
 
 | File | Version | Date | Size | Downloads | Operations |

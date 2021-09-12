@@ -197,29 +197,39 @@
 | [ChatBridgeClient-v1.1.1.mcdr](https://github.com/TISUnion/ChatBridge/releases/tag/v1.1.1) | 1.1.1 | 2021/08/28 09:51:30 | 21.83KB | 446 | [下载](https://github.com/TISUnion/ChatBridge/releases/download/v1.1.1/ChatBridgeClient-v1.1.1.mcdr) |
 | [ChatBridgeClient-v1.1.0.mcdr](https://github.com/TISUnion/ChatBridge/releases/tag/v1.1.0) | 1.1.0 | 2021/08/17 03:58:31 | 21.83KB | 470 | [下载](https://github.com/TISUnion/ChatBridge/releases/download/v1.1.0/ChatBridgeClient-v1.1.0.mcdr) |
 
-## chatbridgereforged_client_mc
+## chatbridgereforged_mc
 
 ### 基本信息
 
-- 插件 ID: `chatbridgereforged_client_mc`
-- 版本: *数据拉取失败*
+- 插件 ID: `chatbridgereforged_mc`
+- 插件名: ChatBridgeReforged_MC
+- 版本: 0.0.1-BETA-014
+  - 元数据版本: 0.0.1-BETA-014
+  - 发布版本: N/A
 - 总下载量: 0
 - 作者: [Ricky](https://github.com/rickyhoho)
 - 仓库: https://github.com/rickyhoho/ChatBridgeReforged
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的交互桥梁，多服互联（不是）
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
+| [trio](https://pypi.org/project/trio) |  |
+| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
+| [pycryptodome](https://pypi.org/project/pycryptodome) |  |
 
 ### 介绍
 
-*数据拉取失败*
+ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的交互桥梁，多物互联（不是）
+
 ### 下载
 
 | 文件 | 版本 | 日期 | 大小 | 下载数 | 操作 |
