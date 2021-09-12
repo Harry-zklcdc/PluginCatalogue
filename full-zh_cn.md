@@ -15,7 +15,7 @@
 - 版本: 1.1.0
   - 元数据版本: 1.1.0
   - 发布版本: 1.1.0
-- 总下载量: 940
+- 总下载量: 941
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/AutoPluginReloader
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
@@ -42,7 +42,7 @@
 
 | 文件 | 版本 | 日期 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [AutoPluginReloader-v1.1.0.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.1.0) | 1.1.0 | 2021/08/26 13:43:28 | 17.44KB | 464 | [下载](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.1.0/AutoPluginReloader-v1.1.0.mcdr) |
+| [AutoPluginReloader-v1.1.0.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.1.0) | 1.1.0 | 2021/08/26 13:43:28 | 17.44KB | 465 | [下载](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.1.0/AutoPluginReloader-v1.1.0.mcdr) |
 | [AutoPluginReloader-v1.0.1.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.0.1) | 1.0.1 | 2021/08/19 12:27:58 | 17.4KB | 476 | [下载](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.0.1/AutoPluginReloader-v1.0.1.mcdr) |
 
 ## beep
@@ -573,7 +573,7 @@
 - 版本: 3.0.0
   - 元数据版本: 3.0.0
   - 发布版本: 3.0.0
-- 总下载量: 473
+- 总下载量: 474
 - 作者: [Alex3236](https://github.com/eagle3236)
 - 仓库: https://github.com/eagle3236/joinMOTD_Plus
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
@@ -607,7 +607,7 @@
 
 | 文件 | 版本 | 日期 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [join_motd_plus_3.0.0.mcdr](https://github.com/eagle3236/joinMOTD_Plus/releases/tag/v3.0.0) | 3.0.0 | 2021/08/25 03:32:07 | 3.19KB | 473 | [下载](https://github.com/eagle3236/joinMOTD_Plus/releases/download/v3.0.0/join_motd_plus_3.0.0.mcdr) |
+| [join_motd_plus_3.0.0.mcdr](https://github.com/eagle3236/joinMOTD_Plus/releases/tag/v3.0.0) | 3.0.0 | 2021/08/25 03:32:07 | 3.19KB | 474 | [下载](https://github.com/eagle3236/joinMOTD_Plus/releases/download/v3.0.0/join_motd_plus_3.0.0.mcdr) |
 
 ## lazytp
 
@@ -1156,7 +1156,7 @@
 - 版本: 1.4.2
   - 元数据版本: 1.4.2
   - 发布版本: 1.4.2
-- 总下载量: 1918
+- 总下载量: 1919
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/QuickBackupM
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
@@ -1189,7 +1189,7 @@
 
 | 文件 | 版本 | 日期 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [QuickBackupM-v1.4.2.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.2) | 1.4.2 | 2021/08/29 15:35:41 | 21.73KB | 499 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.4.2/QuickBackupM-v1.4.2.mcdr) |
+| [QuickBackupM-v1.4.2.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.2) | 1.4.2 | 2021/08/29 15:35:41 | 21.73KB | 500 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.4.2/QuickBackupM-v1.4.2.mcdr) |
 | [QuickBackupM-v1.4.1.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.1) | 1.4.1 | 2021/08/27 09:44:34 | 21.72KB | 455 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.4.1/QuickBackupM-v1.4.1.mcdr) |
 | [QuickBackupM-v1.3.3.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.3.3) | 1.3.3 | 2021/08/24 16:01:43 | 21.09KB | 449 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.3.3/QuickBackupM-v1.3.3.mcdr) |
 
@@ -1308,7 +1308,7 @@
 - 版本: 1.2.0
   - 元数据版本: 1.2.0
   - 发布版本: 1.2.0
-- 总下载量: 916
+- 总下载量: 917
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/Calculator
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
@@ -1334,7 +1334,7 @@
 
 | 文件 | 版本 | 日期 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [SimpleCalculator-v1.2.0.mcdr](https://github.com/TISUnion/Calculator/releases/tag/v1.2.0) | 1.2.0 | 2021/08/26 13:59:56 | 15.54KB | 460 | [下载](https://github.com/TISUnion/Calculator/releases/download/v1.2.0/SimpleCalculator-v1.2.0.mcdr) |
+| [SimpleCalculator-v1.2.0.mcdr](https://github.com/TISUnion/Calculator/releases/tag/v1.2.0) | 1.2.0 | 2021/08/26 13:59:56 | 15.54KB | 461 | [下载](https://github.com/TISUnion/Calculator/releases/download/v1.2.0/SimpleCalculator-v1.2.0.mcdr) |
 | [SimpleCalculator-v1.1.0.mcdr](https://github.com/TISUnion/Calculator/releases/tag/v1.1.0) | 1.1.0 | 2021/08/21 16:39:21 | 15.5KB | 456 | [下载](https://github.com/TISUnion/Calculator/releases/download/v1.1.0/SimpleCalculator-v1.1.0.mcdr) |
 
 ## simple_op
@@ -1419,7 +1419,7 @@
 - 版本: 0.0.2
   - 元数据版本: 0.0.2
   - 发布版本: 0.0.2
-- 总下载量: 462
+- 总下载量: 463
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath), [zhang_anzhi](https://github.com/zhang-anzhi)
 - 仓库: https://github.com/zhang-anzhi/MCDReforgedPlugins
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
@@ -1475,7 +1475,7 @@
 
 | 文件 | 版本 | 日期 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [StartStopHelperR-v0.0.2.mcdr](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/tag/start_stop_helper_r-v0.0.2) | 0.0.2 | 2021/08/23 07:05:20 | 1.72KB | 462 | [下载](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/download/start_stop_helper_r-v0.0.2/StartStopHelperR-v0.0.2.mcdr) |
+| [StartStopHelperR-v0.0.2.mcdr](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/tag/start_stop_helper_r-v0.0.2) | 0.0.2 | 2021/08/23 07:05:20 | 1.72KB | 463 | [下载](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/download/start_stop_helper_r-v0.0.2/StartStopHelperR-v0.0.2.mcdr) |
 
 ## stats_helper
 
@@ -1525,7 +1525,7 @@
 - 版本: 1.0.1
   - 元数据版本: 1.0.1
   - 发布版本: 1.0.1
-- 总下载量: 506
+- 总下载量: 507
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/TimedQBM
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
@@ -1550,7 +1550,7 @@
 
 | 文件 | 版本 | 日期 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [TimedQBM-v1.0.1.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.0.1) | 1.0.1 | 2021/08/16 17:10:01 | 16.05KB | 506 | [下载](https://github.com/TISUnion/TimedQBM/releases/download/v1.0.1/TimedQBM-v1.0.1.mcdr) |
+| [TimedQBM-v1.0.1.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.0.1) | 1.0.1 | 2021/08/16 17:10:01 | 16.05KB | 507 | [下载](https://github.com/TISUnion/TimedQBM/releases/download/v1.0.1/TimedQBM-v1.0.1.mcdr) |
 
 ## wiki_request
 

@@ -15,7 +15,7 @@ Use `ctrl-f` to performance an in-page search, for what you are interested in
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
-- Total downloads: 940
+- Total downloads: 941
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/AutoPluginReloader
 - Labels: [`Management`](/labels/management/readme.md)
@@ -42,7 +42,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [AutoPluginReloader-v1.1.0.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.1.0) | 1.1.0 | 2021/08/26 13:43:28 | 17.44KB | 464 | [Download](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.1.0/AutoPluginReloader-v1.1.0.mcdr) |
+| [AutoPluginReloader-v1.1.0.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.1.0) | 1.1.0 | 2021/08/26 13:43:28 | 17.44KB | 465 | [Download](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.1.0/AutoPluginReloader-v1.1.0.mcdr) |
 | [AutoPluginReloader-v1.0.1.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.0.1) | 1.0.1 | 2021/08/19 12:27:58 | 17.4KB | 476 | [Download](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.0.1/AutoPluginReloader-v1.0.1.mcdr) |
 
 ## beep
@@ -573,7 +573,7 @@ Show time in Minecraft
 - Version: 3.0.0
   - Metadata version: 3.0.0
   - Release version: 3.0.0
-- Total downloads: 473
+- Total downloads: 474
 - Authors: [Alex3236](https://github.com/eagle3236)
 - Repository: https://github.com/eagle3236/joinMOTD_Plus
 - Labels: [`Information`](/labels/information/readme.md)
@@ -607,7 +607,7 @@ Features:
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [join_motd_plus_3.0.0.mcdr](https://github.com/eagle3236/joinMOTD_Plus/releases/tag/v3.0.0) | 3.0.0 | 2021/08/25 03:32:07 | 3.19KB | 473 | [Download](https://github.com/eagle3236/joinMOTD_Plus/releases/download/v3.0.0/join_motd_plus_3.0.0.mcdr) |
+| [join_motd_plus_3.0.0.mcdr](https://github.com/eagle3236/joinMOTD_Plus/releases/tag/v3.0.0) | 3.0.0 | 2021/08/25 03:32:07 | 3.19KB | 474 | [Download](https://github.com/eagle3236/joinMOTD_Plus/releases/download/v3.0.0/join_motd_plus_3.0.0.mcdr) |
 
 ## lazytp
 
@@ -1155,7 +1155,7 @@ Display the online players for Group server, with click event to quickly join ev
 - Version: 1.4.2
   - Metadata version: 1.4.2
   - Release version: 1.4.2
-- Total downloads: 1918
+- Total downloads: 1919
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/QuickBackupM
 - Labels: [`Management`](/labels/management/readme.md)
@@ -1188,7 +1188,7 @@ Features:
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [QuickBackupM-v1.4.2.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.2) | 1.4.2 | 2021/08/29 15:35:41 | 21.73KB | 499 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.4.2/QuickBackupM-v1.4.2.mcdr) |
+| [QuickBackupM-v1.4.2.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.2) | 1.4.2 | 2021/08/29 15:35:41 | 21.73KB | 500 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.4.2/QuickBackupM-v1.4.2.mcdr) |
 | [QuickBackupM-v1.4.1.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.1) | 1.4.1 | 2021/08/27 09:44:34 | 21.72KB | 455 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.4.1/QuickBackupM-v1.4.1.mcdr) |
 | [QuickBackupM-v1.3.3.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.3.3) | 1.3.3 | 2021/08/24 16:01:43 | 21.09KB | 449 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.3.3/QuickBackupM-v1.3.3.mcdr) |
 
@@ -1307,7 +1307,7 @@ Let player run whitelisted vanilla command
 - Version: 1.2.0
   - Metadata version: 1.2.0
   - Release version: 1.2.0
-- Total downloads: 916
+- Total downloads: 917
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/Calculator
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -1333,7 +1333,7 @@ Let player run whitelisted vanilla command
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [SimpleCalculator-v1.2.0.mcdr](https://github.com/TISUnion/Calculator/releases/tag/v1.2.0) | 1.2.0 | 2021/08/26 13:59:56 | 15.54KB | 460 | [Download](https://github.com/TISUnion/Calculator/releases/download/v1.2.0/SimpleCalculator-v1.2.0.mcdr) |
+| [SimpleCalculator-v1.2.0.mcdr](https://github.com/TISUnion/Calculator/releases/tag/v1.2.0) | 1.2.0 | 2021/08/26 13:59:56 | 15.54KB | 461 | [Download](https://github.com/TISUnion/Calculator/releases/download/v1.2.0/SimpleCalculator-v1.2.0.mcdr) |
 | [SimpleCalculator-v1.1.0.mcdr](https://github.com/TISUnion/Calculator/releases/tag/v1.1.0) | 1.1.0 | 2021/08/21 16:39:21 | 15.5KB | 456 | [Download](https://github.com/TISUnion/Calculator/releases/download/v1.1.0/SimpleCalculator-v1.1.0.mcdr) |
 
 ## simple_op
@@ -1418,7 +1418,7 @@ Let player run whitelisted vanilla command
 - Version: 0.0.2
   - Metadata version: 0.0.2
   - Release version: 0.0.2
-- Total downloads: 462
+- Total downloads: 463
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [zhang_anzhi](https://github.com/zhang-anzhi)
 - Repository: https://github.com/zhang-anzhi/MCDReforgedPlugins
 - Labels: [`Management`](/labels/management/readme.md)
@@ -1474,7 +1474,7 @@ Let player run whitelisted vanilla command
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [StartStopHelperR-v0.0.2.mcdr](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/tag/start_stop_helper_r-v0.0.2) | 0.0.2 | 2021/08/23 07:05:20 | 1.72KB | 462 | [Download](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/download/start_stop_helper_r-v0.0.2/StartStopHelperR-v0.0.2.mcdr) |
+| [StartStopHelperR-v0.0.2.mcdr](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/tag/start_stop_helper_r-v0.0.2) | 0.0.2 | 2021/08/23 07:05:20 | 1.72KB | 463 | [Download](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/download/start_stop_helper_r-v0.0.2/StartStopHelperR-v0.0.2.mcdr) |
 
 ## stats_helper
 
@@ -1524,7 +1524,7 @@ Use `!!stats` to see the value / rank, or build a scoreboard from given statisti
 - Version: 1.0.1
   - Metadata version: 1.0.1
   - Release version: 1.0.1
-- Total downloads: 506
+- Total downloads: 507
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/TimedQBM
 - Labels: [`Management`](/labels/management/readme.md)
@@ -1549,7 +1549,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [TimedQBM-v1.0.1.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.0.1) | 1.0.1 | 2021/08/16 17:10:01 | 16.05KB | 506 | [Download](https://github.com/TISUnion/TimedQBM/releases/download/v1.0.1/TimedQBM-v1.0.1.mcdr) |
+| [TimedQBM-v1.0.1.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.0.1) | 1.0.1 | 2021/08/16 17:10:01 | 16.05KB | 507 | [Download](https://github.com/TISUnion/TimedQBM/releases/download/v1.0.1/TimedQBM-v1.0.1.mcdr) |
 
 ## wiki_request
 
