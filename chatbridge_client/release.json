@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "chatbridge_client",
   "latest_version": "1.1.1",
-  "etag": "\"8cb81067d67dcaa9aa0cfa5323b8aeb200334ed2cf6b10c7296292be05a1ffcb\"",
+  "etag": "\"8ed5233f0f8cf392f6571b53317446efd7f8b2e799b693d6426522b855392f8f\"",
   "releases": [
     {
       "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v1.1.1",
@@ -13,7 +13,7 @@
         {
           "name": "ChatBridgeClient-v1.1.1.mcdr",
           "size": 22353,
-          "download_count": 567,
+          "download_count": 568,
           "created_at": "2021-08-28T09:51:30Z",
           "browser_download_url": "https://github.com/TISUnion/ChatBridge/releases/download/v1.1.1/ChatBridgeClient-v1.1.1.mcdr"
         }
@@ -31,7 +31,7 @@
         {
           "name": "ChatBridgeClient-v1.1.0.mcdr",
           "size": 22359,
-          "download_count": 594,
+          "download_count": 595,
           "created_at": "2021-08-17T03:58:31Z",
           "browser_download_url": "https://github.com/TISUnion/ChatBridge/releases/download/v1.1.0/ChatBridgeClient-v1.1.0.mcdr"
         }
