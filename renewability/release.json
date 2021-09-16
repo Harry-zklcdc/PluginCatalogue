@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "renewability",
   "latest_version": "1.1.0",
-  "etag": "\"6c1c4fdd8d1f94de60905eb40cea54fb06998edd9dcc5236555d72be04e75b12\"",
+  "etag": "\"e6df29f0ff6b74a8393d70bab4773bcf17275643f582d270a34d6eedbe8069dc\"",
   "releases": [
     {
       "url": "https://github.com/Fidelxyz/MCDR-Renewability/releases/tag/v1.1.0",
@@ -13,7 +13,7 @@
         {
           "name": "Renewability.mcdr",
           "size": 6184,
-          "download_count": 373,
+          "download_count": 374,
           "created_at": "2021-09-08T03:43:00Z",
           "browser_download_url": "https://github.com/Fidelxyz/MCDR-Renewability/releases/download/v1.1.0/Renewability.mcdr"
         }
