@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "join_motd",
   "latest_version": "1.2.0",
-  "etag": "\"aae475507cf4f13fb0e97cf1bd0e8b21d7f25497b5cff14f8c4209c0bed2ecd6\"",
+  "etag": "\"628cdf7a0fb44df68f39d623088b69085684ea6fc5fc1f6512e487b2a9b9bfdd\"",
   "releases": [
     {
       "url": "https://github.com/TISUnion/joinMOTD/releases/tag/v1.2.0",
@@ -13,7 +13,7 @@
         {
           "name": "JoinMOTD-v1.2.0.mcdr",
           "size": 1564,
-          "download_count": 693,
+          "download_count": 694,
           "created_at": "2021-08-22T04:18:37Z",
           "browser_download_url": "https://github.com/TISUnion/joinMOTD/releases/download/v1.2.0/JoinMOTD-v1.2.0.mcdr"
         }
