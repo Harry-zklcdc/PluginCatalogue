@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "lite_file_manager",
   "latest_version": "1.3.0",
-  "etag": "\"ae20b6708c0ddad00a763145be9dddeefb0d650e5a5c502580e929cc631755da\"",
+  "etag": "\"416a0e4200f314ad8ed43d9063d60e0963995beccd44b60dd74e0770c001692d\"",
   "releases": [
     {
       "url": "https://github.com/MCDReforged/LiteFileManager/releases/tag/v1.3.0",
@@ -13,7 +13,7 @@
         {
           "name": "LiteFileManager-v1.3.0.mcdr",
           "size": 25224,
-          "download_count": 654,
+          "download_count": 656,
           "created_at": "2021-08-26T13:57:51Z",
           "browser_download_url": "https://github.com/MCDReforged/LiteFileManager/releases/download/v1.3.0/LiteFileManager-v1.3.0.mcdr"
         }
@@ -31,7 +31,7 @@
         {
           "name": "LiteFileManager-v1.2.1.mcdr",
           "size": 25148,
-          "download_count": 664,
+          "download_count": 666,
           "created_at": "2021-08-16T17:09:01Z",
           "browser_download_url": "https://github.com/MCDReforged/LiteFileManager/releases/download/v1.2.1/LiteFileManager-v1.2.1.mcdr"
         }
@@ -49,7 +49,7 @@
         {
           "name": "LiteFileManager-v1.2.0.mcdr",
           "size": 12758,
-          "download_count": 651,
+          "download_count": 653,
           "created_at": "2021-08-16T17:07:34Z",
           "browser_download_url": "https://github.com/MCDReforged/LiteFileManager/releases/download/v1.2.0/LiteFileManager-v1.2.0.mcdr"
         }
