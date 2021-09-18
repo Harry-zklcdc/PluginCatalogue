@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "simple_op_modified",
   "latest_version": "1.1.0",
-  "etag": "\"0dc8511c4b6d4f14bf229fdc40f62705081bdb0787018fd4d7bd4ac77431db15\"",
+  "etag": "\"8de987b0c65e4ae09ffd1046a1b84c94b9d7f88b3cff743aa47d56a2f33966c2\"",
   "releases": [
     {
       "url": "https://github.com/Lazy-Bing-Server/SimpleOPModified/releases/tag/1.1.0",
@@ -13,7 +13,7 @@
         {
           "name": "SimpleOPModified-v1.1.0.mcdr",
           "size": 5703,
-          "download_count": 726,
+          "download_count": 727,
           "created_at": "2021-08-23T06:23:11Z",
           "browser_download_url": "https://github.com/Lazy-Bing-Server/SimpleOPModified/releases/download/1.1.0/SimpleOPModified-v1.1.0.mcdr"
         }
@@ -31,7 +31,7 @@
         {
           "name": "SimpleOPModified-v1.0.0.mcdr",
           "size": 5837,
-          "download_count": 721,
+          "download_count": 722,
           "created_at": "2021-08-19T09:22:07Z",
           "browser_download_url": "https://github.com/Lazy-Bing-Server/SimpleOPModified/releases/download/1.0.0/SimpleOPModified-v1.0.0.mcdr"
         }
