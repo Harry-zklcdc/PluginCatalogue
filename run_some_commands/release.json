@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "run_some_commands",
   "latest_version": "1.0.0",
-  "etag": "\"d066e5f182696b0405ecb06f5bc993fc911302874ead76118035b885d6595ac1\"",
+  "etag": "\"08e0da65bb17bebbe4d3cec71c7f0cf48cdbec8274e82aa7518eae3fb07fb888\"",
   "releases": [
     {
       "url": "https://github.com/FlyingShuriken/MCDR-plugins/releases/tag/v1.0.0",
@@ -13,7 +13,7 @@
         {
           "name": "run_some_commands_v1.0.0.mcdr",
           "size": 2768,
-          "download_count": 782,
+          "download_count": 783,
           "created_at": "2021-08-20T14:56:00Z",
           "browser_download_url": "https://github.com/FlyingShuriken/MCDR-plugins/releases/download/v1.0.0/run_some_commands_v1.0.0.mcdr"
         }
