@@ -2,10 +2,10 @@
   "schema_version": 2,
   "id": "daycount_nbt",
   "latest_version": "2.0.2",
-  "etag": "\"8e4029dd0b9a9c0c2357b4660c09a567126997a277a7885c5332186125aa0822\"",
+  "etag": "\"8fc585b276565363a2ab30b77f10d7f134f2af5ea643a711d188331e1e444e58\"",
   "releases": [
     {
-      "url": "https://github.com/eagle3236/daycount-NBT/releases/tag/v2.0.2",
+      "url": "https://github.com/alex3236/daycount-NBT/releases/tag/v2.0.2",
       "name": "2.0.2",
       "tag_name": "v2.0.2",
       "created_at": "2021-09-10T09:28:38Z",
@@ -13,9 +13,9 @@
         {
           "name": "DayCountNBT-v2.0.2.mcdr",
           "size": 1353,
-          "download_count": 400,
+          "download_count": 401,
           "created_at": "2021-09-10T09:31:21Z",
-          "browser_download_url": "https://github.com/eagle3236/daycount-NBT/releases/download/v2.0.2/DayCountNBT-v2.0.2.mcdr"
+          "browser_download_url": "https://github.com/alex3236/daycount-NBT/releases/download/v2.0.2/DayCountNBT-v2.0.2.mcdr"
         }
       ],
       "description": "## 🔨 2.0.2\r\n- 修复配置文件路径问题",
@@ -23,7 +23,7 @@
       "parsed_version": "2.0.2"
     },
     {
-      "url": "https://github.com/eagle3236/daycount-NBT/releases/tag/v2.0.1",
+      "url": "https://github.com/alex3236/daycount-NBT/releases/tag/v2.0.1",
       "name": "2.0.1",
       "tag_name": "v2.0.1",
       "created_at": "2021-08-28T03:17:31Z",
@@ -31,9 +31,9 @@
         {
           "name": "DayCountNBT-v2.0.1.mcdr",
           "size": 1384,
-          "download_count": 769,
+          "download_count": 770,
           "created_at": "2021-08-28T03:20:11Z",
-          "browser_download_url": "https://github.com/eagle3236/daycount-NBT/releases/download/v2.0.1/DayCountNBT-v2.0.1.mcdr"
+          "browser_download_url": "https://github.com/alex3236/daycount-NBT/releases/download/v2.0.1/DayCountNBT-v2.0.1.mcdr"
         }
       ],
       "description": "## 🔨 修复问题\r\n- 删除旧的 `PLUGIN_METADATA`\r\n- 修复一个定义错误",
@@ -41,7 +41,7 @@
       "parsed_version": "2.0.1"
     },
     {
-      "url": "https://github.com/eagle3236/daycount-NBT/releases/tag/v2.0.0",
+      "url": "https://github.com/alex3236/daycount-NBT/releases/tag/v2.0.0",
       "name": "2.0.0",
       "tag_name": "v2.0.0",
       "created_at": "2021-08-25T09:32:10Z",
@@ -49,9 +49,9 @@
         {
           "name": "DayCountNBT-v2.0.0.mcdr",
           "size": 1553,
-          "download_count": 749,
+          "download_count": 750,
           "created_at": "2021-08-25T09:34:00Z",
-          "browser_download_url": "https://github.com/eagle3236/daycount-NBT/releases/download/v2.0.0/DayCountNBT-v2.0.0.mcdr"
+          "browser_download_url": "https://github.com/alex3236/daycount-NBT/releases/download/v2.0.0/DayCountNBT-v2.0.0.mcdr"
         }
       ],
       "description": "## 新特性 🚀🚀🚀\r\n- MCDR 2！",
