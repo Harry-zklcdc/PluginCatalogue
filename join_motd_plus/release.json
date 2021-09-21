@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "join_motd_plus",
   "latest_version": "3.0.1",
-  "etag": "\"8c652dd91275fb6feaafca904883920c5bcf2526e8c252a812bd55ac80a8001f\"",
+  "etag": "\"20a7b40b361bbf4be4b951f4beadb22c64a50d7a2f8f7308aac957215dddcb37\"",
   "releases": [
     {
       "url": "https://github.com/alex3236/joinMOTD_Plus/releases/tag/v3.0.1",
@@ -13,7 +13,7 @@
         {
           "name": "join_motd_plus_3.0.1.mcdr",
           "size": 4188,
-          "download_count": 170,
+          "download_count": 171,
           "created_at": "2021-09-18T09:20:41Z",
           "browser_download_url": "https://github.com/alex3236/joinMOTD_Plus/releases/download/v3.0.1/join_motd_plus_3.0.1.mcdr"
         }
@@ -31,14 +31,14 @@
         {
           "name": "join_motd_plus_3.0.0.mcdr",
           "size": 3265,
-          "download_count": 912,
+          "download_count": 913,
           "created_at": "2021-08-25T03:32:07Z",
           "browser_download_url": "https://github.com/alex3236/joinMOTD_Plus/releases/download/v3.0.0/join_motd_plus_3.0.0.mcdr"
         },
         {
           "name": "join_motd_plus_3.0.1.mcdr",
           "size": 4188,
-          "download_count": 163,
+          "download_count": 164,
           "created_at": "2021-09-18T09:17:54Z",
           "browser_download_url": "https://github.com/alex3236/joinMOTD_Plus/releases/download/v3.0.0/join_motd_plus_3.0.1.mcdr"
         }
