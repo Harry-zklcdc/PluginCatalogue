@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "onebot_api",
   "latest_version": "1.0.1",
-  "etag": "\"97164ee18e948df1cc66e42617dc89e8b92b113f72f21cac4c738375759ed9a7\"",
+  "etag": "\"c3d8dfbbe2c5f68226f4f487c1483a8dacf0f81010fc8991d14ea08cf23f1f06\"",
   "releases": [
     {
       "url": "https://github.com/HuajiMUR233/OneBotAPI/releases/tag/1.0.1",
@@ -13,7 +13,7 @@
         {
           "name": "OneBotAPI-v1.0.1.mcdr",
           "size": 15160,
-          "download_count": 850,
+          "download_count": 851,
           "created_at": "2021-09-06T13:06:15Z",
           "browser_download_url": "https://github.com/HuajiMUR233/OneBotAPI/releases/download/1.0.1/OneBotAPI-v1.0.1.mcdr"
         }
