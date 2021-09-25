@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "carpet_bot_manager",
   "latest_version": "0.3.0",
-  "etag": "\"987df6e10f4edee75941ea1d14094a5b526648783299c0da4cd395d8d7a15dfb\"",
+  "etag": "\"d889c0e83657ff666d64d69e2e4c16a361b738e6d40c3478ef1e8ecc9ce2c4e8\"",
   "releases": [
     {
       "url": "https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.0",
@@ -13,7 +13,7 @@
         {
           "name": "CarpetBotManager-v0.3.0.mcdr",
           "size": 10168,
-          "download_count": 832,
+          "download_count": 833,
           "created_at": "2021-09-07T17:13:43Z",
           "browser_download_url": "https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.0/CarpetBotManager-v0.3.0.mcdr"
         }
