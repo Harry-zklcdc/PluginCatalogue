@@ -1,7 +1,7 @@
 {
   "id": "more_apis",
   "name": "More APIs",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "repository": "https://github.com/HuajiMUR233/MoreAPIs",
   "labels": [
     "api"
@@ -17,6 +17,7 @@
     "javaproperties>=0.8.0",
     "mcdreforged>=2.1.0",
     "dnspython>=2.1.0",
+    "mcstatus>=6.5.0",
     "parse>=1.18.0"
   ],
   "description": {
