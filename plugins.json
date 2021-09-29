@@ -510,7 +510,7 @@
     "more_apis": {
       "id": "more_apis",
       "name": "More APIs",
-      "version": "2.1.2",
+      "version": "2.2.0-dev",
       "repository": "https://github.com/HuajiMUR233/MoreAPIs",
       "labels": [
         "api"
@@ -519,7 +519,7 @@
         "Huaji_MUR233"
       ],
       "dependencies": {
-        "mcdreforged": ">=2.1.0"
+        "mcdreforged": ">=2.1.4"
       },
       "requirements": [
         "ruamel.yaml>=0.16.12",
