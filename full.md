@@ -160,43 +160,43 @@ Help you manage your carpet fake player
 | [CarpetBotList-v2.1.0.mcdr](https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/tag/v2.1.0) | 2.1.0 | 2021/08/16 11:33:40 | 4.08KB | 1251 | [Download](https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/download/v2.1.0/CarpetBotList-v2.1.0.mcdr) |
 | [CarpetBotList-v2.0.0.mcdr](https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/tag/v2.0.0) | 2.0.0 | 2021/08/12 07:45:32 | 3.6KB | 1254 | [Download](https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/download/v2.0.0/CarpetBotList-v2.0.0.mcdr) |
 
-## chatbridge_client
+## chatbridge
 
 ### Basic Information
 
-- Plugin ID: `chatbridge_client`
-- Plugin Name: ChatBridge Client
-- Version: 1.1.1
-  - Metadata version: 1.1.1
-  - Release version: 1.1.1
-- Total downloads: 2537
+- Plugin ID: `chatbridge`
+- Plugin Name: ChatBridge v2 for MCDR
+- Version: 2.0.0
+  - Metadata version: 2.0.0
+  - Release version: N/A
+- Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/ChatBridge
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: Boardcast chat between mc servers or even discord server
+- Description: Broadcast chats between Minecraft servers and more
 
 ### Dependencies
 
 | Plugin ID | Requirement |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0-beta.10 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.2.0- |
 
 ### Requirements
 
 | Python package | Requirement |
 | --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.2.0 |
 | [pycryptodome](https://pypi.org/project/pycryptodome) |  |
+| [colorlog](https://pypi.org/project/colorlog) |  |
 
 ### Introduction
 
-Shitty written, but it works XD
+Chatbridge v2
 
 ### Download
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [ChatBridgeClient-v1.1.1.mcdr](https://github.com/TISUnion/ChatBridge/releases/tag/v1.1.1) | 1.1.1 | 2021/08/28 09:51:30 | 21.83KB | 1251 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v1.1.1/ChatBridgeClient-v1.1.1.mcdr) |
-| [ChatBridgeClient-v1.1.0.mcdr](https://github.com/TISUnion/ChatBridge/releases/tag/v1.1.0) | 1.1.0 | 2021/08/17 03:58:31 | 21.83KB | 1286 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v1.1.0/ChatBridgeClient-v1.1.0.mcdr) |
 
 ## chatbridgereforged_mc
 
