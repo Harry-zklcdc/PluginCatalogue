@@ -171,7 +171,7 @@
     "daycount_nbt": {
       "id": "daycount_nbt",
       "name": "DayCount NBT",
-      "version": "2.0.2",
+      "version": "2.1.0",
       "repository": "https://github.com/eagle3236/daycount-NBT",
       "labels": [
         "information",
@@ -181,7 +181,7 @@
         "Alex3236"
       ],
       "dependencies": {
-        "mcdreforged": ">=2.0.1"
+        "mcdreforged": ">=2.2.0"
       },
       "requirements": [
         "nbtlib"
@@ -287,7 +287,7 @@
     "join_motd_plus": {
       "id": "join_motd_plus",
       "name": "joinMOTD++",
-      "version": "3.0.0",
+      "version": "3.1.0",
       "repository": "https://github.com/eagle3236/joinMOTD_Plus",
       "labels": [
         "information"
@@ -296,7 +296,7 @@
         "Alex3236"
       ],
       "dependencies": {
-        "mcdreforged": ">=2.0.1"
+        "mcdreforged": ">=2.2.0"
       },
       "requirements": [
         "mcdreforged>=2.0.1",
