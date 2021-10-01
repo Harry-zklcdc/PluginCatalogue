@@ -1,7 +1,26 @@
 {
   "schema_version": 2,
   "id": "chatbridge",
-  "etag": "\"9d53d4410722d268e41ecbf11205cad0c6b3e9b16e5074467e695786cbab7eb8\"",
-  "releases": [],
-  "latest_version": "N/A"
+  "latest_version": "2.0.0",
+  "etag": "\"667e55a5996503a7fc2ba25e6f83b405d27c876aadcc18715f449ac119aeb6aa\"",
+  "releases": [
+    {
+      "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.0.0",
+      "name": "Chatbridge v2.0.0",
+      "tag_name": "v2.0.0",
+      "created_at": "2021-10-01T20:35:18Z",
+      "assets": [
+        {
+          "name": "ChatBridge-v2.0.0.pyz",
+          "size": 38924,
+          "download_count": 0,
+          "created_at": "2021-10-01T20:36:43Z",
+          "browser_download_url": "https://github.com/TISUnion/ChatBridge/releases/download/v2.0.0/ChatBridge-v2.0.0.pyz"
+        }
+      ],
+      "description": "- Totally rewrote the codes, should looks nicer i guess\r\n- Pack everything in a single .pyz file\r\n  - CLI server, CLI client, MCDR plugin, cqhttp/discord/kaiheila bot, online command, in 1 file",
+      "prerelease": false,
+      "parsed_version": "2.0.0"
+    }
+  ]
 }
