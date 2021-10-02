@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "permanent_backup",
   "latest_version": "1.0.3",
-  "etag": "\"5347ccdd8b5bc33dacbd88ce25d15c4545e70ed5813e4a98c271fbef3dad5641\"",
+  "etag": "\"49028a1cc84953b0db9abfb3559527d132b18bd9c20be9608e69b963262b2b3d\"",
   "releases": [
     {
       "url": "https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.3",
@@ -13,7 +13,7 @@
         {
           "name": "PermanentBackup-v1.0.3.mcdr",
           "size": 15811,
-          "download_count": 1298,
+          "download_count": 1299,
           "created_at": "2021-08-17T05:50:35Z",
           "browser_download_url": "https://github.com/MCDReforged/PermanentBackup/releases/download/v1.0.3/PermanentBackup-v1.0.3.mcdr"
         }
@@ -31,7 +31,7 @@
         {
           "name": "PermanentBackup-v1.0.2.mcdr",
           "size": 15915,
-          "download_count": 1255,
+          "download_count": 1256,
           "created_at": "2021-08-17T05:34:54Z",
           "browser_download_url": "https://github.com/MCDReforged/PermanentBackup/releases/download/v1.0.2/PermanentBackup-v1.0.2.mcdr"
         }
@@ -49,7 +49,7 @@
         {
           "name": "PermanentBackup-v1.0.1.mcdr",
           "size": 15876,
-          "download_count": 1255,
+          "download_count": 1256,
           "created_at": "2021-08-16T17:05:01Z",
           "browser_download_url": "https://github.com/MCDReforged/PermanentBackup/releases/download/v1.0.1/PermanentBackup-v1.0.1.mcdr"
         }
