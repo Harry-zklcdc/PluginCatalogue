@@ -15,7 +15,7 @@
 - Authors: [Ricky](https://github.com/rickyhoho)
 - Repository: https://github.com/rickyhoho/ChatBridgeReforged
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custome clients).
+- Description: Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custom clients).
 
 ### Dependencies
 
