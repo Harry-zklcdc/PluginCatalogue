@@ -1,5 +1,5 @@
 {
-  "plugin_amount": 40,
+  "plugin_amount": 41,
   "plugins": {
     "auto_plugin_reloader": {
       "id": "auto_plugin_reloader",
@@ -174,7 +174,7 @@
       "id": "daycount_nbt",
       "name": "DayCount NBT",
       "version": "2.1.0",
-      "repository": "https://github.com/eagle3236/daycount-NBT",
+      "repository": "https://github.com/alex3236/daycount-NBT",
       "labels": [
         "information",
         "api"
@@ -227,6 +227,29 @@
       "dependencies": {},
       "requirements": [],
       "description": {}
+    },
+    "faster_transfer": {
+      "id": "faster_transfer",
+      "name": "Faster Transfer",
+      "version": "0.1.0",
+      "repository": "https://github.com/alex3236/FasterTransfer",
+      "labels": [
+        "tool",
+        "api"
+      ],
+      "authors": [
+        "Alex3236"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.2.0"
+      },
+      "requirements": [
+        "speedcopy"
+      ],
+      "description": {
+        "en_us": ":rocket: Make web? file transfers faster!",
+        "zh_cn": ":rocket: 让任何 MCDR 插件的网络文件传输更迅速！"
+      }
     },
     "here": {
       "id": "here",
@@ -290,7 +313,7 @@
       "id": "join_motd_plus",
       "name": "joinMOTD++",
       "version": "3.1.0",
-      "repository": "https://github.com/eagle3236/joinMOTD_Plus",
+      "repository": "https://github.com/alex3236/joinMOTD_Plus",
       "labels": [
         "information"
       ],
