@@ -189,8 +189,8 @@
         "nbtlib"
       ],
       "description": {
-        "en_us": "Get and export server opening times.",
-        "zh_cn": "获取和输出服务器开服时间。"
+        "en_us": ":calendar: Get and export server opening times.",
+        "zh_cn": ":calendar: 获取和输出服务器开服时间。"
       }
     },
     "daytime": {
@@ -305,8 +305,8 @@
         "requests"
       ],
       "description": {
-        "en_us": "Display content when players join the server. (with many useful features)",
-        "zh_cn": "在玩家进入服务器时展示内容。（特色功能++）"
+        "en_us": ":rocket: Display content when players join the server. (with many useful features)",
+        "zh_cn": ":rocket: 在玩家进入服务器时展示内容。（特色功能++）"
       }
     },
     "lazytp": {
