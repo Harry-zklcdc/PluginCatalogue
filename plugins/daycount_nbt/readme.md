@@ -12,8 +12,8 @@
   - Metadata version: 2.1.0
   - Release version: 2.1
 - Total downloads: 3685
-- Authors: [Alex3236](https://github.com/eagle3236)
-- Repository: https://github.com/eagle3236/daycount-NBT
+- Authors: [Alex3236](https://github.com/alex3236)
+- Repository: https://github.com/alex3236/daycount-NBT
 - Labels: [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md)
 - Description: :calendar: Get and export server opening times.
 

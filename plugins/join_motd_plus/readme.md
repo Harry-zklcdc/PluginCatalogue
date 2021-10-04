@@ -12,8 +12,8 @@
   - Metadata version: 3.1.0
   - Release version: 3.1
 - Total downloads: 2601
-- Authors: [Alex3236](https://github.com/eagle3236)
-- Repository: https://github.com/eagle3236/joinMOTD_Plus
+- Authors: [Alex3236](https://github.com/alex3236)
+- Repository: https://github.com/alex3236/joinMOTD_Plus
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: :rocket: Display content when players join the server. (with many useful features)
 

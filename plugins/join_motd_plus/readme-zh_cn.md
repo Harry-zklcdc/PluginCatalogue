@@ -12,8 +12,8 @@
   - 元数据版本: 3.1.0
   - 发布版本: 3.1
 - 总下载量: 2601
-- 作者: [Alex3236](https://github.com/eagle3236)
-- 仓库: https://github.com/eagle3236/joinMOTD_Plus
+- 作者: [Alex3236](https://github.com/alex3236)
+- 仓库: https://github.com/alex3236/joinMOTD_Plus
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: :rocket: 在玩家进入服务器时展示内容。（特色功能++）
 

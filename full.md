@@ -336,8 +336,8 @@ Reforged of ChatBridge, interaction with other clients(such as minecraft server,
   - Metadata version: 2.1.0
   - Release version: 2.1
 - Total downloads: 3685
-- Authors: [Alex3236](https://github.com/eagle3236)
-- Repository: https://github.com/eagle3236/daycount-NBT
+- Authors: [Alex3236](https://github.com/alex3236)
+- Repository: https://github.com/alex3236/daycount-NBT
 - Labels: [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md)
 - Description: :calendar: Get and export server opening times.
 
@@ -438,6 +438,44 @@ Show time in Minecraft
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
+
+## faster_transfer
+
+### Basic Information
+
+- Plugin ID: `faster_transfer`
+- Plugin Name: Faster Transfer
+- Version: 0.1
+  - Metadata version: 0.1.0
+  - Release version: 0.1
+- Total downloads: 0
+- Authors: [Alex3236](https://github.com/alex3236)
+- Repository: https://github.com/alex3236/FasterTransfer
+- Labels: [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md)
+- Description: :rocket: Make web? file transfers faster!
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.2.0 |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+| [speedcopy](https://pypi.org/project/speedcopy) |  |
+
+### Introduction
+
+Make file transfers faster!
+
+:warning: **Read README in repository before use!**
+### Download
+
+| File | Version | Date | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
+| [FasterTransfer-v0.1.0.mcdr](https://github.com/alex3236/FasterTransfer/releases/tag/v0.1) | 0.1 | 2021/10/04 07:59:17 | 935B | 0 | [Download](https://github.com/alex3236/FasterTransfer/releases/download/v0.1/FasterTransfer-v0.1.0.mcdr) |
 
 ## here
 
@@ -587,8 +625,8 @@ Show time in Minecraft
   - Metadata version: 3.1.0
   - Release version: 3.1
 - Total downloads: 2601
-- Authors: [Alex3236](https://github.com/eagle3236)
-- Repository: https://github.com/eagle3236/joinMOTD_Plus
+- Authors: [Alex3236](https://github.com/alex3236)
+- Repository: https://github.com/alex3236/joinMOTD_Plus
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: :rocket: Display content when players join the server. (with many useful features)
 

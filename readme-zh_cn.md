@@ -13,7 +13,7 @@
 
 -------
 
-插件数量: 40
+插件数量: 41
 
 | 插件名 | 作者 | 描述 | 标签 |
 | --- | --- | --- | --- |
@@ -25,13 +25,14 @@
 | [ChatBridgeReforged_MC](/plugins/chatbridgereforged_mc/readme-zh_cn.md) | [Ricky](https://github.com/rickyhoho) | ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的交互桥梁，多服互联（不是） | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [ColoredChat](/plugins/colored_chat/readme-zh_cn.md) | [zhang_anzhi](https://github.com/zhang-anzhi) | 支持原版显示格式化代码 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Crash Restart](/plugins/crash_restart/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 在服务端崩溃后自动重启服务器的插件 | [`工具`](/labels/tool/readme-zh_cn.md) |
-| [DayCount NBT](/plugins/daycount_nbt/readme-zh_cn.md) | [Alex3236](https://github.com/eagle3236) | :calendar: 获取和输出服务器开服时间。 | [`信息`](/labels/information/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
+| [DayCount NBT](/plugins/daycount_nbt/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | :calendar: 获取和输出服务器开服时间。 | [`信息`](/labels/information/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 | [Daytime](/plugins/daytime/readme-zh_cn.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | 显示游戏中的时间 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Diamond Calculator](/plugins/diamond_calc/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | *无* | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [Faster Transfer](/plugins/faster_transfer/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | :rocket: 让任何 MCDR 插件的网络文件传输更迅速！ | [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 | [Here](/plugins/here/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | 显示坐标并高亮玩家 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [Info](/plugins/info/readme-zh_cn.md) | [zhang_anzhi](https://github.com/zhang-anzhi) | 获取服务器信息 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [Join MOTD](/plugins/join_motd/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 当玩家加入游戏时向其发送欢迎信息 | [`信息`](/labels/information/readme-zh_cn.md) |
-| [joinMOTD++](/plugins/join_motd_plus/readme-zh_cn.md) | [Alex3236](https://github.com/eagle3236) | :rocket: 在玩家进入服务器时展示内容。（特色功能++） | [`信息`](/labels/information/readme-zh_cn.md) |
+| [joinMOTD++](/plugins/join_motd_plus/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | :rocket: 在玩家进入服务器时展示内容。（特色功能++） | [`信息`](/labels/information/readme-zh_cn.md) |
 | [Lazy Teleport](/plugins/lazytp/readme-zh_cn.md) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | 维度间的快速折跃通道 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Lite File Manager](/plugins/lite_file_manager/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个轻量级的游戏内文件管理器 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Location Marker](/plugins/location_marker/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya) | 一个服务端共享路标点管理器 | [`信息`](/labels/information/readme-zh_cn.md) |

@@ -13,7 +13,7 @@ Full plugin information document [here](./full.md)
 
 -------
 
-Plugin Amount: 40
+Plugin Amount: 41
 
 | Plugin Name | Authors | Description | Labels |
 | --- | --- | --- | --- |
@@ -25,13 +25,14 @@ Plugin Amount: 40
 | [ChatBridgeReforged_MC](/plugins/chatbridgereforged_mc/readme.md) | [Ricky](https://github.com/rickyhoho) | Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custom clients). | [`Tool`](/labels/tool/readme.md) |
 | [ColoredChat](/plugins/colored_chat/readme.md) | [zhang_anzhi](https://github.com/zhang-anzhi) | Support formatting codes for vanilla | [`Tool`](/labels/tool/readme.md) |
 | [Crash Restart](/plugins/crash_restart/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Automatically restart the server after the server crashed | [`Tool`](/labels/tool/readme.md) |
-| [DayCount NBT](/plugins/daycount_nbt/readme.md) | [Alex3236](https://github.com/eagle3236) | :calendar: Get and export server opening times. | [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md) |
+| [DayCount NBT](/plugins/daycount_nbt/readme.md) | [Alex3236](https://github.com/alex3236) | :calendar: Get and export server opening times. | [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md) |
 | [Daytime](/plugins/daytime/readme.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | show time in minecraft | [`Tool`](/labels/tool/readme.md) |
 | [Diamond Calculator](/plugins/diamond_calc/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | *None* | [`Tool`](/labels/tool/readme.md) |
+| [Faster Transfer](/plugins/faster_transfer/readme.md) | [Alex3236](https://github.com/alex3236) | :rocket: Make web? file transfers faster! | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
 | [Here](/plugins/here/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | Broadcast your position and high light yourself | [`Information`](/labels/information/readme.md) |
 | [Info](/plugins/info/readme.md) | [zhang_anzhi](https://github.com/zhang-anzhi) | Get server info | [`Information`](/labels/information/readme.md) |
 | [Join MOTD](/plugins/join_motd/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Send player a MOTD when he joins | [`Information`](/labels/information/readme.md) |
-| [joinMOTD++](/plugins/join_motd_plus/readme.md) | [Alex3236](https://github.com/eagle3236) | :rocket: Display content when players join the server. (with many useful features) | [`Information`](/labels/information/readme.md) |
+| [joinMOTD++](/plugins/join_motd_plus/readme.md) | [Alex3236](https://github.com/alex3236) | :rocket: Display content when players join the server. (with many useful features) | [`Information`](/labels/information/readme.md) |
 | [Lazy Teleport](/plugins/lazytp/readme.md) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | A express gateway between each dimensions | [`Tool`](/labels/tool/readme.md) |
 | [Lite File Manager](/plugins/lite_file_manager/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A lite-weight in-game file manager | [`Management`](/labels/management/readme.md) |
 | [Location Marker](/plugins/location_marker/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya) | A server side waypoint manager | [`Information`](/labels/information/readme.md) |

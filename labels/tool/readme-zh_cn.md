@@ -6,7 +6,7 @@
 
 具有标签 `工具` 的插件的索引
 
-插件数量: 21
+插件数量: 22
 
 | 插件名 | 作者 | 描述 | 标签 |
 | --- | --- | --- | --- |
@@ -19,6 +19,7 @@
 | [Crash Restart](/plugins/crash_restart/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 在服务端崩溃后自动重启服务器的插件 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Daytime](/plugins/daytime/readme-zh_cn.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | 显示游戏中的时间 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Diamond Calculator](/plugins/diamond_calc/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | *无* | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [Faster Transfer](/plugins/faster_transfer/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | :rocket: 让任何 MCDR 插件的网络文件传输更迅速！ | [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 | [Lazy Teleport](/plugins/lazytp/readme-zh_cn.md) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | 维度间的快速折跃通道 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Seen](/plugins/mcd_seen/readme-zh_cn.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | Show laziness rank easily | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Task](/plugins/mcd_task/readme-zh_cn.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | A plugin to show tasks of project in progress | [`工具`](/labels/tool/readme-zh_cn.md) |
