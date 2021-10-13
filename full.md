@@ -487,7 +487,7 @@ Make file transfers faster!
 - Version: 1.2.1
   - Metadata version: 1.2.1
   - Release version: 1.2.1
-- Total downloads: 5416
+- Total downloads: 5417
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/TISUnion/Here
 - Labels: [`Information`](/labels/information/readme.md)
@@ -511,7 +511,7 @@ Make file transfers faster!
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Here-v1.2.1.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.1) | 1.2.1 | 2021/09/01 15:21:46 | 15.69KB | 1423 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.1/Here-v1.2.1.mcdr) |
+| [Here-v1.2.1.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.1) | 1.2.1 | 2021/09/01 15:21:46 | 15.69KB | 1424 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.1/Here-v1.2.1.mcdr) |
 | [Here-v1.2.0.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.0) | 1.2.0 | 2021/08/27 05:30:36 | 15.38KB | 1318 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.0/Here-v1.2.0.mcdr) |
 | [Here-v1.1.2.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.1.2) | 1.1.2 | 2021/08/16 17:12:55 | 14.52KB | 1360 | [Download](https://github.com/TISUnion/Here/releases/download/v1.1.2/Here-v1.1.2.mcdr) |
 
@@ -1257,7 +1257,7 @@ Features:
 - Version: 1.5.0
   - Metadata version: 1.5.0
   - Release version: 1.5.0
-- Total downloads: 1533
+- Total downloads: 1534
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/RegionFileUpdater
 - Labels: [`Management`](/labels/management/readme.md)
@@ -1282,7 +1282,7 @@ Features:
 
 | File | Version | Date | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [RegionfileUpdater-v1.5.0.mcdr](https://github.com/TISUnion/RegionFileUpdater/releases/tag/v1.5.0) | 1.5.0 | 2021/09/26 17:59:10 | 15.6KB | 214 | [Download](https://github.com/TISUnion/RegionFileUpdater/releases/download/v1.5.0/RegionfileUpdater-v1.5.0.mcdr) |
+| [RegionfileUpdater-v1.5.0.mcdr](https://github.com/TISUnion/RegionFileUpdater/releases/tag/v1.5.0) | 1.5.0 | 2021/09/26 17:59:10 | 15.6KB | 215 | [Download](https://github.com/TISUnion/RegionFileUpdater/releases/download/v1.5.0/RegionfileUpdater-v1.5.0.mcdr) |
 | [RegionfileUpdater-v1.4.1.mcdr](https://github.com/TISUnion/RegionFileUpdater/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:03:12 | 15.53KB | 1319 | [Download](https://github.com/TISUnion/RegionFileUpdater/releases/download/v1.4.1/RegionfileUpdater-v1.4.1.mcdr) |
 
 ## renewability
